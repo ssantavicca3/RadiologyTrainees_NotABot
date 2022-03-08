@@ -1,0 +1,7 @@
+{'address': '4650 Sunset Blvd, Los Angeles, CA', 'name': 'Dr. Paul J. Iskander', 'degree': 'MD', 'city': 'Los Angeles, CA', 'gender': 'Male', 'radiologist_id': '/doctors/paul-iskander-690045'}
+{'address': 'Renaissance Imaging Medical Associates, Northridge, CA', 'name': 'Dr. Ryan P. Cramer', 'degree': 'MD', 'city': 'Northridge, CA', 'gender': 'Male', 'radiologist_id': '/doctors/ryan-cramer-706967'}
+{'address': 'Renaissance Imaging Medical Associates, Northridge, CA', 'name': 'Dr. Ryan P. Cramer', 'degree': 'MD', 'city': 'Northridge, CA', 'gender': 'Male', 'radiologist_id': '/doctors/ryan-cramer-706967'}
+{'address': '1325 Eastmoreland Avenue Suite 545, Memphis, TN', 'name': 'Dr. George S. Flinn', 'degree': 'MD', 'city': 'Memphis, TN', 'gender': 'Male', 'radiologist_id': '/doctors/george-flinn-348765'}
+{'address': "St. Jude Children's Research Hospital, Memphis, TN", 'name': 'Dr. David E. Buechner', 'degree': 'MD', 'city': 'Memphis, TN', 'gender': 'Male', 'radiologist_id': '/doctors/david-buechner-124263'}
+{'address': '7600 Wolf River Blvd, Germantown, TN', 'name': 'Dr. Jonathan R. Berger', 'degree': 'MD', 'city': 'Germantown, TN', 'gender': 'Male', 'radiologist_id': '/doctors/jonathan-berger-734935'}
+{'address': '7600 Wolf River Blvd, Germantown, TN', 'name': 'Dr. Jonathan R. Berger', 'degree': 'MD', 'city': 'Germantown, TN', 'gender': 'Male', 'radiologist_id': '/doctors/jonathan-berger-734935'}

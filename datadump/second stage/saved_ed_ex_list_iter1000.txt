@@ -1,0 +1,3 @@
+{'address': '4650 Sunset Blvd, Los Angeles, CA', 'name': 'Dr. Paul J. Iskander', 'degree': 'MD', 'city': 'Los Angeles, CA', 'gender': 'Male', 'radiologist_id': '/doctors/paul-iskander-690045'}
+{'address': 'Renaissance Imaging Medical Associates, Northridge, CA', 'name': 'Dr. Ryan P. Cramer', 'degree': 'MD', 'city': 'Northridge, CA', 'gender': 'Male', 'radiologist_id': '/doctors/ryan-cramer-706967'}
+{'address': 'Renaissance Imaging Medical Associates, Northridge, CA', 'name': 'Dr. Ryan P. Cramer', 'degree': 'MD', 'city': 'Northridge, CA', 'gender': 'Male', 'radiologist_id': '/doctors/ryan-cramer-706967'}
