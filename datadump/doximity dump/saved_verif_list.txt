@@ -1,0 +1,1200 @@
+{'NPI': 1003002148, 'url': 'https://www.doximity.com/pub/justin-owens-md', 'full_name': 'JustinMichaelOwensMD', 'first_name': 'Justin', 'last_name': 'Owens', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Lafayette, LA', 'job_title': 'Physician\n', 'st_address': '1214 Coolidge Street', 'zip': '70503', 'st_address_full': '1214 Coolidge StreetLafayette, LA 70503', 'phone_num': '(337) 289-7991', 'idx_scraper_list': 0}
+{'NPI': 1003002783, 'url': 'https://www.doximity.com/pub/matthew-hartman-md', 'full_name': 'MatthewEdwardHartmanMDPhD', 'first_name': 'Matthew', 'last_name': 'Hartman', 'credentials': 'MD', 'specialty': 'Cardiology', 'city_state': 'Seattle, WA', 'job_title': 'Physician\n', 'st_address': '550 17th Ave Ste 680', 'zip': '98122', 'st_address_full': '550 17th AveSte 680Seattle, WA 98122', 'phone_num': '(206) 215-4545', 'idx_scraper_list': 1}
+{'NPI': 1003002809, 'url': 'https://www.doximity.com/pub/vincent-graziano-md', 'full_name': 'VincentAngeloGrazianoMD', 'first_name': 'Vincent', 'last_name': 'Graziano', 'credentials': 'MD', 'specialty': 'Nephrology', 'city_state': 'Wayne, NJ', 'job_title': 'Physician\n', 'st_address': '246 Hamburg Tpke Suite 207', 'zip': '07470', 'st_address_full': '246 Hamburg TpkeSuite 207Wayne, NJ 07470', 'phone_num': '(973) 653-3366', 'idx_scraper_list': 2}
+{'NPI': 1003006636, 'url': 'https://www.doximity.com/pub/saba-hasan-md', 'full_name': 'SabaHasanMDFACP', 'first_name': 'Saba', 'last_name': 'Hasan', 'credentials': 'MD', 'specialty': 'Internal Medicine', 'city_state': 'Trenton, NJ', 'job_title': 'Director, Internal Medicine Residency Program, Capital Health', 'st_address': '446 Bellevue Ave', 'zip': '08618', 'st_address_full': '446 Bellevue AveTrenton, NJ 08618', 'phone_num': '(609) 394-6031', 'idx_scraper_list': 3}
+{'NPI': 1003008517, 'url': 'https://www.doximity.com/pub/daniel-mendez-md', 'full_name': 'DanielLMendezMD', 'first_name': 'Daniel', 'last_name': 'Mendez', 'credentials': 'MD', 'specialty': 'Physical Medicine/Rehab', 'city_state': 'Liverpool, NY', 'subspecialty': 'Pain Medicine, Sports Medicine (Non-Surgical)', 'job_title': 'Physician\n', 'st_address': '7449 Morgan Rd', 'zip': '13090', 'st_address_full': '7449 Morgan RdLiverpool, NY 13090', 'phone_num': '(315) 451-5400', 'idx_scraper_list': 4}
+{'NPI': 1003011933, 'url': 'https://www.doximity.com/pub/patrick-hurley-md', 'full_name': 'PatrickMichaelHurleyMD', 'first_name': 'Patrick', 'last_name': 'Hurley', 'credentials': 'MD', 'specialty': 'Urology', 'city_state': 'Farmington, MI', 'job_title': 'Physician\n', 'st_address': '32255 Northwestern Hwy Ste 105', 'zip': '48334', 'st_address_full': '32255 Northwestern HwySte 105Farmington, MI 48334', 'phone_num': '(248) 406-1089', 'idx_scraper_list': 5}
+{'NPI': 1003012444, 'url': 'https://www.doximity.com/pub/andrew-picel-md', 'full_name': 'AndrewCharlesPicelMD', 'first_name': 'Andrew', 'last_name': 'Picel', 'credentials': 'MD', 'specialty': 'Interventional Radiology', 'city_state': 'Stanford, CA', 'job_title': 'Physician\n', 'st_address': 'Stanford Radiology Dept 300 Pasteur Dr Rm H1330C', 'zip': '94305', 'st_address_full': 'Stanford Radiology Dept300 Pasteur Dr Rm H1330CStanford, CA 94305', 'phone_num': '(650) 723-8406', 'idx_scraper_list': 6}
+{'NPI': 1003013020, 'url': 'https://www.doximity.com/pub/norna-karp-md', 'full_name': 'NornaKarpMD', 'first_name': 'Norna', 'last_name': 'Karp', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Palo Alto, CA', 'subspecialty': "Breast Imaging, Women's Imaging", 'job_title': 'Radiologist', 'st_address': '2581 Samaritan Dr. 100', 'zip': '94301', 'st_address_full': '2581 Samaritan Dr.100Palo Alto, CA 94301', 'phone_num': '(503) 731-2900', 'idx_scraper_list': 7}
+{'NPI': 1003013129, 'url': 'https://www.doximity.com/pub/david-sheehan-md', 'full_name': 'DavidVSheehanMD', 'first_name': 'David', 'last_name': 'Sheehan', 'credentials': 'MD', 'specialty': 'Psychiatry', 'city_state': 'Lutz, FL', 'job_title': 'Distinguished University Health Professor Emeritus, University of South Florida College of Medicine', 'st_address': '611 Warren Rd, Lutz, FL 33548', 'zip': '33548', 'st_address_full': '611 Warren Rd, Lutz, FL 33548Lutz, FL 33548', 'idx_scraper_list': 8}
+{'NPI': 1003013830, 'url': 'https://www.doximity.com/pub/robert-burman-md', 'full_name': 'RobertWardBurmanMD', 'first_name': 'Robert', 'last_name': 'Burman', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Littleton, CO', 'job_title': 'Physician\n', 'st_address': '10240 Park Meadows Dr', 'zip': '80124', 'st_address_full': '10240 Park Meadows DrLittleton, CO 80124', 'phone_num': '(303) 471-7700', 'idx_scraper_list': 9}
+{'NPI': 1003013848, 'url': 'https://www.doximity.com/pub/kevin-sawyer-md', 'full_name': 'KevinJamesSawyerMD', 'first_name': 'Kevin', 'last_name': 'Sawyer', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Lakeland, FL', 'subspecialty': 'Abdominal Imaging, Nuclear Radiology', 'job_title': 'Physician\n', 'st_address': '1305 Lakeland Hills Blvd', 'zip': '33805', 'st_address_full': '1305 Lakeland Hills BlvdLakeland, FL 33805', 'phone_num': '(863) 688-2334', 'idx_scraper_list': 10}
+{'NPI': 1003014473, 'url': 'https://www.doximity.com/pub/rakesh-barak-md', 'full_name': 'RakeshBarakMD', 'first_name': 'Rakesh', 'last_name': 'Barak', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Reading, PA', 'subspecialty': 'Neuroradiology, Nuclear Radiology', 'job_title': 'Neuroradiologist', 'st_address': '2500 Bernville Rd', 'zip': '19605', 'st_address_full': '2500 Bernville RdReading, PA 19605', 'phone_num': '(610) 373-0165', 'idx_scraper_list': 11}
+{'NPI': 1003015553, 'url': 'https://www.doximity.com/pub/michael-fishman-md', 'idx_scraper_list': 12}
+{'NPI': 1003018276, 'url': 'https://www.doximity.com/pub/steven-reiman-md', 'full_name': 'StevenRobertReimanMD', 'first_name': 'Steven', 'last_name': 'Reiman', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Plano, TX', 'job_title': 'Physician\n', 'st_address': '4708 Alliance Blvd Ste 150', 'zip': '75093', 'st_address_full': '4708 Alliance BlvdSte 150Plano, TX 75093', 'phone_num': '(972) 596-6800', 'idx_scraper_list': 13}
+{'NPI': 1003018342, 'url': 'https://www.doximity.com/pub/brian-moon-md', 'full_name': 'BrianWMoonMD', 'first_name': 'Brian', 'last_name': 'Moon', 'credentials': 'MD', 'specialty': 'Anesthesiology', 'city_state': 'Redding, CA', 'job_title': 'Physician\n', 'st_address': '2175 Rosaline Ave', 'zip': '96001', 'st_address_full': '2175 Rosaline AveRedding, CA 96001', 'idx_scraper_list': 14}
+{'NPI': 1003018870, 'url': 'https://www.doximity.com/pub/garrett-colby-md', 'full_name': 'GarrettColbyMD', 'first_name': 'Garrett', 'last_name': 'Colby', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Birmingham, AL', 'subspecialty': 'Bone Imaging/Musculoskeletal', 'job_title': 'Physician\n', 'st_address': '100 Pilot Medical Dr', 'zip': '35235', 'st_address_full': '100 Pilot Medical DrBirmingham, AL 35235', 'phone_num': '(205) 871-4274', 'idx_scraper_list': 15}
+{'NPI': 1003019654, 'url': 'https://www.doximity.com/pub/evan-sirc-md', 'full_name': 'EvanMSircMD', 'first_name': 'Evan', 'last_name': 'Sirc', 'credentials': 'MD', 'specialty': 'Nuclear Medicine', 'city_state': 'Walnut Creek, CA', 'job_title': 'Physician\n', 'st_address': '1601 Ygnacio Valley Rd', 'zip': '94598', 'st_address_full': '1601 Ygnacio Valley RdWalnut Creek, CA 94598', 'phone_num': '(925) 939-3000', 'idx_scraper_list': 16}
+{'NPI': 1003021783, 'url': 'https://www.doximity.com/pub/john-texada-md', 'full_name': 'JohnCTexadaMD', 'first_name': 'John', 'last_name': 'Texada', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Knoxville, TN', 'job_title': 'Physician\n', 'st_address': '2001 Laurel Ave Ste 502', 'zip': '37916', 'st_address_full': '2001 Laurel AveSte 502Knoxville, TN 37916', 'phone_num': '(865) 595-4100', 'idx_scraper_list': 17}
+{'NPI': 1003021791, 'url': 'https://www.doximity.com/pub/ankit-patel-md', 'full_name': 'AnkitMPatelMD', 'first_name': 'Ankit', 'last_name': 'Patel', 'credentials': 'MD', 'specialty': 'Otolaryngology (ENT)', 'city_state': 'Joliet, IL', 'job_title': 'Physician\n', 'st_address': '2201 Glenwood Ave.', 'zip': '60435', 'st_address_full': '2201 Glenwood Ave.Joliet, IL 60435', 'phone_num': '(815) 725-1191', 'idx_scraper_list': 18}
+{'NPI': 1003024191, 'url': 'https://www.doximity.com/pub/srinivas-peddi-md', 'full_name': 'SrinivasPeddiMD', 'first_name': 'Srinivas', 'last_name': 'Peddi', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Santa Monica, CA', 'subspecialty': 'Bone Imaging/Musculoskeletal, Neuroradiology', 'job_title': 'Tower Imaging Medical Group', 'st_address': '2202 Wilshire Blvd', 'zip': '90403', 'st_address_full': '2202 Wilshire BlvdSanta Monica, CA 90403', 'phone_num': '(310) 264-9000', 'idx_scraper_list': 19}
+{'NPI': 1003026212, 'url': 'https://www.doximity.com/pub/galon-morgan-md', 'full_name': 'GalonCoryMorganMD', 'first_name': 'Galon', 'last_name': 'Morgan', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Plano, TX', 'job_title': 'Physician\n', 'st_address': '3901 W 15th St', 'zip': '75075', 'st_address_full': '3901 W 15th StPlano, TX 75075', 'phone_num': '(972) 596-6800', 'idx_scraper_list': 20}
+{'NPI': 1003026295, 'url': 'https://www.doximity.com/pub/jeremy-thacker-md', 'full_name': 'JeremyWayneThackerMD', 'first_name': 'Jeremy', 'last_name': 'Thacker', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Lexington, KY', 'job_title': 'Assistant Professor, Radiology, University of Kentucky College of Medicine', 'st_address': '800 Rose St Hx-302 Ukmc', 'zip': '40536', 'st_address_full': '800 Rose StHx-302 UkmcLexington, KY 40536', 'phone_num': '(859) 257-4457', 'idx_scraper_list': 21}
+{'NPI': 1003026329, 'url': 'https://www.doximity.com/pub/rishi-razdan-md', 'full_name': 'RishiNormanRazdanMD', 'first_name': 'Rishi', 'last_name': 'Razdan', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Jacksonville, FL', 'subspecialty': 'Interventional Neuroradiology, Vascular & Interventional Radiology', 'job_title': 'Medical Director', 'st_address': '2416 Dunn Ave', 'zip': '32218', 'st_address_full': '2416 Dunn AveJacksonville, FL 32218', 'idx_scraper_list': 22}
+{'NPI': 1003027285, 'url': 'https://www.doximity.com/pub/nishant-de-quadros-md', 'full_name': 'NishantMichaelDe QuadrosMD', 'first_name': 'Nishant', 'last_name': 'De Quadros', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Columbus, GA', 'subspecialty': 'Interventional Neuroradiology, Vascular & Interventional Radiology', 'job_title': 'Physician\n', 'st_address': '710 Center St The Medical Center', 'zip': '31901', 'st_address_full': '710 Center StThe Medical CenterColumbus, GA 31901', 'phone_num': '(706) 501-1000', 'idx_scraper_list': 23}
+{'NPI': 1003027376, 'url': 'https://www.doximity.com/pub/anthony-junck-md', 'full_name': 'AnthonyDavidJunckMD', 'first_name': 'Anthony', 'last_name': 'Junck', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Pensacola, FL', 'job_title': 'radiologist', 'st_address': '5151 N 9th Ave', 'zip': '32504', 'st_address_full': '5151 N 9th AvePensacola, FL 32504', 'phone_num': '(850) 476-8602', 'idx_scraper_list': 24}
+{'NPI': 1003027533, 'url': 'https://www.doximity.com/pub/kelly-roberts-md', 'full_name': 'KellyAnnRobertsMDFAAFP', 'first_name': 'Kelly', 'last_name': 'Roberts', 'credentials': 'MD', 'specialty': 'Family Medicine', 'city_state': 'Bronson, FL', 'job_title': 'Physician\n', 'st_address': '445 Ishie Ave', 'zip': '32621', 'st_address_full': '445 Ishie AveBronson, FL 32621', 'phone_num': '(352) 565-5990', 'idx_scraper_list': 25}
+{'NPI': 1003027533, 'url': 'https://www.doximity.com/pub/kelly-starkey-md', 'idx_scraper_list': 26}
+{'NPI': 1003029620, 'url': 'https://www.doximity.com/pub/alfred-shilling-md', 'full_name': 'AlfredTannerShillingMD', 'first_name': 'Alfred', 'last_name': 'Shilling', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Roanoke, VA', 'subspecialty': 'Interventional Neuroradiology, Vascular & Interventional Radiology', 'job_title': 'Physician\n', 'st_address': '1906 Belleview Ave', 'zip': '24014', 'st_address_full': '1906 Belleview AveRoanoke, VA 24014', 'idx_scraper_list': 27}
+{'NPI': 1003034810, 'url': 'https://www.doximity.com/pub/jim-schwaiger-md', 'full_name': 'JimSchwaigerMD', 'first_name': 'Jim', 'last_name': 'Schwaiger', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Huron, SD', 'job_title': 'Huron Regional Medical Center', 'st_address': '111 4th St SE', 'zip': '57350', 'st_address_full': '111 4th St SEHuron, SD 57350', 'phone_num': '(605) 353-6209', 'idx_scraper_list': 28}
+{'NPI': 1003035353, 'url': 'https://www.doximity.com/pub/joel-stein-md', 'full_name': 'JoelSteinMD', 'first_name': 'Joel', 'last_name': 'Stein', 'credentials': 'MD', 'specialty': 'Physical Medicine/Rehab', 'city_state': 'New York, NY', 'job_title': 'Rehabilitation and Regenerative Medicine, Columbia University', 'st_address': '180 Fort Washington Avenue Harkness Pavilion Room HP-1-165', 'zip': '10032', 'st_address_full': '180 Fort Washington AvenueHarkness Pavilion Room HP-1-165New York, NY 10032', 'phone_num': '(212) 305-4818', 'idx_scraper_list': 29}
+{'NPI': 1003038746, 'url': 'https://www.doximity.com/pub/adam-taves-md', 'full_name': 'AdamWinstonTavesMD', 'first_name': 'Adam', 'last_name': 'Taves', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Quincy, IL', 'job_title': 'Physician\n', 'st_address': '1025 Maine St', 'zip': '62301', 'st_address_full': '1025 Maine StQuincy, IL 62301', 'phone_num': '(217) 222-6550', 'idx_scraper_list': 30}
+{'NPI': 1003038860, 'url': 'https://www.doximity.com/pub/amin-matin-md', 'full_name': 'AminMatinMD', 'first_name': 'Amin', 'last_name': 'Matin', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Sacramento, CA', 'job_title': 'Physician\n', 'st_address': '2700 Gateway Oaks Dr Ste 1200', 'zip': '95833', 'st_address_full': '2700 Gateway Oaks DrSte 1200Sacramento, CA 95833', 'idx_scraper_list': 31}
+{'NPI': 1003041088, 'url': 'https://www.doximity.com/pub/ankur-gupta-md', 'full_name': 'AnkurVedGuptaMD', 'first_name': 'Ankur', 'last_name': 'Gupta', 'credentials': 'MD', 'specialty': 'Cardiology', 'city_state': 'Visalia, CA', 'subspecialty': 'Interventional Cardiology, Vascular Medicine', 'job_title': 'Physician\n', 'st_address': '400 W Mineral King Ave', 'zip': '93291', 'st_address_full': '400 W Mineral King AveVisalia, CA 93291', 'phone_num': '(559) 624-2000', 'idx_scraper_list': 32}
+{'NPI': 1003041930, 'url': 'https://www.doximity.com/pub/brian-baigorri-md', 'full_name': 'BrianFaustinoBaigorriMD', 'first_name': 'Brian', 'last_name': 'Baigorri', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Miami, FL', 'subspecialty': 'Interventional Neuroradiology, Vascular & Interventional Radiology', 'job_title': 'Interventional Radiologist', 'st_address': '3663 S Miami Ave', 'zip': '33133', 'st_address_full': '3663 S Miami AveMiami, FL 33133', 'phone_num': '(305) 854-4400', 'idx_scraper_list': 33}
+{'NPI': 1003042730, 'url': 'https://www.doximity.com/pub/kimberly-smith-md', 'full_name': 'KimberlyRSmithMD', 'first_name': 'Kimberly', 'last_name': 'Smith', 'credentials': 'MD', 'specialty': 'Internal Medicine', 'city_state': 'New Iberia, LA', 'subspecialty': 'Preventive Medicine, Endocrinology, Obesity and Weight Management (Primary Care)', 'job_title': 'Physician/owner', 'st_address': '520 N Lewis St Suite 100', 'zip': '70563', 'st_address_full': '520 N Lewis StSuite 100New Iberia, LA 70563', 'phone_num': '(337) 367-8220', 'idx_scraper_list': 34}
+{'NPI': 1003042912, 'url': 'https://www.doximity.com/pub/minh-luu-md', 'full_name': 'MinhT.LuuMD', 'first_name': 'Minh', 'last_name': 'Luu', 'credentials': 'MD', 'specialty': 'Internal Medicine', 'city_state': 'Everett, WA', 'subspecialty': 'Hospital Medicine/Hospitalist', 'job_title': 'Physician\n', 'st_address': '1321 Colby Ave', 'zip': '98201', 'st_address_full': '1321 Colby AveEverett, WA 98201', 'phone_num': '(206) 448-6561', 'idx_scraper_list': 35}
+{'NPI': 1003042912, 'url': 'https://www.doximity.com/pub/minhtriet-luu-md', 'idx_scraper_list': 36}
+{'NPI': 1003042920, 'url': 'https://www.doximity.com/pub/chiemezie-amadi-md', 'full_name': 'ChiemezieChianotuAmadiMD', 'first_name': 'Chiemezie', 'last_name': 'Amadi', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Columbus, OH', 'job_title': 'Physician\n', 'st_address': '395 W. 12th Avenue 4th floor', 'zip': '43210', 'st_address_full': '395 W. 12th Avenue4th floorColumbus, OH 43210', 'idx_scraper_list': 37}
+{'NPI': 1003043837, 'url': 'https://www.doximity.com/pub/benjamin-meyer-md', 'full_name': 'BenjaminHMeyerMD', 'first_name': 'Benjamin', 'last_name': 'Meyer', 'credentials': 'MD', 'specialty': 'Cardiology', 'city_state': 'Ukiah, CA', 'subspecialty': 'Adult Congenital Heart Disease, Cardiac Electrophysiology, Interventional Cardiology', 'job_title': 'Physician\n', 'st_address': '115 Hospital Dr', 'zip': '95482', 'st_address_full': '115 Hospital DrUkiah, CA 95482', 'phone_num': '(707) 463-8070', 'idx_scraper_list': 38}
+{'NPI': 1003043985, 'url': 'https://www.doximity.com/pub/rola-altoos-md', 'full_name': 'RolaAltoosMD', 'first_name': 'Rola', 'last_name': 'Altoos', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Orlando, FL', 'subspecialty': 'Nuclear Radiology', 'job_title': 'Physician\n', 'st_address': '601 E Rollins St', 'zip': '32803', 'st_address_full': '601 E Rollins StOrlando, FL 32803', 'phone_num': '(407) 303-5600', 'idx_scraper_list': 39}
+{'NPI': 1003044538, 'url': 'https://www.doximity.com/pub/scott-schiffman-md', 'full_name': 'ScottRossSchiffmanMD', 'first_name': 'Scott', 'last_name': 'Schiffman', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Rochester, NY', 'job_title': 'Physician\n', 'st_address': '4901 Lac de Ville Blvd Bldg D', 'zip': '14618', 'st_address_full': '4901 Lac de Ville BlvdBldg DRochester, NY 14618', 'phone_num': '(585) 275-2734', 'idx_scraper_list': 40}
+{'NPI': 1003044819, 'url': 'https://www.doximity.com/pub/christophe-norbet-md', 'idx_scraper_list': 41}
+{'NPI': 1003044819, 'url': 'https://www.doximity.com/pub/christopher-norbet-md', 'full_name': 'ChristopherJohnNorbetMD', 'first_name': 'Christopher', 'last_name': 'Norbet', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Quincy, IL', 'job_title': 'Physician\n', 'st_address': '1025 Maine St', 'zip': '62301', 'st_address_full': '1025 Maine StQuincy, IL 62301', 'phone_num': '(217) 222-6550', 'idx_scraper_list': 42}
+{'NPI': 1003044975, 'url': 'https://www.doximity.com/pub/adam-defoe-md', 'full_name': 'AdamJohnDefoeMD', 'first_name': 'Adam', 'last_name': 'Defoe', 'credentials': 'MD', 'specialty': 'Interventional Radiology', 'city_state': 'Fargo, ND', 'job_title': 'Assistant Professor', 'st_address': '3000 32nd Ave S', 'zip': '58103', 'st_address_full': '3000 32nd Ave SFargo, ND 58103', 'phone_num': '(701) 364-8000', 'idx_scraper_list': 43}
+{'NPI': 1003045022, 'url': 'https://www.doximity.com/pub/arthur-donahue-md', 'idx_scraper_list': 44}
+{'NPI': 1003046574, 'url': 'https://www.doximity.com/pub/terrence-metz-md', 'idx_scraper_list': 45}
+{'NPI': 1003055401, 'url': 'https://www.doximity.com/pub/jackson-penry-md', 'idx_scraper_list': 46}
+{'NPI': 1003056433, 'url': 'https://www.doximity.com/pub/keith-spellman-md', 'full_name': 'KeithMichaelSpellmanMD', 'first_name': 'Keith', 'last_name': 'Spellman', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Aptos, CA', 'job_title': 'Physician\n', 'st_address': '656 Pleasant Valley Rdg', 'zip': '95003', 'st_address_full': '656 Pleasant Valley RdgAptos, CA 95003', 'idx_scraper_list': 47}
+{'NPI': 1003056755, 'url': 'https://www.doximity.com/pub/travis-edelstein-md', 'idx_scraper_list': 48}
+{'NPI': 1003057274, 'url': 'https://www.doximity.com/pub/juan-echeverria-md', 'idx_scraper_list': 49}
+{'NPI': 1003057274, 'url': 'https://www.doximity.com/pub/juan-carlos-echeverria-md', 'idx_scraper_list': 50}
+{'NPI': 1003057670, 'url': 'https://www.doximity.com/pub/jennifer-hinkle-md', 'idx_scraper_list': 51}
+{'NPI': 1003059288, 'url': 'https://www.doximity.com/pub/don-martinez-md', 'idx_scraper_list': 52}
+{'NPI': 1003059395, 'url': 'https://www.doximity.com/pub/quazi-al-tariq-md', 'idx_scraper_list': 53}
+{'NPI': 1003061367, 'url': 'https://www.doximity.com/pub/amanjit-baadh-md', 'idx_scraper_list': 54}
+{'NPI': 1003063181, 'url': 'https://www.doximity.com/pub/anita-nagamine-md', 'idx_scraper_list': 55}
+{'NPI': 1003064395, 'url': 'https://www.doximity.com/pub/kaustubh-yadwadkar-md', 'idx_scraper_list': 56}
+{'NPI': 1003064999, 'url': 'https://www.doximity.com/pub/douglas-larson-md', 'idx_scraper_list': 57}
+{'NPI': 1003066325, 'url': 'https://www.doximity.com/pub/jack-markiewicz-md', 'idx_scraper_list': 58}
+{'NPI': 1003070954, 'url': 'https://www.doximity.com/pub/edward-walsh-md', 'idx_scraper_list': 59}
+{'NPI': 1003071051, 'url': 'https://www.doximity.com/pub/adele-fields-md', 'idx_scraper_list': 60}
+{'NPI': 1003072885, 'url': 'https://www.doximity.com/pub/maurice-yu-md', 'idx_scraper_list': 61}
+{'NPI': 1003072950, 'url': 'https://www.doximity.com/pub/avraham-bluestone-md', 'idx_scraper_list': 62}
+{'NPI': 1003073396, 'url': 'https://www.doximity.com/pub/shannon-st-clair-md', 'idx_scraper_list': 63}
+{'NPI': 1003075433, 'url': 'https://www.doximity.com/pub/anthony-hollman-md', 'idx_scraper_list': 64}
+{'NPI': 1003077207, 'url': 'https://www.doximity.com/pub/brent-griffith-md', 'idx_scraper_list': 65}
+{'NPI': 1003077256, 'url': 'https://www.doximity.com/pub/vinh-nguyen-md', 'idx_scraper_list': 66}
+{'NPI': 1003078015, 'url': 'https://www.doximity.com/pub/joshua-blunck-md', 'idx_scraper_list': 67}
+{'NPI': 1003078767, 'url': 'https://www.doximity.com/pub/rebecca-gerber-md', 'idx_scraper_list': 68}
+{'NPI': 1003078767, 'url': 'https://www.doximity.com/pub/rebecca-kahn-md', 'idx_scraper_list': 69}
+{'NPI': 1003079112, 'url': 'https://www.doximity.com/pub/jonathan-williams-md', 'idx_scraper_list': 70}
+{'NPI': 1003082272, 'url': 'https://www.doximity.com/pub/chris-sung-md', 'idx_scraper_list': 71}
+{'NPI': 1003083163, 'url': 'https://www.doximity.com/pub/gregg-franco-md', 'idx_scraper_list': 72}
+{'NPI': 1003084971, 'url': 'https://www.doximity.com/pub/leslee-mcnabb-md', 'idx_scraper_list': 73}
+{'NPI': 1003088113, 'url': 'https://www.doximity.com/pub/joseph-blankinship-md', 'idx_scraper_list': 74}
+{'NPI': 1003089624, 'url': 'https://www.doximity.com/pub/brett-christian-md', 'idx_scraper_list': 75}
+{'NPI': 1003089772, 'url': 'https://www.doximity.com/pub/michael-meade-md', 'idx_scraper_list': 76}
+{'NPI': 1003090093, 'url': 'https://www.doximity.com/pub/sharon-schlossberg-md', 'idx_scraper_list': 77}
+{'NPI': 1003094103, 'url': 'https://www.doximity.com/pub/hongyun-zhu-md', 'idx_scraper_list': 78}
+{'NPI': 1003100603, 'url': 'https://www.doximity.com/pub/fredrik-balldin-md', 'idx_scraper_list': 79}
+{'NPI': 1003101130, 'url': 'https://www.doximity.com/pub/rohan-shah-md', 'idx_scraper_list': 80}
+{'NPI': 1003101585, 'url': 'https://www.doximity.com/pub/neal-savjani-md', 'idx_scraper_list': 81}
+{'NPI': 1003108085, 'url': 'https://www.doximity.com/pub/yelena-kozirovsky-md', 'idx_scraper_list': 82}
+{'NPI': 1003108457, 'url': 'https://www.doximity.com/pub/jennifer-thomas-md', 'idx_scraper_list': 83}
+{'NPI': 1003111642, 'url': 'https://www.doximity.com/pub/shendee-teng-md', 'idx_scraper_list': 84}
+{'NPI': 1003115155, 'url': 'https://www.doximity.com/pub/justin-rafael-md', 'idx_scraper_list': 85}
+{'NPI': 1003119975, 'url': 'https://www.doximity.com/pub/lee-wang-md', 'idx_scraper_list': 86}
+{'NPI': 1003120528, 'url': 'https://www.doximity.com/pub/kanika-khanna-md', 'idx_scraper_list': 87}
+{'NPI': 1003122698, 'url': 'https://www.doximity.com/pub/azza-elgendy-md', 'idx_scraper_list': 88}
+{'NPI': 1003127051, 'url': 'https://www.doximity.com/pub/ari-sacks-md', 'idx_scraper_list': 89}
+{'NPI': 1003128232, 'url': 'https://www.doximity.com/pub/cyril-varghese-md', 'idx_scraper_list': 90}
+{'NPI': 1003128976, 'url': 'https://www.doximity.com/pub/pauline-bui-md', 'idx_scraper_list': 91}
+{'NPI': 1003132978, 'url': 'https://www.doximity.com/pub/bryan-vanzandt-md', 'idx_scraper_list': 92}
+{'NPI': 1003135989, 'url': 'https://www.doximity.com/pub/maya-hsieh-md', 'idx_scraper_list': 93}
+{'NPI': 1003135989, 'url': 'https://www.doximity.com/pub/natalie-sardjono-md', 'idx_scraper_list': 94}
+{'NPI': 1003136490, 'url': 'https://www.doximity.com/pub/firouzeh-arjmandi-md', 'idx_scraper_list': 95}
+{'NPI': 1003137084, 'url': 'https://www.doximity.com/pub/jason-eastlack-md', 'idx_scraper_list': 96}
+{'NPI': 1003137522, 'url': 'https://www.doximity.com/pub/sarah-averill-md', 'idx_scraper_list': 97}
+{'NPI': 1003137944, 'url': 'https://www.doximity.com/pub/jonathan-cross-md', 'idx_scraper_list': 98}
+{'NPI': 1003145038, 'url': 'https://www.doximity.com/pub/evan-morton-md', 'idx_scraper_list': 99}
+{'NPI': 1003159047, 'url': 'https://www.doximity.com/pub/gilroy-daley-md', 'idx_scraper_list': 100}
+{'NPI': 1003159252, 'url': 'https://www.doximity.com/pub/gregory-hall-md', 'idx_scraper_list': 101}
+{'NPI': 1003161993, 'url': 'https://www.doximity.com/pub/anastasia-barron-md', 'idx_scraper_list': 102}
+{'NPI': 1003163684, 'url': 'https://www.doximity.com/pub/michael-shvarts-md', 'idx_scraper_list': 103}
+{'NPI': 1003170093, 'url': 'https://www.doximity.com/pub/timothy-donovan-md', 'idx_scraper_list': 104}
+{'NPI': 1003172891, 'url': 'https://www.doximity.com/pub/richard-jones-md', 'idx_scraper_list': 105}
+{'NPI': 1003173212, 'url': 'https://www.doximity.com/pub/riza-seit-md', 'idx_scraper_list': 106}
+{'NPI': 1003173915, 'url': 'https://www.doximity.com/pub/natalia-solomon-md', 'idx_scraper_list': 107}
+{'NPI': 1003176710, 'url': 'https://www.doximity.com/pub/evelyn-lorents-md', 'idx_scraper_list': 108}
+{'NPI': 1003178674, 'url': 'https://www.doximity.com/pub/steven-beesley-md', 'idx_scraper_list': 109}
+{'NPI': 1003179284, 'url': 'https://www.doximity.com/pub/sarah-fenerty-md', 'idx_scraper_list': 110}
+{'NPI': 1003182064, 'url': 'https://www.doximity.com/pub/stephen-reis-md', 'idx_scraper_list': 111}
+{'NPI': 1003182999, 'url': 'https://www.doximity.com/pub/yuyao-zhang-md', 'idx_scraper_list': 112}
+{'NPI': 1003185828, 'url': 'https://www.doximity.com/pub/yuri-shif-md', 'idx_scraper_list': 113}
+{'NPI': 1003192642, 'url': 'https://www.doximity.com/pub/andy-choy-md', 'idx_scraper_list': 114}
+{'NPI': 1003192667, 'url': 'https://www.doximity.com/pub/christopher-song-md', 'idx_scraper_list': 115}
+{'NPI': 1003198938, 'url': 'https://www.doximity.com/pub/ravishankar-shivashankar-md', 'idx_scraper_list': 116}
+{'NPI': 1003208745, 'url': 'https://www.doximity.com/pub/ines-nikolovski-md', 'idx_scraper_list': 117}
+{'NPI': 1003250317, 'url': 'https://www.doximity.com/pub/bahar-mansoori-md', 'idx_scraper_list': 118}
+{'NPI': 1003250911, 'url': 'https://www.doximity.com/pub/whitney-boyce-md', 'idx_scraper_list': 119}
+{'NPI': 1003251828, 'url': 'https://www.doximity.com/pub/joanie-garratt-md', 'idx_scraper_list': 120}
+{'NPI': 1003251836, 'url': 'https://www.doximity.com/pub/michael-larson-md', 'idx_scraper_list': 121}
+{'NPI': 1003253238, 'url': 'https://www.doximity.com/pub/whitney-feltus-md', 'idx_scraper_list': 122}
+{'NPI': 1003253667, 'url': 'https://www.doximity.com/pub/james-sowby-md', 'idx_scraper_list': 123}
+{'NPI': 1003259177, 'url': 'https://www.doximity.com/pub/jonathan-rischall-md', 'idx_scraper_list': 124}
+{'NPI': 1003259854, 'url': 'https://www.doximity.com/pub/michael-bold-md', 'idx_scraper_list': 125}
+{'NPI': 1003294042, 'url': 'https://www.doximity.com/pub/susana-calle-md', 'idx_scraper_list': 126}
+{'NPI': 1003800418, 'url': 'https://www.doximity.com/pub/david-montiel-md', 'idx_scraper_list': 127}
+{'NPI': 1003800897, 'url': 'https://www.doximity.com/pub/john-patti-md', 'idx_scraper_list': 128}
+{'NPI': 1003801002, 'url': 'https://www.doximity.com/pub/franklin-sequeira-md', 'idx_scraper_list': 129}
+{'NPI': 1003801291, 'url': 'https://www.doximity.com/pub/samir-patel-md', 'idx_scraper_list': 130}
+{'NPI': 1003801952, 'url': 'https://www.doximity.com/pub/caryn-anderson-md', 'idx_scraper_list': 131}
+{'NPI': 1003802265, 'url': 'https://www.doximity.com/pub/alix-vincent-md', 'idx_scraper_list': 132}
+{'NPI': 1003802901, 'url': 'https://www.doximity.com/pub/neeti-goel-md', 'idx_scraper_list': 133}
+{'NPI': 1003802968, 'url': 'https://www.doximity.com/pub/stanley-smith-md', 'idx_scraper_list': 134}
+{'NPI': 1003803537, 'url': 'https://www.doximity.com/pub/subbarao-cherukuri-md', 'idx_scraper_list': 135}
+{'NPI': 1003803602, 'url': 'https://www.doximity.com/pub/kim-hauger-md', 'idx_scraper_list': 136}
+{'NPI': 1003805029, 'url': 'https://www.doximity.com/pub/richard-reed-md', 'idx_scraper_list': 137}
+{'NPI': 1003805045, 'url': 'https://www.doximity.com/pub/saravanan-valliappan-md', 'idx_scraper_list': 138}
+{'NPI': 1003805052, 'url': 'https://www.doximity.com/pub/rodney-owen-md', 'idx_scraper_list': 139}
+{'NPI': 1003805060, 'url': 'https://www.doximity.com/pub/christophe-may-md', 'idx_scraper_list': 140}
+{'NPI': 1003805060, 'url': 'https://www.doximity.com/pub/christopher-may-md', 'idx_scraper_list': 141}
+{'NPI': 1003805904, 'url': 'https://www.doximity.com/pub/robert-wolf-md', 'idx_scraper_list': 142}
+{'NPI': 1003806076, 'url': 'https://www.doximity.com/pub/william-taylor-md', 'idx_scraper_list': 143}
+{'NPI': 1003806381, 'url': 'https://www.doximity.com/pub/paul-guisler-md', 'idx_scraper_list': 144}
+{'NPI': 1003806654, 'url': 'https://www.doximity.com/pub/jonathan-levine-md', 'idx_scraper_list': 145}
+{'NPI': 1003806738, 'url': 'https://www.doximity.com/pub/mannachana-ramakrishnan-md', 'idx_scraper_list': 146}
+{'NPI': 1003806738, 'url': 'https://www.doximity.com/pub/mannachanal-ramakrishnan-md', 'idx_scraper_list': 147}
+{'NPI': 1003807181, 'url': 'https://www.doximity.com/pub/leo-czervionke-md', 'idx_scraper_list': 148}
+{'NPI': 1003807397, 'url': 'https://www.doximity.com/pub/krishanu-gupta-md', 'idx_scraper_list': 149}
+{'NPI': 1003807439, 'url': 'https://www.doximity.com/pub/amy-benson-md', 'idx_scraper_list': 150}
+{'NPI': 1003807652, 'url': 'https://www.doximity.com/pub/lejla-aganovic-md', 'idx_scraper_list': 151}
+{'NPI': 1003808429, 'url': 'https://www.doximity.com/pub/paula-woodward-md', 'idx_scraper_list': 152}
+{'NPI': 1003808635, 'url': 'https://www.doximity.com/pub/andrij-wojtowycz-md', 'idx_scraper_list': 153}
+{'NPI': 1003808908, 'url': 'https://www.doximity.com/pub/barbara-newman-md', 'idx_scraper_list': 154}
+{'NPI': 1003809567, 'url': 'https://www.doximity.com/pub/courtney-tripp-md', 'idx_scraper_list': 155}
+{'NPI': 1003810581, 'url': 'https://www.doximity.com/pub/robert-smith-md', 'idx_scraper_list': 156}
+{'NPI': 1003810771, 'url': 'https://www.doximity.com/pub/laura-feldman-md', 'idx_scraper_list': 157}
+{'NPI': 1003811654, 'url': 'https://www.doximity.com/pub/randall-winn-md', 'idx_scraper_list': 158}
+{'NPI': 1003811845, 'url': 'https://www.doximity.com/pub/james-walker-md', 'idx_scraper_list': 159}
+{'NPI': 1003812413, 'url': 'https://www.doximity.com/pub/steven-meshkov-md', 'idx_scraper_list': 160}
+{'NPI': 1003812959, 'url': 'https://www.doximity.com/pub/robert-bisset-md', 'idx_scraper_list': 161}
+{'NPI': 1003813460, 'url': 'https://www.doximity.com/pub/james-steidler-md', 'idx_scraper_list': 162}
+{'NPI': 1003814013, 'url': 'https://www.doximity.com/pub/karen-dittrich-md', 'idx_scraper_list': 163}
+{'NPI': 1003814344, 'url': 'https://www.doximity.com/pub/darren-davenport-md', 'idx_scraper_list': 164}
+{'NPI': 1003815325, 'url': 'https://www.doximity.com/pub/stanley-cook-md', 'idx_scraper_list': 165}
+{'NPI': 1003815630, 'url': 'https://www.doximity.com/pub/joel-bowers-md', 'idx_scraper_list': 166}
+{'NPI': 1003816075, 'url': 'https://www.doximity.com/pub/william-lisberg-md', 'idx_scraper_list': 167}
+{'NPI': 1003816406, 'url': 'https://www.doximity.com/pub/stephen-kuehne-md', 'idx_scraper_list': 168}
+{'NPI': 1003816737, 'url': 'https://www.doximity.com/pub/michael-wohlberg-md', 'idx_scraper_list': 169}
+{'NPI': 1003817214, 'url': 'https://www.doximity.com/pub/neelu-gandhi-md', 'idx_scraper_list': 170}
+{'NPI': 1003817230, 'url': 'https://www.doximity.com/pub/richard-foster-md', 'idx_scraper_list': 171}
+{'NPI': 1003817651, 'url': 'https://www.doximity.com/pub/steven-chmielewski-md', 'idx_scraper_list': 172}
+{'NPI': 1003817859, 'url': 'https://www.doximity.com/pub/james-browne-md', 'idx_scraper_list': 173}
+{'NPI': 1003817982, 'url': 'https://www.doximity.com/pub/eric-lawson-md', 'idx_scraper_list': 174}
+{'NPI': 1003818410, 'url': 'https://www.doximity.com/pub/ralph-stevens-md', 'idx_scraper_list': 175}
+{'NPI': 1003818717, 'url': 'https://www.doximity.com/pub/brian-mcnamee-md', 'idx_scraper_list': 176}
+{'NPI': 1003818873, 'url': 'https://www.doximity.com/pub/thomas-cain-md', 'idx_scraper_list': 177}
+{'NPI': 1003819038, 'url': 'https://www.doximity.com/pub/lester-goldberg-md', 'idx_scraper_list': 178}
+{'NPI': 1003819426, 'url': 'https://www.doximity.com/pub/w-sory-md', 'idx_scraper_list': 179}
+{'NPI': 1003819939, 'url': 'https://www.doximity.com/pub/robert-gelczer-md', 'idx_scraper_list': 180}
+{'NPI': 1003819947, 'url': 'https://www.doximity.com/pub/mark-malley-md', 'idx_scraper_list': 181}
+{'NPI': 1003819996, 'url': 'https://www.doximity.com/pub/aaron-janos-md', 'idx_scraper_list': 182}
+{'NPI': 1003822115, 'url': 'https://www.doximity.com/pub/scott-cassar-md', 'idx_scraper_list': 183}
+{'NPI': 1003822123, 'url': 'https://www.doximity.com/pub/john-williams-md', 'idx_scraper_list': 184}
+{'NPI': 1003822164, 'url': 'https://www.doximity.com/pub/hilton-price-md', 'idx_scraper_list': 185}
+{'NPI': 1003825878, 'url': 'https://www.doximity.com/pub/charles-greer-md', 'idx_scraper_list': 186}
+{'NPI': 1003826140, 'url': 'https://www.doximity.com/pub/vinay-madan-md', 'idx_scraper_list': 187}
+{'NPI': 1003827007, 'url': 'https://www.doximity.com/pub/william-berger-md', 'idx_scraper_list': 188}
+{'NPI': 1003828922, 'url': 'https://www.doximity.com/pub/patrick-albus-md', 'idx_scraper_list': 189}
+{'NPI': 1003831066, 'url': 'https://www.doximity.com/pub/jing-chen-md', 'idx_scraper_list': 190}
+{'NPI': 1003831553, 'url': 'https://www.doximity.com/pub/david-friedman-md', 'idx_scraper_list': 191}
+{'NPI': 1003832007, 'url': 'https://www.doximity.com/pub/joseph-unis-md', 'idx_scraper_list': 192}
+{'NPI': 1003833450, 'url': 'https://www.doximity.com/pub/marlen-junck-md', 'idx_scraper_list': 193}
+{'NPI': 1003833781, 'url': 'https://www.doximity.com/pub/sameer-pandit-md', 'idx_scraper_list': 194}
+{'NPI': 1003834029, 'url': 'https://www.doximity.com/pub/cheryl-lindstrom-md', 'idx_scraper_list': 195}
+{'NPI': 1003834284, 'url': 'https://www.doximity.com/pub/hazel-young-md', 'idx_scraper_list': 196}
+{'NPI': 1003834334, 'url': 'https://www.doximity.com/pub/anita-hawkins-md', 'idx_scraper_list': 197}
+{'NPI': 1003835208, 'url': 'https://www.doximity.com/pub/nina-kazerooni-md', 'idx_scraper_list': 198}
+{'NPI': 1003835448, 'url': 'https://www.doximity.com/pub/daniel-west-md', 'idx_scraper_list': 199}
+{'NPI': 1003835463, 'url': 'https://www.doximity.com/pub/joseph-smith-md', 'idx_scraper_list': 200}
+{'NPI': 1003836214, 'url': 'https://www.doximity.com/pub/karen-koolpe-md', 'idx_scraper_list': 201}
+{'NPI': 1003836263, 'url': 'https://www.doximity.com/pub/stephen-hofkin-md', 'idx_scraper_list': 202}
+{'NPI': 1003836941, 'url': 'https://www.doximity.com/pub/michel-bilello-md', 'idx_scraper_list': 203}
+{'NPI': 1003837816, 'url': 'https://www.doximity.com/pub/robert-breger-md', 'idx_scraper_list': 204}
+{'NPI': 1003838111, 'url': 'https://www.doximity.com/pub/edward-st-ville-md', 'idx_scraper_list': 205}
+{'NPI': 1003838301, 'url': 'https://www.doximity.com/pub/walter-maynard-md', 'idx_scraper_list': 206}
+{'NPI': 1003838418, 'url': 'https://www.doximity.com/pub/jon-henke-md', 'idx_scraper_list': 207}
+{'NPI': 1003838822, 'url': 'https://www.doximity.com/pub/george-zaleski-md', 'idx_scraper_list': 208}
+{'NPI': 1003840026, 'url': 'https://www.doximity.com/pub/fabio-esteves-md', 'idx_scraper_list': 209}
+{'NPI': 1003841875, 'url': 'https://www.doximity.com/pub/noman-malik-md', 'idx_scraper_list': 210}
+{'NPI': 1003842816, 'url': 'https://www.doximity.com/pub/alan-wilson-md', 'idx_scraper_list': 211}
+{'NPI': 1003842949, 'url': 'https://www.doximity.com/pub/geoffrey-remes-md', 'idx_scraper_list': 212}
+{'NPI': 1003843558, 'url': 'https://www.doximity.com/pub/robert-bemrick-md', 'idx_scraper_list': 213}
+{'NPI': 1003844101, 'url': 'https://www.doximity.com/pub/thaddeus-houston-md', 'idx_scraper_list': 214}
+{'NPI': 1003844192, 'url': 'https://www.doximity.com/pub/jill-langer-md', 'idx_scraper_list': 215}
+{'NPI': 1003844242, 'url': 'https://www.doximity.com/pub/craig-howard-md', 'idx_scraper_list': 216}
+{'NPI': 1003844986, 'url': 'https://www.doximity.com/pub/joanne-marin-md', 'idx_scraper_list': 217}
+{'NPI': 1003845173, 'url': 'https://www.doximity.com/pub/leah-schafer-md', 'idx_scraper_list': 218}
+{'NPI': 1003845694, 'url': 'https://www.doximity.com/pub/shailendra-chopra-md', 'idx_scraper_list': 219}
+{'NPI': 1003846379, 'url': 'https://www.doximity.com/pub/doron-ben-avi-md', 'idx_scraper_list': 220}
+{'NPI': 1003846429, 'url': 'https://www.doximity.com/pub/christine-eckhauser-md', 'idx_scraper_list': 221}
+{'NPI': 1003846692, 'url': 'https://www.doximity.com/pub/michael-winkler-md', 'idx_scraper_list': 222}
+{'NPI': 1003846916, 'url': 'https://www.doximity.com/pub/laurie-gianturco-md', 'idx_scraper_list': 223}
+{'NPI': 1003847385, 'url': 'https://www.doximity.com/pub/bruce-derauf-md', 'idx_scraper_list': 224}
+{'NPI': 1003847443, 'url': 'https://www.doximity.com/pub/jinel-moore-scott-md', 'idx_scraper_list': 225}
+{'NPI': 1003847948, 'url': 'https://www.doximity.com/pub/karen-spodarek-md', 'idx_scraper_list': 226}
+{'NPI': 1003848813, 'url': 'https://www.doximity.com/pub/michelle-mcnamara-md', 'idx_scraper_list': 227}
+{'NPI': 1003849936, 'url': 'https://www.doximity.com/pub/kimberly-ray-md', 'idx_scraper_list': 228}
+{'NPI': 1003850934, 'url': 'https://www.doximity.com/pub/gary-wright-md', 'idx_scraper_list': 229}
+{'NPI': 1003851130, 'url': 'https://www.doximity.com/pub/frederick-white-md', 'idx_scraper_list': 230}
+{'NPI': 1003851726, 'url': 'https://www.doximity.com/pub/shaya-ansari-md', 'idx_scraper_list': 231}
+{'NPI': 1003852039, 'url': 'https://www.doximity.com/pub/johnny-campbell-md', 'idx_scraper_list': 232}
+{'NPI': 1003853250, 'url': 'https://www.doximity.com/pub/stuart-bobman-md', 'idx_scraper_list': 233}
+{'NPI': 1003853664, 'url': 'https://www.doximity.com/pub/madison-buckley-md', 'idx_scraper_list': 234}
+{'NPI': 1003853755, 'url': 'https://www.doximity.com/pub/aaron-kaplan-md', 'idx_scraper_list': 235}
+{'NPI': 1003854985, 'url': 'https://www.doximity.com/pub/michael-goldman-md', 'idx_scraper_list': 236}
+{'NPI': 1003856006, 'url': 'https://www.doximity.com/pub/john-corbett-md', 'idx_scraper_list': 237}
+{'NPI': 1003856675, 'url': 'https://www.doximity.com/pub/jay-lichman-md', 'idx_scraper_list': 238}
+{'NPI': 1003857129, 'url': 'https://www.doximity.com/pub/william-french-md', 'idx_scraper_list': 239}
+{'NPI': 1003859448, 'url': 'https://www.doximity.com/pub/colin-wells-md', 'idx_scraper_list': 240}
+{'NPI': 1003859513, 'url': 'https://www.doximity.com/pub/roy-filly-md', 'idx_scraper_list': 241}
+{'NPI': 1003860024, 'url': 'https://www.doximity.com/pub/eugene-paik-md', 'idx_scraper_list': 242}
+{'NPI': 1003860305, 'url': 'https://www.doximity.com/pub/hong-chen-md', 'idx_scraper_list': 243}
+{'NPI': 1003860420, 'url': 'https://www.doximity.com/pub/amy-kreutel-md', 'idx_scraper_list': 244}
+{'NPI': 1003860685, 'url': 'https://www.doximity.com/pub/steven-ostrov-md', 'idx_scraper_list': 245}
+{'NPI': 1003860719, 'url': 'https://www.doximity.com/pub/jerrold-gale-md', 'idx_scraper_list': 246}
+{'NPI': 1003860867, 'url': 'https://www.doximity.com/pub/young-yun-md', 'idx_scraper_list': 247}
+{'NPI': 1003862202, 'url': 'https://www.doximity.com/pub/hsien-yean-wong-md', 'idx_scraper_list': 248}
+{'NPI': 1003862269, 'url': 'https://www.doximity.com/pub/daniel-grosso-md', 'idx_scraper_list': 249}
+{'NPI': 1003862566, 'url': 'https://www.doximity.com/pub/marc-soble-md', 'idx_scraper_list': 250}
+{'NPI': 1003862806, 'url': 'https://www.doximity.com/pub/jeffrey-boorstein-md', 'idx_scraper_list': 251}
+{'NPI': 1003862988, 'url': 'https://www.doximity.com/pub/rafeeque-bhadelia-md', 'idx_scraper_list': 252}
+{'NPI': 1003862996, 'url': 'https://www.doximity.com/pub/stephen-fry-md', 'idx_scraper_list': 253}
+{'NPI': 1003863549, 'url': 'https://www.doximity.com/pub/daniel-yang-md', 'idx_scraper_list': 254}
+{'NPI': 1003863598, 'url': 'https://www.doximity.com/pub/russell-scholl-md', 'idx_scraper_list': 255}
+{'NPI': 1003863713, 'url': 'https://www.doximity.com/pub/delphine-lui-md', 'idx_scraper_list': 256}
+{'NPI': 1003864125, 'url': 'https://www.doximity.com/pub/tyler-prout-md', 'idx_scraper_list': 257}
+{'NPI': 1003864554, 'url': 'https://www.doximity.com/pub/john-hamlin-md', 'idx_scraper_list': 258}
+{'NPI': 1003865783, 'url': 'https://www.doximity.com/pub/albert-grabb-md', 'idx_scraper_list': 259}
+{'NPI': 1003865866, 'url': 'https://www.doximity.com/pub/jimmie-wong-md', 'idx_scraper_list': 260}
+{'NPI': 1003867276, 'url': 'https://www.doximity.com/pub/zachary-rattner-md', 'idx_scraper_list': 261}
+{'NPI': 1003867375, 'url': 'https://www.doximity.com/pub/jose-rebeil-de-la-rosa-md', 'idx_scraper_list': 262}
+{'NPI': 1003868308, 'url': 'https://www.doximity.com/pub/robert-varney-md', 'idx_scraper_list': 263}
+{'NPI': 1003868365, 'url': 'https://www.doximity.com/pub/perry-gerard-md', 'idx_scraper_list': 264}
+{'NPI': 1003868522, 'url': 'https://www.doximity.com/pub/will-williams-md', 'idx_scraper_list': 265}
+{'NPI': 1003868753, 'url': 'https://www.doximity.com/pub/richard-wasley-md', 'idx_scraper_list': 266}
+{'NPI': 1003868811, 'url': 'https://www.doximity.com/pub/mark-southard-md', 'idx_scraper_list': 267}
+{'NPI': 1003868878, 'url': 'https://www.doximity.com/pub/richard-gordon-md', 'idx_scraper_list': 268}
+{'NPI': 1003868894, 'url': 'https://www.doximity.com/pub/vishal-bhagat-md', 'idx_scraper_list': 269}
+{'NPI': 1003869934, 'url': 'https://www.doximity.com/pub/marjorie-wiedeman-md', 'idx_scraper_list': 270}
+{'NPI': 1003870726, 'url': 'https://www.doximity.com/pub/perry-hiscok-md', 'idx_scraper_list': 271}
+{'NPI': 1003870882, 'url': 'https://www.doximity.com/pub/craig-de-lord-md', 'idx_scraper_list': 272}
+{'NPI': 1003871088, 'url': 'https://www.doximity.com/pub/barry-leitman-md', 'idx_scraper_list': 273}
+{'NPI': 1003871708, 'url': 'https://www.doximity.com/pub/jeffrey-galvin-md', 'idx_scraper_list': 274}
+{'NPI': 1003871823, 'url': 'https://www.doximity.com/pub/sohail-contractor-md', 'idx_scraper_list': 275}
+{'NPI': 1003871872, 'url': 'https://www.doximity.com/pub/martin-auster-md', 'idx_scraper_list': 276}
+{'NPI': 1003872003, 'url': 'https://www.doximity.com/pub/andrew-nish-md', 'idx_scraper_list': 277}
+{'NPI': 1003873795, 'url': 'https://www.doximity.com/pub/thomas-glynn-md', 'idx_scraper_list': 278}
+{'NPI': 1003873886, 'url': 'https://www.doximity.com/pub/christopher-vittore-md', 'idx_scraper_list': 279}
+{'NPI': 1003873886, 'url': 'https://www.doximity.com/pub/christpohe-vittore-md', 'idx_scraper_list': 280}
+{'NPI': 1003873886, 'url': 'https://www.doximity.com/pub/christpoher-vittore-md', 'idx_scraper_list': 281}
+{'NPI': 1003873951, 'url': 'https://www.doximity.com/pub/robert-tomalty-md', 'idx_scraper_list': 282}
+{'NPI': 1003874744, 'url': 'https://www.doximity.com/pub/david-klamer-md', 'idx_scraper_list': 283}
+{'NPI': 1003875477, 'url': 'https://www.doximity.com/pub/tami-fink-md', 'idx_scraper_list': 284}
+{'NPI': 1003876681, 'url': 'https://www.doximity.com/pub/michael-fancher-md', 'idx_scraper_list': 285}
+{'NPI': 1003877069, 'url': 'https://www.doximity.com/pub/r.-walker-md', 'idx_scraper_list': 286}
+{'NPI': 1003877069, 'url': 'https://www.doximity.com/pub/roger-walker-md', 'idx_scraper_list': 287}
+{'NPI': 1003877200, 'url': 'https://www.doximity.com/pub/jacqueline-caire-md', 'idx_scraper_list': 288}
+{'NPI': 1003877754, 'url': 'https://www.doximity.com/pub/nina-jones-md', 'idx_scraper_list': 289}
+{'NPI': 1003878190, 'url': 'https://www.doximity.com/pub/karen-craig-md', 'idx_scraper_list': 290}
+{'NPI': 1003878448, 'url': 'https://www.doximity.com/pub/kevin-johnson-md', 'idx_scraper_list': 291}
+{'NPI': 1003880022, 'url': 'https://www.doximity.com/pub/amy-figueroa-md', 'idx_scraper_list': 292}
+{'NPI': 1003880303, 'url': 'https://www.doximity.com/pub/ronald-brennan-md', 'idx_scraper_list': 293}
+{'NPI': 1003881004, 'url': 'https://www.doximity.com/pub/james-suchnicki-md', 'idx_scraper_list': 294}
+{'NPI': 1003881350, 'url': 'https://www.doximity.com/pub/glenn-stambo-md', 'idx_scraper_list': 295}
+{'NPI': 1003881418, 'url': 'https://www.doximity.com/pub/paul-williams-md', 'idx_scraper_list': 296}
+{'NPI': 1003881830, 'url': 'https://www.doximity.com/pub/teddy-su-md', 'idx_scraper_list': 297}
+{'NPI': 1003882275, 'url': 'https://www.doximity.com/pub/donna-winingham-md', 'idx_scraper_list': 298}
+{'NPI': 1003882648, 'url': 'https://www.doximity.com/pub/william-merrell-ii-md', 'idx_scraper_list': 299}
+{'NPI': 1003883885, 'url': 'https://www.doximity.com/pub/mandana-davani-md', 'idx_scraper_list': 300}
+{'NPI': 1003884016, 'url': 'https://www.doximity.com/pub/erik-foss-md', 'idx_scraper_list': 301}
+{'NPI': 1003884461, 'url': 'https://www.doximity.com/pub/peter-bove-md', 'idx_scraper_list': 302}
+{'NPI': 1003886045, 'url': 'https://www.doximity.com/pub/thomas-rimer-md', 'idx_scraper_list': 303}
+{'NPI': 1003886896, 'url': 'https://www.doximity.com/pub/aaron-shiloh-md', 'idx_scraper_list': 304}
+{'NPI': 1003886946, 'url': 'https://www.doximity.com/pub/elizabeth-maltin-md', 'idx_scraper_list': 305}
+{'NPI': 1003887449, 'url': 'https://www.doximity.com/pub/jean-panneton-md', 'idx_scraper_list': 306}
+{'NPI': 1003887613, 'url': 'https://www.doximity.com/pub/pratima-saldanha-md', 'idx_scraper_list': 307}
+{'NPI': 1003887969, 'url': 'https://www.doximity.com/pub/scott-buckner-md', 'idx_scraper_list': 308}
+{'NPI': 1003888116, 'url': 'https://www.doximity.com/pub/shilpa-kashyap-md', 'idx_scraper_list': 309}
+{'NPI': 1003888173, 'url': 'https://www.doximity.com/pub/john-queralt-md', 'idx_scraper_list': 310}
+{'NPI': 1003888181, 'url': 'https://www.doximity.com/pub/robert-reeb-md', 'idx_scraper_list': 311}
+{'NPI': 1003888421, 'url': 'https://www.doximity.com/pub/elizabeth-kim-md', 'idx_scraper_list': 312}
+{'NPI': 1003888488, 'url': 'https://www.doximity.com/pub/jamshid-danaie-md', 'idx_scraper_list': 313}
+{'NPI': 1003888918, 'url': 'https://www.doximity.com/pub/patricia-moser-md', 'idx_scraper_list': 314}
+{'NPI': 1003888991, 'url': 'https://www.doximity.com/pub/william-pfisterer-md', 'idx_scraper_list': 315}
+{'NPI': 1003889759, 'url': 'https://www.doximity.com/pub/kevin-rivera-colon-md', 'idx_scraper_list': 316}
+{'NPI': 1003889932, 'url': 'https://www.doximity.com/pub/joel-mcfarland-md', 'idx_scraper_list': 317}
+{'NPI': 1003890278, 'url': 'https://www.doximity.com/pub/timothy-workman-md', 'idx_scraper_list': 318}
+{'NPI': 1003890302, 'url': 'https://www.doximity.com/pub/caroline-chiles-md', 'idx_scraper_list': 319}
+{'NPI': 1003890708, 'url': 'https://www.doximity.com/pub/krista-mcfarren-md', 'idx_scraper_list': 320}
+{'NPI': 1003891037, 'url': 'https://www.doximity.com/pub/debora-coursey-prah-md', 'idx_scraper_list': 321}
+{'NPI': 1003891060, 'url': 'https://www.doximity.com/pub/michael-mccollum-md', 'idx_scraper_list': 322}
+{'NPI': 1003891359, 'url': 'https://www.doximity.com/pub/john-schreiber-md', 'idx_scraper_list': 323}
+{'NPI': 1003892274, 'url': 'https://www.doximity.com/pub/james-sanderford-md', 'idx_scraper_list': 324}
+{'NPI': 1003892340, 'url': 'https://www.doximity.com/pub/john-opalacz-md', 'idx_scraper_list': 325}
+{'NPI': 1003892407, 'url': 'https://www.doximity.com/pub/salim-samuel-md', 'idx_scraper_list': 326}
+{'NPI': 1003892506, 'url': 'https://www.doximity.com/pub/desencia-thomas-md', 'idx_scraper_list': 327}
+{'NPI': 1003892928, 'url': 'https://www.doximity.com/pub/oded-greenberg-md', 'idx_scraper_list': 328}
+{'NPI': 1003893041, 'url': 'https://www.doximity.com/pub/allan-keil-md', 'idx_scraper_list': 329}
+{'NPI': 1003893280, 'url': 'https://www.doximity.com/pub/drew-castleberry-md', 'idx_scraper_list': 330}
+{'NPI': 1003893546, 'url': 'https://www.doximity.com/pub/christophe-cornell-md', 'idx_scraper_list': 331}
+{'NPI': 1003893546, 'url': 'https://www.doximity.com/pub/christopher-cornell-md', 'idx_scraper_list': 332}
+{'NPI': 1003894221, 'url': 'https://www.doximity.com/pub/liisa-laakso-md', 'idx_scraper_list': 333}
+{'NPI': 1003894437, 'url': 'https://www.doximity.com/pub/matthew-evon-md', 'idx_scraper_list': 334}
+{'NPI': 1003894569, 'url': 'https://www.doximity.com/pub/vikas-vij-md', 'idx_scraper_list': 335}
+{'NPI': 1003894999, 'url': 'https://www.doximity.com/pub/brian-mccallie-md', 'idx_scraper_list': 336}
+{'NPI': 1003895228, 'url': 'https://www.doximity.com/pub/jan-mourelatos-md', 'idx_scraper_list': 337}
+{'NPI': 1003895301, 'url': 'https://www.doximity.com/pub/ancil-lindley-md', 'idx_scraper_list': 338}
+{'NPI': 1003895962, 'url': 'https://www.doximity.com/pub/james-jacobs-md', 'idx_scraper_list': 339}
+{'NPI': 1003896820, 'url': 'https://www.doximity.com/pub/john-carey-md', 'idx_scraper_list': 340}
+{'NPI': 1003897687, 'url': 'https://www.doximity.com/pub/heather-frimmer-md', 'idx_scraper_list': 341}
+{'NPI': 1003899345, 'url': 'https://www.doximity.com/pub/john-campbell-md', 'idx_scraper_list': 342}
+{'NPI': 1003899659, 'url': 'https://www.doximity.com/pub/eric-lund-md', 'idx_scraper_list': 343}
+{'NPI': 1003899766, 'url': 'https://www.doximity.com/pub/mark-edge-md', 'idx_scraper_list': 344}
+{'NPI': 1003899923, 'url': 'https://www.doximity.com/pub/hao-vuong-md', 'idx_scraper_list': 345}
+{'NPI': 1003901554, 'url': 'https://www.doximity.com/pub/bryan-hwang-md', 'idx_scraper_list': 346}
+{'NPI': 1003902172, 'url': 'https://www.doximity.com/pub/srinivasan-mukundan-md', 'idx_scraper_list': 347}
+{'NPI': 1003903766, 'url': 'https://www.doximity.com/pub/mary-drinkwater-md', 'idx_scraper_list': 348}
+{'NPI': 1003904541, 'url': 'https://www.doximity.com/pub/jose-mora-md', 'idx_scraper_list': 349}
+{'NPI': 1003905290, 'url': 'https://www.doximity.com/pub/john-gianini-md', 'idx_scraper_list': 350}
+{'NPI': 1003906629, 'url': 'https://www.doximity.com/pub/karen-salzman-md', 'idx_scraper_list': 351}
+{'NPI': 1003920299, 'url': 'https://www.doximity.com/pub/sanford-ornstein-md', 'idx_scraper_list': 352}
+{'NPI': 1003921123, 'url': 'https://www.doximity.com/pub/mary-davey-md', 'idx_scraper_list': 353}
+{'NPI': 1003921404, 'url': 'https://www.doximity.com/pub/paul-tanner-md', 'idx_scraper_list': 354}
+{'NPI': 1003922147, 'url': 'https://www.doximity.com/pub/martha-glenn-md', 'idx_scraper_list': 355}
+{'NPI': 1003924028, 'url': 'https://www.doximity.com/pub/tatum-johnson-md', 'idx_scraper_list': 356}
+{'NPI': 1003926395, 'url': 'https://www.doximity.com/pub/richard-ha-md', 'idx_scraper_list': 357}
+{'NPI': 1003927666, 'url': 'https://www.doximity.com/pub/charles-voigt-md', 'idx_scraper_list': 358}
+{'NPI': 1003929209, 'url': 'https://www.doximity.com/pub/colin-clarke-md', 'idx_scraper_list': 359}
+{'NPI': 1003943440, 'url': 'https://www.doximity.com/pub/elton-tourje-md', 'idx_scraper_list': 360}
+{'NPI': 1003943440, 'url': 'https://www.doximity.com/pub/james-tourje-md', 'idx_scraper_list': 361}
+{'NPI': 1003947276, 'url': 'https://www.doximity.com/pub/ty-montgomery-md', 'idx_scraper_list': 362}
+{'NPI': 1003947565, 'url': 'https://www.doximity.com/pub/zita-witte-md', 'idx_scraper_list': 363}
+{'NPI': 1003954421, 'url': 'https://www.doximity.com/pub/eric-white-md', 'idx_scraper_list': 364}
+{'NPI': 1003962416, 'url': 'https://www.doximity.com/pub/nami-zarvan-md', 'idx_scraper_list': 365}
+{'NPI': 1003965799, 'url': 'https://www.doximity.com/pub/paolo-nucifora-md', 'idx_scraper_list': 366}
+{'NPI': 1003968660, 'url': 'https://www.doximity.com/pub/danny-mccarthy-md', 'idx_scraper_list': 367}
+{'NPI': 1003977372, 'url': 'https://www.doximity.com/pub/lloyd-greaser-md', 'idx_scraper_list': 368}
+{'NPI': 1003984741, 'url': 'https://www.doximity.com/pub/rajinder-sharma-md', 'idx_scraper_list': 369}
+{'NPI': 1003985177, 'url': 'https://www.doximity.com/pub/soheil-niku-md', 'idx_scraper_list': 370}
+{'NPI': 1003985771, 'url': 'https://www.doximity.com/pub/michael-todd-md', 'idx_scraper_list': 371}
+{'NPI': 1003987124, 'url': 'https://www.doximity.com/pub/kathryn-klima-md', 'idx_scraper_list': 372}
+{'NPI': 1003989179, 'url': 'https://www.doximity.com/pub/jana-fahmy-md', 'idx_scraper_list': 373}
+{'NPI': 1003990094, 'url': 'https://www.doximity.com/pub/cheryl-kahn-md', 'idx_scraper_list': 374}
+{'NPI': 1003991803, 'url': 'https://www.doximity.com/pub/patrick-freeny-md', 'idx_scraper_list': 375}
+{'NPI': 1003992728, 'url': 'https://www.doximity.com/pub/thomas-burdick-md', 'idx_scraper_list': 376}
+{'NPI': 1003998717, 'url': 'https://www.doximity.com/pub/richard-semelka-md', 'idx_scraper_list': 377}
+{'NPI': 1003999103, 'url': 'https://www.doximity.com/pub/danh-nguyen-md', 'idx_scraper_list': 378}
+{'NPI': 1013001643, 'url': 'https://www.doximity.com/pub/christine-llewellyn-md', 'idx_scraper_list': 379}
+{'NPI': 1013002781, 'url': 'https://www.doximity.com/pub/roger-cothran-md', 'idx_scraper_list': 380}
+{'NPI': 1013002906, 'url': 'https://www.doximity.com/pub/yuliya-lakhman-md', 'idx_scraper_list': 381}
+{'NPI': 1013004068, 'url': 'https://www.doximity.com/pub/hugh-harnsberger-md', 'idx_scraper_list': 382}
+{'NPI': 1013008184, 'url': 'https://www.doximity.com/pub/david-hayes-md', 'idx_scraper_list': 383}
+{'NPI': 1013008754, 'url': 'https://www.doximity.com/pub/tully-currie-md', 'idx_scraper_list': 384}
+{'NPI': 1013009018, 'url': 'https://www.doximity.com/pub/robert-mishkin-md', 'idx_scraper_list': 385}
+{'NPI': 1013009075, 'url': 'https://www.doximity.com/pub/morand-piert-md', 'idx_scraper_list': 386}
+{'NPI': 1013009448, 'url': 'https://www.doximity.com/pub/arthur-fleischer-md', 'idx_scraper_list': 387}
+{'NPI': 1013014968, 'url': 'https://www.doximity.com/pub/margaret-lee-md', 'idx_scraper_list': 388}
+{'NPI': 1013015288, 'url': 'https://www.doximity.com/pub/adrian-baranetsky-md', 'idx_scraper_list': 389}
+{'NPI': 1013015544, 'url': 'https://www.doximity.com/pub/steven-pruett-md', 'idx_scraper_list': 390}
+{'NPI': 1013017391, 'url': 'https://www.doximity.com/pub/kristin-gerndt-md', 'idx_scraper_list': 391}
+{'NPI': 1013017581, 'url': 'https://www.doximity.com/pub/erik-stien-md', 'idx_scraper_list': 392}
+{'NPI': 1013018159, 'url': 'https://www.doximity.com/pub/kenneth-crosby-md', 'idx_scraper_list': 393}
+{'NPI': 1013021336, 'url': 'https://www.doximity.com/pub/daniel-backlas-md', 'idx_scraper_list': 394}
+{'NPI': 1013024413, 'url': 'https://www.doximity.com/pub/habibollah-rahbar-md', 'idx_scraper_list': 395}
+{'NPI': 1013024488, 'url': 'https://www.doximity.com/pub/laura-applegate-md', 'idx_scraper_list': 396}
+{'NPI': 1013025345, 'url': 'https://www.doximity.com/pub/martin-fine-md', 'idx_scraper_list': 397}
+{'NPI': 1013028323, 'url': 'https://www.doximity.com/pub/janice-dieschbourg-md', 'idx_scraper_list': 398}
+{'NPI': 1013028562, 'url': 'https://www.doximity.com/pub/alan-massengill-md', 'idx_scraper_list': 399}
+{'NPI': 1013028612, 'url': 'https://www.doximity.com/pub/jason-wallace-md', 'idx_scraper_list': 400}
+{'NPI': 1013028695, 'url': 'https://www.doximity.com/pub/john-bools-md', 'idx_scraper_list': 401}
+{'NPI': 1013030782, 'url': 'https://www.doximity.com/pub/whitney-goodwin-md', 'idx_scraper_list': 402}
+{'NPI': 1013030790, 'url': 'https://www.doximity.com/pub/jarret-sanders-md', 'idx_scraper_list': 403}
+{'NPI': 1013034180, 'url': 'https://www.doximity.com/pub/chad-meyers-md', 'idx_scraper_list': 404}
+{'NPI': 1013038967, 'url': 'https://www.doximity.com/pub/raymond-liu-md', 'full_name': 'RaymondLiuMD', 'first_name': 'Raymond', 'last_name': 'Liu', 'credentials': 'MD', 'specialty': 'Oncology', 'city_state': 'San Francisco, CA', 'subspecialty': 'Gastrointestinal Cancer, Hematologic Oncology, Neuro-Oncology, Complementary and Integrative', 'job_title': 'Chief of Hematology-Oncology Kaiser Permanente San Francisco\r\nRegional Director Cancer Survivorship', 'st_address': '2238 Geary Boulevard 8SE', 'zip': '94115', 'st_address_full': '2238 Geary Boulevard 8SESan Francisco, CA 94115', 'phone_num': '(415) 833-2859', 'idx_scraper_list': 405}
+{'NPI': 1013040450, 'url': 'https://www.doximity.com/pub/amy-pepperney-md', 'full_name': 'AmyKPepperneyMD', 'first_name': 'Amy', 'last_name': 'Pepperney', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Hanover, MD', 'subspecialty': 'Abdominal Imaging', 'job_title': 'Physician\n', 'st_address': '7556 Teague Rd', 'zip': '21076', 'st_address_full': '7556 Teague RdHanover, MD 21076', 'phone_num': '(443) 436-1100', 'idx_scraper_list': 406}
+{'NPI': 1013042886, 'url': 'https://www.doximity.com/pub/philip-luu-md', 'full_name': 'PhilipLuuMD', 'first_name': 'Philip', 'last_name': 'Luu', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Ontario, CA', 'job_title': 'Physician\n', 'st_address': '2295 S Vineyard Ave', 'zip': '91761', 'st_address_full': '2295 S Vineyard AveOntario, CA 91761', 'phone_num': '(909) 724-5000', 'idx_scraper_list': 407}
+{'NPI': 1013044452, 'url': 'https://www.doximity.com/pub/hillary-kelly-md', 'full_name': 'HillaryR.(Rolls)KellyMD', 'first_name': 'Hillary', 'last_name': 'Kelly', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Boston, MA', 'subspecialty': 'Neuroradiology', 'job_title': 'Clinical Fellow in Radiology, Massachusetts General Hospital', 'st_address': 'Massachusetts General Hospital 55 Fruit Street, Grb-273a', 'zip': '02114', 'st_address_full': 'Massachusetts General Hospital55 Fruit Street, Grb-273aBoston, MA 02114', 'phone_num': '(617) 726-8320', 'idx_scraper_list': 408}
+{'NPI': 1013053073, 'url': 'https://www.doximity.com/pub/thomas-murphy-md', 'full_name': 'ThomasJosephMurphyMD', 'first_name': 'Thomas', 'last_name': 'Murphy', 'credentials': 'MD', 'specialty': 'Obstetrics & Gynecology', 'city_state': 'La Mesa, CA', 'subspecialty': 'General Gynecology, General Obstetrics', 'job_title': 'Physician\n', 'st_address': '8851 Center Dr Ste 100', 'zip': '91942', 'st_address_full': '8851 Center DrSte 100La Mesa, CA 91942', 'phone_num': '(619) 463-0600', 'idx_scraper_list': 409}
+{'NPI': 1013056027, 'url': 'https://www.doximity.com/pub/timothy-brown-md', 'full_name': 'TimothyHBrownMD', 'first_name': 'Timothy', 'last_name': 'Brown', 'credentials': 'MD', 'specialty': 'Infectious Disease', 'city_state': 'Hamilton, OH', 'job_title': 'Physician\n', 'st_address': '3145 Hamilton Mason Rd 2nd Floor', 'zip': '45011', 'st_address_full': '3145 Hamilton Mason Rd2nd FloorHamilton, OH 45011', 'phone_num': '(513) 867-0015', 'idx_scraper_list': 410}
+{'NPI': 1013059625, 'url': 'https://www.doximity.com/pub/brian-callahan-md', 'full_name': 'BrianPCallahanMD', 'first_name': 'Brian', 'last_name': 'Callahan', 'credentials': 'MD', 'specialty': 'Neurosurgery', 'city_state': 'Tucson, AZ', 'job_title': 'Physician\n', 'st_address': '2450 E River Rd', 'zip': '85718', 'st_address_full': '2450 E River RdTucson, AZ 85718', 'phone_num': '(520) 795-7750', 'idx_scraper_list': 411}
+{'NPI': 1013059872, 'url': 'https://www.doximity.com/pub/christophe-baker-md', 'idx_scraper_list': 412}
+{'NPI': 1013059872, 'url': 'https://www.doximity.com/pub/christopher-baker-md', 'full_name': 'ChristopherEBakerMD', 'first_name': 'Christopher', 'last_name': 'Baker', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Worcester, MA', 'subspecialty': "Ultrasound, Women's Imaging", 'job_title': 'Assistant Professor Radiology, UMass Medical School, UmassMemorial Hospital, Worcester', 'st_address': '55 Lake Ave N', 'zip': '01655', 'st_address_full': '55 Lake Ave NWorcester, MA 01655', 'phone_num': '(508) 334-3850', 'idx_scraper_list': 413}
+{'NPI': 1013060904, 'url': 'https://www.doximity.com/pub/janica-peavey-md', 'full_name': 'JanicaWaldenPeaveyMD', 'first_name': 'Janica', 'last_name': 'Peavey', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Savannah, GA', 'subspecialty': 'Neuroradiology', 'job_title': 'Physician\n', 'st_address': '503 Eisenhower Dr', 'zip': '31406', 'st_address_full': '503 Eisenhower DrSavannah, GA 31406', 'phone_num': '(912) 355-6255', 'idx_scraper_list': 414}
+{'NPI': 1013060904, 'url': 'https://www.doximity.com/pub/janica-walden-md', 'full_name': 'JanicaWaldenPeaveyMD', 'first_name': 'Janica', 'last_name': 'Peavey', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Savannah, GA', 'subspecialty': 'Neuroradiology', 'job_title': 'Physician\n', 'st_address': '503 Eisenhower Dr', 'zip': '31406', 'st_address_full': '503 Eisenhower DrSavannah, GA 31406', 'phone_num': '(912) 355-6255', 'idx_scraper_list': 415}
+{'NPI': 1013062439, 'url': 'https://www.doximity.com/pub/frank-hamlett-md', 'full_name': 'FrankJHamlettMD', 'first_name': 'Frank', 'last_name': 'Hamlett', 'credentials': 'MD', 'specialty': 'Psychiatry', 'city_state': 'State College, PA', 'subspecialty': 'Child & Adolescent Psychiatry', 'job_title': 'Physician\n', 'st_address': '231 Alder Ct', 'zip': '16803', 'st_address_full': '231 Alder CtState College, PA 16803', 'idx_scraper_list': 416}
+{'NPI': 1013063908, 'url': 'https://www.doximity.com/pub/siddharth-pandya-md', 'full_name': 'SiddharthTPandyaMD', 'first_name': 'Siddharth', 'last_name': 'Pandya', 'credentials': 'MD', 'specialty': 'Internal Medicine', 'city_state': 'Brooklyn, NY', 'job_title': 'Physician\n', 'st_address': '650 Fulton St', 'zip': '11217', 'st_address_full': '650 Fulton StBrooklyn, NY 11217', 'phone_num': '(718) 596-9800', 'idx_scraper_list': 417}
+{'NPI': 1013065978, 'url': 'https://www.doximity.com/pub/nancy-suminski-md', 'full_name': 'NancyC.SuminskiMD', 'first_name': 'Nancy', 'last_name': 'Suminski', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Panorama City, CA', 'subspecialty': 'Abdominal Imaging', 'job_title': 'Physician\n', 'st_address': '13652 Cantara St', 'zip': '91402', 'st_address_full': '13652 Cantara StPanorama City, CA 91402', 'phone_num': '(818) 375-2000', 'idx_scraper_list': 418}
+{'NPI': 1013066810, 'url': 'https://www.doximity.com/pub/donald-huff-md', 'full_name': 'DonaldWayneHuffMD', 'first_name': 'Donald', 'last_name': 'Huff', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Algood, TN', 'job_title': 'Physician\n', 'st_address': '142 W 5th St', 'zip': '38501', 'st_address_full': '142 W 5th StAlgood, TN 38501', 'phone_num': '(931) 823-7980', 'idx_scraper_list': 419}
+{'NPI': 1013071687, 'url': 'https://www.doximity.com/pub/samuel-wu-md', 'full_name': 'SamuelMWuMD', 'first_name': 'Samuel', 'last_name': 'Wu', 'credentials': 'MD', 'specialty': 'Interventional Radiology', 'city_state': 'Honolulu, HI', 'job_title': 'Physician\n', 'st_address': '3288 Moanalua Rd', 'zip': '96819', 'st_address_full': '3288 Moanalua RdHonolulu, HI 96819', 'phone_num': '(808) 432-0000', 'idx_scraper_list': 420}
+{'NPI': 1013076272, 'url': 'https://www.doximity.com/pub/monroe-broome-md', 'full_name': 'MonroeABroomeMD', 'first_name': 'Monroe', 'last_name': 'Broome', 'credentials': 'MD', 'specialty': 'Interventional Radiology', 'city_state': 'Knoxville, TN', 'job_title': 'Physician\n', 'st_address': '1112 E Weisgarber Rd Ste 102', 'zip': '37909', 'st_address_full': '1112 E Weisgarber RdSte 102Knoxville, TN 37909', 'phone_num': '(865) 558-9862', 'idx_scraper_list': 421}
+{'NPI': 1013079847, 'url': 'https://www.doximity.com/pub/kelley-helquist-md', 'full_name': 'KelleyStaffordHelquistMD', 'first_name': 'Kelley', 'last_name': 'Helquist', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Thomasville, GA', 'job_title': 'Physician\n', 'st_address': '915 Gordon Ave', 'zip': '31792', 'st_address_full': '915 Gordon AveThomasville, GA 31792', 'phone_num': '(229) 228-2000', 'idx_scraper_list': 422}
+{'NPI': 1013080787, 'url': 'https://www.doximity.com/pub/michael-melendez-md', 'full_name': 'MichaelGerardoMelendezMD', 'first_name': 'Michael', 'last_name': 'Melendez', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Saint Maries, ID', 'job_title': 'Physician\n', 'st_address': '229 S 7th St', 'zip': '83861', 'st_address_full': '229 S 7th StSaint Maries, ID 83861', 'phone_num': '(208) 245-5551', 'idx_scraper_list': 423}
+{'NPI': 1013081942, 'url': 'https://www.doximity.com/pub/jonathan-sehy-md', 'full_name': 'JonathanSehyMD', 'first_name': 'Jonathan', 'last_name': 'Sehy', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Maryville, IL', 'subspecialty': 'Neuroradiology', 'job_title': 'Physician\n', 'st_address': '6800 State Route 162 Anderson Hospital, Dept. Of Radiology', 'zip': '62062', 'st_address_full': '6800 State Route 162Anderson Hospital, Dept. Of RadiologyMaryville, IL 62062', 'phone_num': '(314) 359-3166', 'idx_scraper_list': 424}
+{'NPI': 1013084987, 'url': 'https://www.doximity.com/pub/chris-jensen-md', 'full_name': 'ChrisSJensenMD', 'first_name': 'Chris', 'last_name': 'Jensen', 'credentials': 'MD', 'specialty': 'Pathology', 'city_state': 'Iowa City, IA', 'subspecialty': 'Cytopathology, Anatomic Pathology, Clinical Pathology', 'job_title': 'Associate Professor, Pathology, University of Iowa College of Medicine', 'st_address': '200 Hawkins Dr', 'zip': '52242', 'st_address_full': '200 Hawkins DrIowa City, IA 52242', 'phone_num': '(319) 356-4433', 'idx_scraper_list': 425}
+{'NPI': 1013085752, 'url': 'https://www.doximity.com/pub/milan-pantelic-md', 'full_name': 'MilanV.PantelicMDFACR', 'first_name': 'Milan', 'last_name': 'Pantelic', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Detroit, MI', 'subspecialty': 'Abdominal Imaging, Cardiac CT & MRI, Genitourinary Imaging, Nuclear Medicine', 'job_title': 'Director, Body MRI and Cardiac CT/MRI', 'st_address': '2799 W Grand Blvd', 'zip': '48202', 'st_address_full': '2799 W Grand BlvdDetroit, MI 48202', 'phone_num': '(800) 653-6568', 'idx_scraper_list': 426}
+{'NPI': 1013086859, 'url': 'https://www.doximity.com/pub/lawrence-wang-md', 'full_name': 'LawrencePWangMD', 'first_name': 'Lawrence', 'last_name': 'Wang', 'credentials': 'MD', 'specialty': 'Internal Medicine', 'city_state': 'Terrace Park, OH', 'job_title': 'Physician\n', 'st_address': '614 Wooster Pike Ste 7', 'zip': '45174', 'st_address_full': '614 Wooster Pike Ste 7Terrace Park, OH 45174', 'phone_num': '(513) 831-8690', 'idx_scraper_list': 427}
+{'NPI': 1013087113, 'url': 'https://www.doximity.com/pub/joseph-lee-md', 'full_name': 'JosephTLeeMD', 'first_name': 'Joseph', 'last_name': 'Lee', 'credentials': 'MD', 'specialty': 'Family Medicine', 'city_state': 'Chico, CA', 'job_title': 'Physician\n', 'st_address': '1601 Concord Ave', 'zip': '95928', 'st_address_full': '1601 Concord AveChico, CA 95928', 'idx_scraper_list': 428}
+{'NPI': 1013090117, 'url': 'https://www.doximity.com/pub/hao-ngo-md', 'full_name': 'HaoQuyNgoMD', 'first_name': 'Hao', 'last_name': 'Ngo', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Fullerton, CA', 'job_title': 'Physician\n', 'st_address': '101 East Valencia Mesa Drive', 'zip': '92835', 'st_address_full': '101 East Valencia Mesa DriveFullerton, CA 92835', 'phone_num': '(714) 992-3978', 'idx_scraper_list': 429}
+{'NPI': 1013095785, 'url': 'https://www.doximity.com/pub/robert-ochi-md', 'full_name': 'RobertP.OchiMD', 'first_name': 'Robert', 'last_name': 'Ochi', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Roseville, CA', 'subspecialty': 'Neuroradiology, Vascular & Interventional Radiology', 'job_title': 'Physician\n', 'st_address': '1600 Eureka Rd', 'zip': '95661', 'st_address_full': '1600 Eureka RdRoseville, CA 95661', 'phone_num': '(916) 784-4000', 'idx_scraper_list': 430}
+{'NPI': 1013096106, 'url': 'https://www.doximity.com/pub/stephanie-reddick-md', 'full_name': 'StephanieA(Schwartz)ReddickMD', 'first_name': 'Stephanie', 'last_name': 'Reddick', 'credentials': 'MD', 'specialty': 'Interventional Radiology', 'city_state': 'Dallas, TX', 'job_title': 'Radiologist', 'st_address': '13737 Noel Rd., Ste 1600', 'zip': '75240', 'st_address_full': '13737 Noel Rd., Ste 1600Dallas, TX 75240', 'idx_scraper_list': 431}
+{'NPI': 1013096866, 'url': 'https://www.doximity.com/pub/amir-sepahdari-md', 'idx_scraper_list': 432}
+{'NPI': 1013098037, 'url': 'https://www.doximity.com/pub/perry-pernicano-md', 'full_name': 'PerryGPernicanoMD', 'first_name': 'Perry', 'last_name': 'Pernicano', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Ann Arbor, MI', 'subspecialty': 'Abdominal Imaging, Thoracic Imaging, Ultrasound', 'job_title': 'Clinical Assistant Professor', 'st_address': '1500 East Medical Center Dr Taubman B1-132B', 'zip': '48109', 'st_address_full': '1500 East Medical Center DrTaubman B1-132BAnn Arbor, MI 48109', 'phone_num': '(734) 936-8769', 'idx_scraper_list': 433}
+{'NPI': 1013098250, 'url': 'https://www.doximity.com/pub/ellen-hoeffner-md', 'full_name': 'EllenGHoeffnerMD', 'first_name': 'Ellen', 'last_name': 'Hoeffner', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Ann Arbor, MI', 'subspecialty': 'Neuroradiology', 'job_title': 'Associate Professor, Radiology, University of Michigan Medical School', 'st_address': '1500 East Medical Center Dr B1 Floor University Hospital Recp C', 'zip': '48109', 'st_address_full': '1500 East Medical Center DrB1 Floor University Hospital Recp CAnn Arbor, MI 48109', 'phone_num': '(734) 936-4566', 'idx_scraper_list': 434}
+{'NPI': 1013100098, 'url': 'https://www.doximity.com/pub/alex-volvovsky-md', 'full_name': 'AlexVolvovskyMD', 'first_name': 'Alex', 'last_name': 'Volvovsky', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'New York, NY', 'subspecialty': 'Neuroradiology', 'job_title': 'Physician\n', 'st_address': '1000 10th Ave Suite 4b14', 'zip': '10019', 'st_address_full': '1000 10th AveSuite 4b14New York, NY 10019', 'phone_num': '(212) 536-6668', 'idx_scraper_list': 435}
+{'NPI': 1013100312, 'url': 'https://www.doximity.com/pub/brendan-banyon-md', 'full_name': 'BrendanMichaelBanyonMD', 'first_name': 'Brendan', 'last_name': 'Banyon', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Michigan City, IN', 'job_title': 'Physician\n', 'st_address': '402 west homer', 'zip': '46361', 'st_address_full': '402 west homerMichigan City, IN 46361', 'phone_num': '(219) 861-8776', 'idx_scraper_list': 436}
+{'NPI': 1013105402, 'url': 'https://www.doximity.com/pub/ranjith-vellody-md', 'full_name': 'RanjithVellodyMD', 'first_name': 'Ranjith', 'last_name': 'Vellody', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Washington, DC', 'subspecialty': 'Interventional Neuroradiology, Vascular & Interventional Radiology', 'job_title': 'Physician\n', 'st_address': '111 Michigan Ave NW', 'zip': '20010', 'st_address_full': '111 Michigan Ave NWWashington, DC 20010', 'phone_num': '(734) 936-4566', 'idx_scraper_list': 437}
+{'NPI': 1013107168, 'url': 'https://www.doximity.com/pub/travis-blanchard-md', 'full_name': 'TravisJBlanchardMD', 'first_name': 'Travis', 'last_name': 'Blanchard', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Zachary, LA', 'subspecialty': 'Neuroradiology', 'job_title': 'Physician\n', 'st_address': '6300 Main St', 'zip': '70791', 'st_address_full': '6300 Main StZachary, LA 70791', 'phone_num': '(225) 658-4000', 'idx_scraper_list': 438}
+{'NPI': 1013107697, 'url': 'https://www.doximity.com/pub/cari-buckingham-md', 'full_name': 'CariLovelady(Lovelady)MotuzasMD', 'first_name': 'Cari', 'last_name': 'Motuzas', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Franklin, TN', 'subspecialty': 'Neuroradiology', 'job_title': 'Physician\n', 'st_address': '206 Bedford Way', 'zip': '37064', 'st_address_full': '206 Bedford WayFranklin, TN 37064', 'phone_num': '(615) 790-3290', 'idx_scraper_list': 439}
+{'NPI': 1013107697, 'url': 'https://www.doximity.com/pub/cari-motuzas-md', 'full_name': 'CariLovelady(Lovelady)MotuzasMD', 'first_name': 'Cari', 'last_name': 'Motuzas', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Franklin, TN', 'subspecialty': 'Neuroradiology', 'job_title': 'Physician\n', 'st_address': '206 Bedford Way', 'zip': '37064', 'st_address_full': '206 Bedford WayFranklin, TN 37064', 'phone_num': '(615) 790-3290', 'idx_scraper_list': 440}
+{'NPI': 1013107762, 'url': 'https://www.doximity.com/pub/christopho-reed-md', 'idx_scraper_list': 441}
+{'NPI': 1013107762, 'url': 'https://www.doximity.com/pub/christophor-reed-md', 'full_name': 'ChristophorDReedMD', 'first_name': 'Christophor', 'last_name': 'Reed', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Jackson, MS', 'job_title': 'Instructor, Radiology, University of Mississippi School of Medicine', 'st_address': '2500 N State St', 'zip': '39216', 'st_address_full': '2500 N State StJackson, MS 39216', 'phone_num': '(601) 984-2500', 'idx_scraper_list': 442}
+{'NPI': 1013110477, 'url': 'https://www.doximity.com/pub/sameer-gadani-md', 'idx_scraper_list': 443}
+{'NPI': 1013112499, 'url': 'https://www.doximity.com/pub/fraser-brown-md', 'idx_scraper_list': 444}
+{'NPI': 1013112820, 'url': 'https://www.doximity.com/pub/alan-mortezaie-md', 'full_name': 'AlanRMortezaieMD', 'first_name': 'Alan', 'last_name': 'Mortezaie', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Bakersfield, CA', 'job_title': 'Physician\n', 'st_address': '2301 Bahamas Dr', 'zip': '93309', 'st_address_full': '2301 Bahamas DrBakersfield, CA 93309', 'phone_num': '(661) 326-9600', 'idx_scraper_list': 445}
+{'NPI': 1013113026, 'url': 'https://www.doximity.com/pub/young-song-md', 'idx_scraper_list': 446}
+{'NPI': 1013113224, 'url': 'https://www.doximity.com/pub/beau-toskich-md', 'idx_scraper_list': 447}
+{'NPI': 1013115658, 'url': 'https://www.doximity.com/pub/cristina-vieira-md', 'idx_scraper_list': 448}
+{'NPI': 1013117977, 'url': 'https://www.doximity.com/pub/geoffrey-horn-md', 'idx_scraper_list': 449}
+{'NPI': 1013118207, 'url': 'https://www.doximity.com/pub/jeffrey-horvath-md', 'idx_scraper_list': 450}
+{'NPI': 1013118637, 'url': 'https://www.doximity.com/pub/yu-zeng-md', 'idx_scraper_list': 451}
+{'NPI': 1013118702, 'url': 'https://www.doximity.com/pub/michael-bazzani-md', 'idx_scraper_list': 452}
+{'NPI': 1013123447, 'url': 'https://www.doximity.com/pub/naciye-turan-md', 'idx_scraper_list': 453}
+{'NPI': 1013124924, 'url': 'https://www.doximity.com/pub/paul-harkey-md', 'idx_scraper_list': 454}
+{'NPI': 1013125764, 'url': 'https://www.doximity.com/pub/narinder-sethi-md', 'idx_scraper_list': 455}
+{'NPI': 1013127117, 'url': 'https://www.doximity.com/pub/jason-griffith-md', 'idx_scraper_list': 456}
+{'NPI': 1013128057, 'url': 'https://www.doximity.com/pub/william-zucconi-md', 'idx_scraper_list': 457}
+{'NPI': 1013128073, 'url': 'https://www.doximity.com/pub/sachin-parikh-md', 'idx_scraper_list': 458}
+{'NPI': 1013129790, 'url': 'https://www.doximity.com/pub/robert-pope-md', 'idx_scraper_list': 459}
+{'NPI': 1013138825, 'url': 'https://www.doximity.com/pub/joseph-mazzie-md', 'idx_scraper_list': 460}
+{'NPI': 1013142348, 'url': 'https://www.doximity.com/pub/michael-karachalios-md', 'idx_scraper_list': 461}
+{'NPI': 1013142983, 'url': 'https://www.doximity.com/pub/rati-patel-md', 'idx_scraper_list': 462}
+{'NPI': 1013143015, 'url': 'https://www.doximity.com/pub/john-hancock-md', 'idx_scraper_list': 463}
+{'NPI': 1013143023, 'url': 'https://www.doximity.com/pub/michele-even-md', 'idx_scraper_list': 464}
+{'NPI': 1013143692, 'url': 'https://www.doximity.com/pub/brett-welke-md', 'idx_scraper_list': 465}
+{'NPI': 1013145168, 'url': 'https://www.doximity.com/pub/stefan-hoff-md', 'idx_scraper_list': 466}
+{'NPI': 1013145283, 'url': 'https://www.doximity.com/pub/jennifer-montgomery-md', 'idx_scraper_list': 467}
+{'NPI': 1013145820, 'url': 'https://www.doximity.com/pub/patrick-robbins-md', 'idx_scraper_list': 468}
+{'NPI': 1013145838, 'url': 'https://www.doximity.com/pub/johan-blickman-md', 'idx_scraper_list': 469}
+{'NPI': 1013145853, 'url': 'https://www.doximity.com/pub/kristan-jenkins-mosure-md', 'idx_scraper_list': 470}
+{'NPI': 1013147263, 'url': 'https://www.doximity.com/pub/michael-wells-md', 'idx_scraper_list': 471}
+{'NPI': 1013147719, 'url': 'https://www.doximity.com/pub/stephen-quinet-md', 'idx_scraper_list': 472}
+{'NPI': 1013150887, 'url': 'https://www.doximity.com/pub/steven-bonebrake-md', 'idx_scraper_list': 473}
+{'NPI': 1013151208, 'url': 'https://www.doximity.com/pub/naveen-gumpeni-md', 'idx_scraper_list': 474}
+{'NPI': 1013151810, 'url': 'https://www.doximity.com/pub/megan-saettele-md', 'idx_scraper_list': 475}
+{'NPI': 1013158880, 'url': 'https://www.doximity.com/pub/jacob-gebrael-md', 'idx_scraper_list': 476}
+{'NPI': 1013159680, 'url': 'https://www.doximity.com/pub/matthew-locker-md', 'idx_scraper_list': 477}
+{'NPI': 1013163526, 'url': 'https://www.doximity.com/pub/benjamin-moreno-md', 'idx_scraper_list': 478}
+{'NPI': 1013163534, 'url': 'https://www.doximity.com/pub/david-rosman-md', 'idx_scraper_list': 479}
+{'NPI': 1013164268, 'url': 'https://www.doximity.com/pub/leila-see-md', 'idx_scraper_list': 480}
+{'NPI': 1013167600, 'url': 'https://www.doximity.com/pub/robert-fischer-md', 'idx_scraper_list': 481}
+{'NPI': 1013169366, 'url': 'https://www.doximity.com/pub/ho-nguyen-md', 'idx_scraper_list': 482}
+{'NPI': 1013170414, 'url': 'https://www.doximity.com/pub/kiran-sekhar-md', 'idx_scraper_list': 483}
+{'NPI': 1013171453, 'url': 'https://www.doximity.com/pub/tami-carrillo-md', 'idx_scraper_list': 484}
+{'NPI': 1013171784, 'url': 'https://www.doximity.com/pub/christophe-nall-md', 'idx_scraper_list': 485}
+{'NPI': 1013171784, 'url': 'https://www.doximity.com/pub/christopher-nall-md', 'idx_scraper_list': 486}
+{'NPI': 1013171941, 'url': 'https://www.doximity.com/pub/elias-antypas-md', 'idx_scraper_list': 487}
+{'NPI': 1013173640, 'url': 'https://www.doximity.com/pub/thomas-presenza-md', 'idx_scraper_list': 488}
+{'NPI': 1013173681, 'url': 'https://www.doximity.com/pub/amar-shah-md', 'idx_scraper_list': 489}
+{'NPI': 1013173814, 'url': 'https://www.doximity.com/pub/scott-henneman-md', 'idx_scraper_list': 490}
+{'NPI': 1013174200, 'url': 'https://www.doximity.com/pub/lindsey-wilson-md', 'idx_scraper_list': 491}
+{'NPI': 1013175017, 'url': 'https://www.doximity.com/pub/brian-swehla-md', 'idx_scraper_list': 492}
+{'NPI': 1013176858, 'url': 'https://www.doximity.com/pub/elliott-gozansky-md', 'idx_scraper_list': 493}
+{'NPI': 1013177120, 'url': 'https://www.doximity.com/pub/baxter-tharin-md', 'idx_scraper_list': 494}
+{'NPI': 1013177344, 'url': 'https://www.doximity.com/pub/evan-leitz-md', 'idx_scraper_list': 495}
+{'NPI': 1013177419, 'url': 'https://www.doximity.com/pub/omar-usmani-md', 'idx_scraper_list': 496}
+{'NPI': 1013177641, 'url': 'https://www.doximity.com/pub/sreenivas-garla-md', 'idx_scraper_list': 497}
+{'NPI': 1013178250, 'url': 'https://www.doximity.com/pub/kathryn-jones-md', 'idx_scraper_list': 498}
+{'NPI': 1013178953, 'url': 'https://www.doximity.com/pub/michael-campbell-md', 'idx_scraper_list': 499}
+{'NPI': 1013179191, 'url': 'https://www.doximity.com/pub/stanley-chang-md', 'idx_scraper_list': 500}
+{'NPI': 1013179266, 'url': 'https://www.doximity.com/pub/raun-wetzel-md', 'idx_scraper_list': 501}
+{'NPI': 1013179423, 'url': 'https://www.doximity.com/pub/michael-plaza-md', 'idx_scraper_list': 502}
+{'NPI': 1013179449, 'url': 'https://www.doximity.com/pub/naveen-prabhakar-md', 'idx_scraper_list': 503}
+{'NPI': 1013179829, 'url': 'https://www.doximity.com/pub/sean-gussick-md', 'idx_scraper_list': 504}
+{'NPI': 1013179894, 'url': 'https://www.doximity.com/pub/mala-shah-md', 'idx_scraper_list': 505}
+{'NPI': 1013181924, 'url': 'https://www.doximity.com/pub/tilina-hu-md', 'idx_scraper_list': 506}
+{'NPI': 1013184241, 'url': 'https://www.doximity.com/pub/james-schauberger-md', 'idx_scraper_list': 507}
+{'NPI': 1013184340, 'url': 'https://www.doximity.com/pub/melinda-sava-md', 'idx_scraper_list': 508}
+{'NPI': 1013187772, 'url': 'https://www.doximity.com/pub/john-ritter-md', 'idx_scraper_list': 509}
+{'NPI': 1013187889, 'url': 'https://www.doximity.com/pub/miguel-fabrega-md', 'idx_scraper_list': 510}
+{'NPI': 1013188051, 'url': 'https://www.doximity.com/pub/anh-quan-nguyen-md', 'idx_scraper_list': 511}
+{'NPI': 1013188762, 'url': 'https://www.doximity.com/pub/gunvir-gill-md', 'idx_scraper_list': 512}
+{'NPI': 1013191600, 'url': 'https://www.doximity.com/pub/roy-kumar-md', 'idx_scraper_list': 513}
+{'NPI': 1013193101, 'url': 'https://www.doximity.com/pub/brandon-itagaki-md', 'idx_scraper_list': 514}
+{'NPI': 1013193176, 'url': 'https://www.doximity.com/pub/stuart-bentley-hibbert-md', 'idx_scraper_list': 515}
+{'NPI': 1013196575, 'url': 'https://www.doximity.com/pub/michael-gentry-md', 'idx_scraper_list': 516}
+{'NPI': 1013197805, 'url': 'https://www.doximity.com/pub/jaideep-barge-md', 'idx_scraper_list': 517}
+{'NPI': 1013198761, 'url': 'https://www.doximity.com/pub/dipti-gupta-md', 'idx_scraper_list': 518}
+{'NPI': 1013200203, 'url': 'https://www.doximity.com/pub/aaron-kline-md', 'idx_scraper_list': 519}
+{'NPI': 1013204759, 'url': 'https://www.doximity.com/pub/ruri-lee-md', 'idx_scraper_list': 520}
+{'NPI': 1013204858, 'url': 'https://www.doximity.com/pub/kopal-kulkarni-md', 'idx_scraper_list': 521}
+{'NPI': 1013204916, 'url': 'https://www.doximity.com/pub/andrew-forsyth-md', 'idx_scraper_list': 522}
+{'NPI': 1013205947, 'url': 'https://www.doximity.com/pub/david-jahangir-md', 'idx_scraper_list': 523}
+{'NPI': 1013206523, 'url': 'https://www.doximity.com/pub/paul-aldinger-md', 'idx_scraper_list': 524}
+{'NPI': 1013207653, 'url': 'https://www.doximity.com/pub/sean-novak-md', 'idx_scraper_list': 525}
+{'NPI': 1013207984, 'url': 'https://www.doximity.com/pub/nancy-okechukwu-md', 'idx_scraper_list': 526}
+{'NPI': 1013221761, 'url': 'https://www.doximity.com/pub/alan-goldstein-md', 'idx_scraper_list': 527}
+{'NPI': 1013228121, 'url': 'https://www.doximity.com/pub/stetson-bickley-md', 'idx_scraper_list': 528}
+{'NPI': 1013228246, 'url': 'https://www.doximity.com/pub/mariam-hanna-md', 'idx_scraper_list': 529}
+{'NPI': 1013231570, 'url': 'https://www.doximity.com/pub/michael-seidler-md', 'idx_scraper_list': 530}
+{'NPI': 1013232065, 'url': 'https://www.doximity.com/pub/david-irwin-md', 'idx_scraper_list': 531}
+{'NPI': 1013232792, 'url': 'https://www.doximity.com/pub/jao-ou-md', 'idx_scraper_list': 532}
+{'NPI': 1013233212, 'url': 'https://www.doximity.com/pub/david-floriolli-md', 'idx_scraper_list': 533}
+{'NPI': 1013234327, 'url': 'https://www.doximity.com/pub/adam-williams-md', 'idx_scraper_list': 534}
+{'NPI': 1013234368, 'url': 'https://www.doximity.com/pub/mahyar-ghanaat-md', 'idx_scraper_list': 535}
+{'NPI': 1013234830, 'url': 'https://www.doximity.com/pub/david-shulman-md', 'idx_scraper_list': 536}
+{'NPI': 1013237361, 'url': 'https://www.doximity.com/pub/jeffrey-li-md', 'idx_scraper_list': 537}
+{'NPI': 1013238930, 'url': 'https://www.doximity.com/pub/justin-lee-md', 'idx_scraper_list': 538}
+{'NPI': 1013242098, 'url': 'https://www.doximity.com/pub/michael-lu-md', 'idx_scraper_list': 539}
+{'NPI': 1013244052, 'url': 'https://www.doximity.com/pub/dorothy-sippo-md', 'idx_scraper_list': 540}
+{'NPI': 1013245968, 'url': 'https://www.doximity.com/pub/shahnaz-rahman-md', 'idx_scraper_list': 541}
+{'NPI': 1013247899, 'url': 'https://www.doximity.com/pub/su-yu-li-md', 'idx_scraper_list': 542}
+{'NPI': 1013250711, 'url': 'https://www.doximity.com/pub/lindsay-thornton-md', 'idx_scraper_list': 543}
+{'NPI': 1013256742, 'url': 'https://www.doximity.com/pub/zachary-zhang-md', 'idx_scraper_list': 544}
+{'NPI': 1013258342, 'url': 'https://www.doximity.com/pub/arash-meshksar-md', 'idx_scraper_list': 545}
+{'NPI': 1013270347, 'url': 'https://www.doximity.com/pub/matthew-hegewald-md', 'idx_scraper_list': 546}
+{'NPI': 1013270982, 'url': 'https://www.doximity.com/pub/sean-pietrini-md', 'idx_scraper_list': 547}
+{'NPI': 1013273630, 'url': 'https://www.doximity.com/pub/david-reading-md', 'idx_scraper_list': 548}
+{'NPI': 1013274190, 'url': 'https://www.doximity.com/pub/danielle-hill-md', 'idx_scraper_list': 549}
+{'NPI': 1013274729, 'url': 'https://www.doximity.com/pub/jacob-ormsby-md', 'idx_scraper_list': 550}
+{'NPI': 1013276021, 'url': 'https://www.doximity.com/pub/teerath-tanpitukpongse-md', 'idx_scraper_list': 551}
+{'NPI': 1013276070, 'url': 'https://www.doximity.com/pub/casey-curran-md', 'idx_scraper_list': 552}
+{'NPI': 1013276492, 'url': 'https://www.doximity.com/pub/john-harris-md', 'idx_scraper_list': 553}
+{'NPI': 1013277821, 'url': 'https://www.doximity.com/pub/thang-le-md', 'idx_scraper_list': 554}
+{'NPI': 1013279595, 'url': 'https://www.doximity.com/pub/jeffrey-dorr-md', 'idx_scraper_list': 555}
+{'NPI': 1013283084, 'url': 'https://www.doximity.com/pub/jonathan-rassi-md', 'idx_scraper_list': 556}
+{'NPI': 1013286285, 'url': 'https://www.doximity.com/pub/sarah-rothan-md', 'idx_scraper_list': 557}
+{'NPI': 1013288273, 'url': 'https://www.doximity.com/pub/noaman-vaidya-md', 'idx_scraper_list': 558}
+{'NPI': 1013289263, 'url': 'https://www.doximity.com/pub/mrugank-shukla-md', 'idx_scraper_list': 559}
+{'NPI': 1013297985, 'url': 'https://www.doximity.com/pub/eugenia-payne-md', 'idx_scraper_list': 560}
+{'NPI': 1013298348, 'url': 'https://www.doximity.com/pub/susanne-kim-md', 'idx_scraper_list': 561}
+{'NPI': 1013329648, 'url': 'https://www.doximity.com/pub/catherine-evans-md', 'idx_scraper_list': 562}
+{'NPI': 1013334911, 'url': 'https://www.doximity.com/pub/megan-albertson-md', 'idx_scraper_list': 563}
+{'NPI': 1013336072, 'url': 'https://www.doximity.com/pub/carolyn-kwon-md', 'idx_scraper_list': 564}
+{'NPI': 1013337351, 'url': 'https://www.doximity.com/pub/david-feigal-md', 'idx_scraper_list': 565}
+{'NPI': 1013342567, 'url': 'https://www.doximity.com/pub/aaron-smith-md', 'idx_scraper_list': 566}
+{'NPI': 1013352814, 'url': 'https://www.doximity.com/pub/weston-caywood-md', 'idx_scraper_list': 567}
+{'NPI': 1013352897, 'url': 'https://www.doximity.com/pub/youn-lee-md', 'idx_scraper_list': 568}
+{'NPI': 1013352962, 'url': 'https://www.doximity.com/pub/adam-meeks-md', 'idx_scraper_list': 569}
+{'NPI': 1013354133, 'url': 'https://www.doximity.com/pub/sammy-pham-md', 'idx_scraper_list': 570}
+{'NPI': 1013356740, 'url': 'https://www.doximity.com/pub/constantino-spyris-md', 'idx_scraper_list': 571}
+{'NPI': 1013356781, 'url': 'https://www.doximity.com/pub/andrew-erie-md', 'idx_scraper_list': 572}
+{'NPI': 1013357904, 'url': 'https://www.doximity.com/pub/bryan-swilley-md', 'idx_scraper_list': 573}
+{'NPI': 1013357961, 'url': 'https://www.doximity.com/pub/nicholas-turner-md', 'idx_scraper_list': 574}
+{'NPI': 1013405596, 'url': 'https://www.doximity.com/pub/david-woodlock-md', 'idx_scraper_list': 575}
+{'NPI': 1013900117, 'url': 'https://www.doximity.com/pub/bradley-cole-md', 'idx_scraper_list': 576}
+{'NPI': 1013900158, 'url': 'https://www.doximity.com/pub/william-phillips-md', 'idx_scraper_list': 577}
+{'NPI': 1013900331, 'url': 'https://www.doximity.com/pub/charles-fiske-md', 'idx_scraper_list': 578}
+{'NPI': 1013900489, 'url': 'https://www.doximity.com/pub/nirandr-inthachak-md', 'idx_scraper_list': 579}
+{'NPI': 1013900547, 'url': 'https://www.doximity.com/pub/gregory-cross-md', 'idx_scraper_list': 580}
+{'NPI': 1013901545, 'url': 'https://www.doximity.com/pub/mark-paluszny-md', 'idx_scraper_list': 581}
+{'NPI': 1013901586, 'url': 'https://www.doximity.com/pub/ron-ayanzen-md', 'idx_scraper_list': 582}
+{'NPI': 1013901743, 'url': 'https://www.doximity.com/pub/john-hiehle-md', 'idx_scraper_list': 583}
+{'NPI': 1013902030, 'url': 'https://www.doximity.com/pub/gorden-chu-md', 'idx_scraper_list': 584}
+{'NPI': 1013902071, 'url': 'https://www.doximity.com/pub/thomas-ertzner-md', 'idx_scraper_list': 585}
+{'NPI': 1013902543, 'url': 'https://www.doximity.com/pub/angela-pence-md', 'idx_scraper_list': 586}
+{'NPI': 1013904044, 'url': 'https://www.doximity.com/pub/mitchell-erickson-md', 'idx_scraper_list': 587}
+{'NPI': 1013904192, 'url': 'https://www.doximity.com/pub/joseph-foss-md', 'idx_scraper_list': 588}
+{'NPI': 1013905918, 'url': 'https://www.doximity.com/pub/robert-riether-md', 'idx_scraper_list': 589}
+{'NPI': 1013906064, 'url': 'https://www.doximity.com/pub/christophe-salmon-md', 'idx_scraper_list': 590}
+{'NPI': 1013906064, 'url': 'https://www.doximity.com/pub/christopher-salmon-md', 'idx_scraper_list': 591}
+{'NPI': 1013906072, 'url': 'https://www.doximity.com/pub/phillip-moeser-md', 'idx_scraper_list': 592}
+{'NPI': 1013906890, 'url': 'https://www.doximity.com/pub/monzer-abu-yousef-md', 'idx_scraper_list': 593}
+{'NPI': 1013907195, 'url': 'https://www.doximity.com/pub/alan-litwin-md', 'idx_scraper_list': 594}
+{'NPI': 1013907294, 'url': 'https://www.doximity.com/pub/susan-kattapuram-md', 'idx_scraper_list': 595}
+{'NPI': 1013907435, 'url': 'https://www.doximity.com/pub/marsha-cline-md', 'idx_scraper_list': 596}
+{'NPI': 1013907559, 'url': 'https://www.doximity.com/pub/mark-robbins-md', 'idx_scraper_list': 597}
+{'NPI': 1013907609, 'url': 'https://www.doximity.com/pub/shawn-rayder-md', 'idx_scraper_list': 598}
+{'NPI': 1013908292, 'url': 'https://www.doximity.com/pub/andrew-wade-md', 'idx_scraper_list': 599}
+{'NPI': 1013908607, 'url': 'https://www.doximity.com/pub/donald-blake-md', 'idx_scraper_list': 600}
+{'NPI': 1013909027, 'url': 'https://www.doximity.com/pub/david-brown-md', 'idx_scraper_list': 601}
+{'NPI': 1013909175, 'url': 'https://www.doximity.com/pub/ira-braunschweig-md', 'idx_scraper_list': 602}
+{'NPI': 1013910231, 'url': 'https://www.doximity.com/pub/bernardo-marques-diaz-md', 'idx_scraper_list': 603}
+{'NPI': 1013910702, 'url': 'https://www.doximity.com/pub/william-ford-md', 'idx_scraper_list': 604}
+{'NPI': 1013911783, 'url': 'https://www.doximity.com/pub/gregory-connor-md', 'idx_scraper_list': 605}
+{'NPI': 1013911841, 'url': 'https://www.doximity.com/pub/philip-crichton-md', 'idx_scraper_list': 606}
+{'NPI': 1013911957, 'url': 'https://www.doximity.com/pub/jeffrey-friedman-md', 'idx_scraper_list': 607}
+{'NPI': 1013912278, 'url': 'https://www.doximity.com/pub/arthur-satterlee-md', 'idx_scraper_list': 608}
+{'NPI': 1013912344, 'url': 'https://www.doximity.com/pub/robert-mcconnell-md', 'idx_scraper_list': 609}
+{'NPI': 1013913490, 'url': 'https://www.doximity.com/pub/akash-joshi-md', 'idx_scraper_list': 610}
+{'NPI': 1013914100, 'url': 'https://www.doximity.com/pub/beatrix-araiza-md', 'idx_scraper_list': 611}
+{'NPI': 1013914456, 'url': 'https://www.doximity.com/pub/judith-wolfstein-md', 'idx_scraper_list': 612}
+{'NPI': 1013916022, 'url': 'https://www.doximity.com/pub/bonnie-anderson-md', 'idx_scraper_list': 613}
+{'NPI': 1013916436, 'url': 'https://www.doximity.com/pub/robert-worthington-kirsch-md', 'idx_scraper_list': 614}
+{'NPI': 1013917301, 'url': 'https://www.doximity.com/pub/ron-mark-md', 'idx_scraper_list': 615}
+{'NPI': 1013917731, 'url': 'https://www.doximity.com/pub/jeffrey-wenzel-md', 'idx_scraper_list': 616}
+{'NPI': 1013918010, 'url': 'https://www.doximity.com/pub/david-dix-md', 'idx_scraper_list': 617}
+{'NPI': 1013918127, 'url': 'https://www.doximity.com/pub/david-williamson-md', 'idx_scraper_list': 618}
+{'NPI': 1013918523, 'url': 'https://www.doximity.com/pub/michael-siegfried-md', 'idx_scraper_list': 619}
+{'NPI': 1013918952, 'url': 'https://www.doximity.com/pub/gillbert-hallman-md', 'idx_scraper_list': 620}
+{'NPI': 1013918986, 'url': 'https://www.doximity.com/pub/raymond-tipton-md', 'idx_scraper_list': 621}
+{'NPI': 1013921667, 'url': 'https://www.doximity.com/pub/neal-meyer-md', 'idx_scraper_list': 622}
+{'NPI': 1013925577, 'url': 'https://www.doximity.com/pub/steven-primack-md', 'idx_scraper_list': 623}
+{'NPI': 1013926153, 'url': 'https://www.doximity.com/pub/albert-nemcek-md', 'idx_scraper_list': 624}
+{'NPI': 1013927243, 'url': 'https://www.doximity.com/pub/hal-kipfer-md', 'idx_scraper_list': 625}
+{'NPI': 1013928225, 'url': 'https://www.doximity.com/pub/gerald-lee-md', 'idx_scraper_list': 626}
+{'NPI': 1013928258, 'url': 'https://www.doximity.com/pub/michael-keleher-md', 'idx_scraper_list': 627}
+{'NPI': 1013929983, 'url': 'https://www.doximity.com/pub/michael-mccarthy-md', 'idx_scraper_list': 628}
+{'NPI': 1013932268, 'url': 'https://www.doximity.com/pub/tana-shaffer-md', 'idx_scraper_list': 629}
+{'NPI': 1013932292, 'url': 'https://www.doximity.com/pub/nicholas-fasano-md', 'idx_scraper_list': 630}
+{'NPI': 1013933068, 'url': 'https://www.doximity.com/pub/james-kelly-md', 'idx_scraper_list': 631}
+{'NPI': 1013933472, 'url': 'https://www.doximity.com/pub/linda-nall-md', 'idx_scraper_list': 632}
+{'NPI': 1013933746, 'url': 'https://www.doximity.com/pub/joel-reiter-md', 'idx_scraper_list': 633}
+{'NPI': 1013934835, 'url': 'https://www.doximity.com/pub/sally-herschorn-md', 'idx_scraper_list': 634}
+{'NPI': 1013935626, 'url': 'https://www.doximity.com/pub/joseph-junewick-md', 'idx_scraper_list': 635}
+{'NPI': 1013935741, 'url': 'https://www.doximity.com/pub/ronald-washburn-md', 'idx_scraper_list': 636}
+{'NPI': 1013937176, 'url': 'https://www.doximity.com/pub/william-wells-md', 'idx_scraper_list': 637}
+{'NPI': 1013937853, 'url': 'https://www.doximity.com/pub/carolyn-boltin-md', 'idx_scraper_list': 638}
+{'NPI': 1013938521, 'url': 'https://www.doximity.com/pub/joseph-gouveia-md', 'idx_scraper_list': 639}
+{'NPI': 1013938984, 'url': 'https://www.doximity.com/pub/leslie-welk-md', 'idx_scraper_list': 640}
+{'NPI': 1013939297, 'url': 'https://www.doximity.com/pub/keith-morrow-md', 'idx_scraper_list': 641}
+{'NPI': 1013940972, 'url': 'https://www.doximity.com/pub/john-haynes-md', 'idx_scraper_list': 642}
+{'NPI': 1013941616, 'url': 'https://www.doximity.com/pub/david-yousem-md', 'idx_scraper_list': 643}
+{'NPI': 1013942242, 'url': 'https://www.doximity.com/pub/dahua-zhou-md', 'idx_scraper_list': 644}
+{'NPI': 1013942515, 'url': 'https://www.doximity.com/pub/ana-kolansky-md', 'idx_scraper_list': 645}
+{'NPI': 1013942614, 'url': 'https://www.doximity.com/pub/beatrice-madrazo-md', 'idx_scraper_list': 646}
+{'NPI': 1013942713, 'url': 'https://www.doximity.com/pub/siamak-dardashti-md', 'idx_scraper_list': 647}
+{'NPI': 1013943026, 'url': 'https://www.doximity.com/pub/ronald-eisenberg-md', 'idx_scraper_list': 648}
+{'NPI': 1013943257, 'url': 'https://www.doximity.com/pub/frank-du-pont-md', 'idx_scraper_list': 649}
+{'NPI': 1013944032, 'url': 'https://www.doximity.com/pub/kathleen-finzel-md', 'idx_scraper_list': 650}
+{'NPI': 1013944156, 'url': 'https://www.doximity.com/pub/marcus-bryner-md', 'idx_scraper_list': 651}
+{'NPI': 1013944958, 'url': 'https://www.doximity.com/pub/thomas-ward-md', 'idx_scraper_list': 652}
+{'NPI': 1013945914, 'url': 'https://www.doximity.com/pub/william-millar-md', 'idx_scraper_list': 653}
+{'NPI': 1013946094, 'url': 'https://www.doximity.com/pub/maximina-boutselis-md', 'idx_scraper_list': 654}
+{'NPI': 1013949932, 'url': 'https://www.doximity.com/pub/juna-bobby-md', 'idx_scraper_list': 655}
+{'NPI': 1013950294, 'url': 'https://www.doximity.com/pub/mimi-pinto-md', 'idx_scraper_list': 656}
+{'NPI': 1013950609, 'url': 'https://www.doximity.com/pub/stuart-rubin-md', 'idx_scraper_list': 657}
+{'NPI': 1013952779, 'url': 'https://www.doximity.com/pub/daniel-ongna-md', 'idx_scraper_list': 658}
+{'NPI': 1013953751, 'url': 'https://www.doximity.com/pub/david-levy-md', 'idx_scraper_list': 659}
+{'NPI': 1013953793, 'url': 'https://www.doximity.com/pub/edward-elliott-md', 'idx_scraper_list': 660}
+{'NPI': 1013953835, 'url': 'https://www.doximity.com/pub/antoinette-gomes-md', 'idx_scraper_list': 661}
+{'NPI': 1013953868, 'url': 'https://www.doximity.com/pub/nathan-jordan-md', 'idx_scraper_list': 662}
+{'NPI': 1013954288, 'url': 'https://www.doximity.com/pub/carlos-cunha-md', 'idx_scraper_list': 663}
+{'NPI': 1013954304, 'url': 'https://www.doximity.com/pub/william-lynn-md', 'idx_scraper_list': 664}
+{'NPI': 1013955392, 'url': 'https://www.doximity.com/pub/stefan-cowles-md', 'idx_scraper_list': 665}
+{'NPI': 1013957588, 'url': 'https://www.doximity.com/pub/diane-horowitz-md', 'idx_scraper_list': 666}
+{'NPI': 1013958883, 'url': 'https://www.doximity.com/pub/gwendolyn-durgin-md', 'idx_scraper_list': 667}
+{'NPI': 1013959220, 'url': 'https://www.doximity.com/pub/andrew-akerman-md', 'idx_scraper_list': 668}
+{'NPI': 1013960079, 'url': 'https://www.doximity.com/pub/piotr-kisza-md', 'idx_scraper_list': 669}
+{'NPI': 1013960905, 'url': 'https://www.doximity.com/pub/john-nunes-md', 'idx_scraper_list': 670}
+{'NPI': 1013961390, 'url': 'https://www.doximity.com/pub/jay-post-md', 'idx_scraper_list': 671}
+{'NPI': 1013961747, 'url': 'https://www.doximity.com/pub/emily-averbook-md', 'idx_scraper_list': 672}
+{'NPI': 1013962497, 'url': 'https://www.doximity.com/pub/lincoln-berland-md', 'idx_scraper_list': 673}
+{'NPI': 1013962547, 'url': 'https://www.doximity.com/pub/robert-stuckey-md', 'idx_scraper_list': 674}
+{'NPI': 1013963826, 'url': 'https://www.doximity.com/pub/r-fuller-md', 'idx_scraper_list': 675}
+{'NPI': 1013963826, 'url': 'https://www.doximity.com/pub/richard-fuller-md', 'idx_scraper_list': 676}
+{'NPI': 1013963909, 'url': 'https://www.doximity.com/pub/mark-augustyn-md', 'idx_scraper_list': 677}
+{'NPI': 1013964295, 'url': 'https://www.doximity.com/pub/jeffrey-seabourn-md', 'idx_scraper_list': 678}
+{'NPI': 1013964550, 'url': 'https://www.doximity.com/pub/caroline-sobota-md', 'idx_scraper_list': 679}
+{'NPI': 1013965177, 'url': 'https://www.doximity.com/pub/jodi-bailey-md', 'idx_scraper_list': 680}
+{'NPI': 1013965441, 'url': 'https://www.doximity.com/pub/michael-rosellini-md', 'idx_scraper_list': 681}
+{'NPI': 1013965854, 'url': 'https://www.doximity.com/pub/matthew-bee-md', 'idx_scraper_list': 682}
+{'NPI': 1013966043, 'url': 'https://www.doximity.com/pub/brian-crowhurst-md', 'idx_scraper_list': 683}
+{'NPI': 1013967074, 'url': 'https://www.doximity.com/pub/laura-von-doenhoff-md', 'idx_scraper_list': 684}
+{'NPI': 1013968056, 'url': 'https://www.doximity.com/pub/gil-borlaza-md', 'idx_scraper_list': 685}
+{'NPI': 1013968163, 'url': 'https://www.doximity.com/pub/mohsin-sheikh-md', 'idx_scraper_list': 686}
+{'NPI': 1013968247, 'url': 'https://www.doximity.com/pub/craig-walker-md', 'idx_scraper_list': 687}
+{'NPI': 1013968387, 'url': 'https://www.doximity.com/pub/mark-girson-md', 'idx_scraper_list': 688}
+{'NPI': 1013968601, 'url': 'https://www.doximity.com/pub/nader-beheshti-md', 'idx_scraper_list': 689}
+{'NPI': 1013969294, 'url': 'https://www.doximity.com/pub/sandra-mondro-md', 'idx_scraper_list': 690}
+{'NPI': 1013969450, 'url': 'https://www.doximity.com/pub/michael-smolin-md', 'idx_scraper_list': 691}
+{'NPI': 1013969526, 'url': 'https://www.doximity.com/pub/iddo-netanyahu-md', 'idx_scraper_list': 692}
+{'NPI': 1013969807, 'url': 'https://www.doximity.com/pub/duc-tran-md', 'idx_scraper_list': 693}
+{'NPI': 1013971407, 'url': 'https://www.doximity.com/pub/cindy-zhang-md', 'idx_scraper_list': 694}
+{'NPI': 1013972967, 'url': 'https://www.doximity.com/pub/jose-irizarry-md', 'idx_scraper_list': 695}
+{'NPI': 1013972991, 'url': 'https://www.doximity.com/pub/natalia-dolin-md', 'idx_scraper_list': 696}
+{'NPI': 1013973882, 'url': 'https://www.doximity.com/pub/sukhender-singireddy-md', 'idx_scraper_list': 697}
+{'NPI': 1013974773, 'url': 'https://www.doximity.com/pub/thomas-krafka-md', 'idx_scraper_list': 698}
+{'NPI': 1013974948, 'url': 'https://www.doximity.com/pub/maria-colombo-md', 'idx_scraper_list': 699}
+{'NPI': 1013975283, 'url': 'https://www.doximity.com/pub/michael-potchen-md', 'idx_scraper_list': 700}
+{'NPI': 1013975671, 'url': 'https://www.doximity.com/pub/joshua-stein-md', 'idx_scraper_list': 701}
+{'NPI': 1013975895, 'url': 'https://www.doximity.com/pub/gregory-shields-md', 'idx_scraper_list': 702}
+{'NPI': 1013976075, 'url': 'https://www.doximity.com/pub/kevin-halista-md', 'idx_scraper_list': 703}
+{'NPI': 1013976943, 'url': 'https://www.doximity.com/pub/kent-donovan-md', 'idx_scraper_list': 704}
+{'NPI': 1013977040, 'url': 'https://www.doximity.com/pub/brian-burke-md', 'idx_scraper_list': 705}
+{'NPI': 1013977107, 'url': 'https://www.doximity.com/pub/jess-dalehite-md', 'idx_scraper_list': 706}
+{'NPI': 1013977156, 'url': 'https://www.doximity.com/pub/mary-haden-md', 'idx_scraper_list': 707}
+{'NPI': 1013977669, 'url': 'https://www.doximity.com/pub/daniel-bodor-md', 'idx_scraper_list': 708}
+{'NPI': 1013977743, 'url': 'https://www.doximity.com/pub/frank-sanchez-md', 'idx_scraper_list': 709}
+{'NPI': 1013978139, 'url': 'https://www.doximity.com/pub/gary-aragon-md', 'idx_scraper_list': 710}
+{'NPI': 1013978261, 'url': 'https://www.doximity.com/pub/estelle-cooke-sampson-md', 'idx_scraper_list': 711}
+{'NPI': 1013978899, 'url': 'https://www.doximity.com/pub/ramani-rao-md', 'idx_scraper_list': 712}
+{'NPI': 1013979699, 'url': 'https://www.doximity.com/pub/carl-bundschuh-md', 'idx_scraper_list': 713}
+{'NPI': 1013979780, 'url': 'https://www.doximity.com/pub/carl-recine-md', 'idx_scraper_list': 714}
+{'NPI': 1013982073, 'url': 'https://www.doximity.com/pub/suzanne-segal-md', 'idx_scraper_list': 715}
+{'NPI': 1013983303, 'url': 'https://www.doximity.com/pub/thomas-franco-md', 'idx_scraper_list': 716}
+{'NPI': 1013984764, 'url': 'https://www.doximity.com/pub/gladys-sepulveda-md', 'idx_scraper_list': 717}
+{'NPI': 1013985134, 'url': 'https://www.doximity.com/pub/john-sullivan-md', 'idx_scraper_list': 718}
+{'NPI': 1013985688, 'url': 'https://www.doximity.com/pub/albert-charney-md', 'idx_scraper_list': 719}
+{'NPI': 1013986249, 'url': 'https://www.doximity.com/pub/john-whitaker-md', 'idx_scraper_list': 720}
+{'NPI': 1013987015, 'url': 'https://www.doximity.com/pub/eric-pfeiffer-md', 'idx_scraper_list': 721}
+{'NPI': 1013987296, 'url': 'https://www.doximity.com/pub/scott-wegryn-md', 'idx_scraper_list': 722}
+{'NPI': 1013987619, 'url': 'https://www.doximity.com/pub/lawrence-wald-md', 'idx_scraper_list': 723}
+{'NPI': 1013988120, 'url': 'https://www.doximity.com/pub/james-putnam-md', 'idx_scraper_list': 724}
+{'NPI': 1013988294, 'url': 'https://www.doximity.com/pub/andre-stovall-md', 'idx_scraper_list': 725}
+{'NPI': 1013990001, 'url': 'https://www.doximity.com/pub/michael-lawless-md', 'idx_scraper_list': 726}
+{'NPI': 1013991447, 'url': 'https://www.doximity.com/pub/bao-tram-nguyen-md', 'idx_scraper_list': 727}
+{'NPI': 1013991850, 'url': 'https://www.doximity.com/pub/christophe-ng-md', 'idx_scraper_list': 728}
+{'NPI': 1013991850, 'url': 'https://www.doximity.com/pub/christopher-ng-md', 'idx_scraper_list': 729}
+{'NPI': 1013991868, 'url': 'https://www.doximity.com/pub/marcy-mcintosh-md', 'idx_scraper_list': 730}
+{'NPI': 1013992833, 'url': 'https://www.doximity.com/pub/chung-lee-md', 'idx_scraper_list': 731}
+{'NPI': 1013993013, 'url': 'https://www.doximity.com/pub/paul-larson-md', 'idx_scraper_list': 732}
+{'NPI': 1013994441, 'url': 'https://www.doximity.com/pub/deborah-winters-md', 'idx_scraper_list': 733}
+{'NPI': 1013995307, 'url': 'https://www.doximity.com/pub/weining-ma-md', 'idx_scraper_list': 734}
+{'NPI': 1013995752, 'url': 'https://www.doximity.com/pub/michelle-bradbury-md', 'idx_scraper_list': 735}
+{'NPI': 1013996065, 'url': 'https://www.doximity.com/pub/jorge-leon-md', 'idx_scraper_list': 736}
+{'NPI': 1013996123, 'url': 'https://www.doximity.com/pub/david-zadvinskis-md', 'idx_scraper_list': 737}
+{'NPI': 1013996339, 'url': 'https://www.doximity.com/pub/nikhil-ramaiya-md', 'idx_scraper_list': 738}
+{'NPI': 1013997428, 'url': 'https://www.doximity.com/pub/daniel-simon-md', 'idx_scraper_list': 739}
+{'NPI': 1013997634, 'url': 'https://www.doximity.com/pub/kathleen-butler-md', 'idx_scraper_list': 740}
+{'NPI': 1013997642, 'url': 'https://www.doximity.com/pub/john-leach-md', 'idx_scraper_list': 741}
+{'NPI': 1013997782, 'url': 'https://www.doximity.com/pub/e.-roberts-md', 'idx_scraper_list': 742}
+{'NPI': 1013997956, 'url': 'https://www.doximity.com/pub/ripp-smith-md', 'idx_scraper_list': 743}
+{'NPI': 1013998111, 'url': 'https://www.doximity.com/pub/robert-emery-md', 'idx_scraper_list': 744}
+{'NPI': 1013998699, 'url': 'https://www.doximity.com/pub/caroline-taylor-md', 'idx_scraper_list': 745}
+{'NPI': 1013999069, 'url': 'https://www.doximity.com/pub/stephen-moeller-md', 'idx_scraper_list': 746}
+{'NPI': 1013999564, 'url': 'https://www.doximity.com/pub/john-tomashek-md', 'idx_scraper_list': 747}
+{'NPI': 1013999606, 'url': 'https://www.doximity.com/pub/amita-sharma-md', 'idx_scraper_list': 748}
+{'NPI': 1023000338, 'url': 'https://www.doximity.com/pub/steven-mccormack-md', 'idx_scraper_list': 749}
+{'NPI': 1023002045, 'url': 'https://www.doximity.com/pub/michael-mastromatteo-md', 'idx_scraper_list': 750}
+{'NPI': 1023002755, 'url': 'https://www.doximity.com/pub/jack-connally-md', 'idx_scraper_list': 751}
+{'NPI': 1023002862, 'url': 'https://www.doximity.com/pub/mark-decker-md', 'idx_scraper_list': 752}
+{'NPI': 1023003126, 'url': 'https://www.doximity.com/pub/philip-rich-md', 'idx_scraper_list': 753}
+{'NPI': 1023003209, 'url': 'https://www.doximity.com/pub/barbara-blanco-md', 'idx_scraper_list': 754}
+{'NPI': 1023003233, 'url': 'https://www.doximity.com/pub/stuart-pollack-md', 'idx_scraper_list': 755}
+{'NPI': 1023003506, 'url': 'https://www.doximity.com/pub/mark-ormson-md', 'idx_scraper_list': 756}
+{'NPI': 1023004173, 'url': 'https://www.doximity.com/pub/elizabeth-vogler-md', 'idx_scraper_list': 757}
+{'NPI': 1023004314, 'url': 'https://www.doximity.com/pub/bryan-defranco-md', 'idx_scraper_list': 758}
+{'NPI': 1023005048, 'url': 'https://www.doximity.com/pub/peter-bonadio-md', 'idx_scraper_list': 759}
+{'NPI': 1023005089, 'url': 'https://www.doximity.com/pub/robert-hudak-md', 'idx_scraper_list': 760}
+{'NPI': 1023005154, 'url': 'https://www.doximity.com/pub/david-lackner-md', 'idx_scraper_list': 761}
+{'NPI': 1023005196, 'url': 'https://www.doximity.com/pub/edwin-rodriguez-reyes-md', 'idx_scraper_list': 762}
+{'NPI': 1023006855, 'url': 'https://www.doximity.com/pub/ralf-barckhausen-md', 'idx_scraper_list': 763}
+{'NPI': 1023006939, 'url': 'https://www.doximity.com/pub/ronald-bick-md', 'idx_scraper_list': 764}
+{'NPI': 1023006988, 'url': 'https://www.doximity.com/pub/gregory-iafrate-md', 'idx_scraper_list': 765}
+{'NPI': 1023007168, 'url': 'https://www.doximity.com/pub/denise-smith-md', 'idx_scraper_list': 766}
+{'NPI': 1023007333, 'url': 'https://www.doximity.com/pub/jodi-barboza-md', 'idx_scraper_list': 767}
+{'NPI': 1023007671, 'url': 'https://www.doximity.com/pub/jeffrey-blinder-md', 'idx_scraper_list': 768}
+{'NPI': 1023008125, 'url': 'https://www.doximity.com/pub/eugene-degiorgio-md', 'idx_scraper_list': 769}
+{'NPI': 1023008240, 'url': 'https://www.doximity.com/pub/norbertina-banson-md', 'idx_scraper_list': 770}
+{'NPI': 1023009800, 'url': 'https://www.doximity.com/pub/kristin-coleman-md', 'idx_scraper_list': 771}
+{'NPI': 1023010121, 'url': 'https://www.doximity.com/pub/jamie-hartman-md', 'idx_scraper_list': 772}
+{'NPI': 1023011137, 'url': 'https://www.doximity.com/pub/loretta-settonni-md', 'idx_scraper_list': 773}
+{'NPI': 1023011533, 'url': 'https://www.doximity.com/pub/floyd-hyatt-md', 'idx_scraper_list': 774}
+{'NPI': 1023011830, 'url': 'https://www.doximity.com/pub/andrew-collins-md', 'idx_scraper_list': 775}
+{'NPI': 1023012010, 'url': 'https://www.doximity.com/pub/peter-britt-md', 'idx_scraper_list': 776}
+{'NPI': 1023012382, 'url': 'https://www.doximity.com/pub/robin-greenspan-md', 'idx_scraper_list': 777}
+{'NPI': 1023013125, 'url': 'https://www.doximity.com/pub/myron-schneider-md', 'idx_scraper_list': 778}
+{'NPI': 1023016060, 'url': 'https://www.doximity.com/pub/phillip-baum-md', 'idx_scraper_list': 779}
+{'NPI': 1023016599, 'url': 'https://www.doximity.com/pub/nadrendrak-patel-md', 'idx_scraper_list': 780}
+{'NPI': 1023016599, 'url': 'https://www.doximity.com/pub/nadrendraku-patel-md', 'idx_scraper_list': 781}
+{'NPI': 1023017217, 'url': 'https://www.doximity.com/pub/joanne-wernicki-md', 'idx_scraper_list': 782}
+{'NPI': 1023017324, 'url': 'https://www.doximity.com/pub/akash-sharma-md', 'idx_scraper_list': 783}
+{'NPI': 1023017571, 'url': 'https://www.doximity.com/pub/dan-vu-md', 'idx_scraper_list': 784}
+{'NPI': 1023018066, 'url': 'https://www.doximity.com/pub/jorge-arsuaga-md', 'idx_scraper_list': 785}
+{'NPI': 1023018462, 'url': 'https://www.doximity.com/pub/dale-sponaugle-md', 'idx_scraper_list': 786}
+{'NPI': 1023018777, 'url': 'https://www.doximity.com/pub/jose-saban-md', 'idx_scraper_list': 787}
+{'NPI': 1023019072, 'url': 'https://www.doximity.com/pub/james-meranus-md', 'idx_scraper_list': 788}
+{'NPI': 1023019759, 'url': 'https://www.doximity.com/pub/troy-long-md', 'idx_scraper_list': 789}
+{'NPI': 1023019973, 'url': 'https://www.doximity.com/pub/evan-oblonsky-md', 'idx_scraper_list': 790}
+{'NPI': 1023020914, 'url': 'https://www.doximity.com/pub/lundie-robb-md', 'idx_scraper_list': 791}
+{'NPI': 1023021235, 'url': 'https://www.doximity.com/pub/manuel-hipol-md', 'idx_scraper_list': 792}
+{'NPI': 1023022399, 'url': 'https://www.doximity.com/pub/kristina-siddall-md', 'idx_scraper_list': 793}
+{'NPI': 1023023462, 'url': 'https://www.doximity.com/pub/leizle-talangbayan-md', 'idx_scraper_list': 794}
+{'NPI': 1023025640, 'url': 'https://www.doximity.com/pub/priya-rastogi-md', 'idx_scraper_list': 795}
+{'NPI': 1023025889, 'url': 'https://www.doximity.com/pub/robert-vogelzang-md', 'idx_scraper_list': 796}
+{'NPI': 1023026234, 'url': 'https://www.doximity.com/pub/tahir-alkhairy-md', 'idx_scraper_list': 797}
+{'NPI': 1023026945, 'url': 'https://www.doximity.com/pub/kenneth-hazlett-md', 'idx_scraper_list': 798}
+{'NPI': 1023028776, 'url': 'https://www.doximity.com/pub/winnie-lee-md', 'idx_scraper_list': 799}
+{'NPI': 1023030202, 'url': 'https://www.doximity.com/pub/j.-blum-md', 'idx_scraper_list': 800}
+{'NPI': 1023030244, 'url': 'https://www.doximity.com/pub/daniel-finelli-md', 'idx_scraper_list': 801}
+{'NPI': 1023031234, 'url': 'https://www.doximity.com/pub/nicholas-astromoff-md', 'idx_scraper_list': 802}
+{'NPI': 1023032737, 'url': 'https://www.doximity.com/pub/david-quintana-md', 'idx_scraper_list': 803}
+{'NPI': 1023033271, 'url': 'https://www.doximity.com/pub/steven-henderson-md', 'idx_scraper_list': 804}
+{'NPI': 1023033412, 'url': 'https://www.doximity.com/pub/john-hadorn-md', 'idx_scraper_list': 805}
+{'NPI': 1023037462, 'url': 'https://www.doximity.com/pub/robert-silvers-md', 'idx_scraper_list': 806}
+{'NPI': 1023037850, 'url': 'https://www.doximity.com/pub/tracy-orr-md', 'idx_scraper_list': 807}
+{'NPI': 1023038908, 'url': 'https://www.doximity.com/pub/jonathan-scheiner-md', 'full_name': 'JonathanEScheinerMDMBA', 'first_name': 'Jonathan', 'last_name': 'Scheiner', 'credentials': 'MD', 'specialty': 'Interventional Radiology', 'city_state': 'Staten Island, NY', 'job_title': 'Associate Chairman', 'st_address': '475 Seaview Avenue', 'zip': '10305', 'st_address_full': '475 Seaview AvenueStaten Island, NY 10305', 'phone_num': '(718) 226-9286', 'idx_scraper_list': 808}
+{'NPI': 1023039062, 'url': 'https://www.doximity.com/pub/grady-hartzog-md', 'full_name': 'GradyRHartzogIIIMD', 'first_name': 'Grady', 'last_name': 'Hartzog', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Seattle, WA', 'job_title': 'Physician\n', 'st_address': '1100 9th Ave', 'zip': '98101', 'st_address_full': '1100 9th AveSeattle, WA 98101', 'phone_num': '(206) 223-6600', 'idx_scraper_list': 809}
+{'NPI': 1023040409, 'url': 'https://www.doximity.com/pub/noel-bergquist-md', 'full_name': 'NoelMelindaBergquistMD', 'first_name': 'Noel', 'last_name': 'Bergquist', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Chattanooga, TN', 'job_title': 'Physician\n', 'st_address': '975 E 3rd St # 376', 'zip': '37403', 'st_address_full': '975 E 3rd St# 376Chattanooga, TN 37403', 'phone_num': '(423) 778-7234', 'idx_scraper_list': 810}
+{'NPI': 1023040813, 'url': 'https://www.doximity.com/pub/..irene-darocha-md', 'idx_scraper_list': 811}
+{'NPI': 1023041571, 'url': 'https://www.doximity.com/pub/christophe-carrel-md', 'idx_scraper_list': 812}
+{'NPI': 1023041571, 'url': 'https://www.doximity.com/pub/christopher-carrel-md', 'full_name': 'ChristopherEdsonCarrelMD', 'first_name': 'Christopher', 'last_name': 'Carrel', 'credentials': 'MD', 'specialty': 'Radiology', 'job_title': 'Physician\n', 'st_address': '300 North Ave', 'zip': '49017', 'idx_scraper_list': 813}
+{'NPI': 1023041720, 'url': 'https://www.doximity.com/pub/ali-shaibani-md', 'full_name': 'AliShaibaniMD', 'first_name': 'Ali', 'last_name': 'Shaibani', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Chicago, IL', 'subspecialty': 'Interventional Neuroradiology, Neuroradiology', 'job_title': 'Northwestern Medical faculty foundation', 'st_address': '676 N. St. Clair St., Suite 1400', 'zip': '60611', 'st_address_full': '676 N. St. Clair St., Suite 1400Chicago, IL 60611', 'phone_num': '(312) 695-8687', 'idx_scraper_list': 814}
+{'NPI': 1023042231, 'url': 'https://www.doximity.com/pub/sameena-nasrullah-md', 'idx_scraper_list': 815}
+{'NPI': 1023042280, 'url': 'https://www.doximity.com/pub/elise-berman-md', 'full_name': 'EliseL.BermanMD', 'first_name': 'Elise', 'last_name': 'Berman', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Clinton, MD', 'subspecialty': 'Neuroradiology, Pediatric Radiology, Nuclear Radiology', 'job_title': 'Physician\n', 'st_address': '8926 Woodyard Rd Ste 301', 'zip': '20735', 'st_address_full': '8926 Woodyard RdSte 301Clinton, MD 20735', 'phone_num': '(301) 856-3670', 'idx_scraper_list': 816}
+{'NPI': 1023042520, 'url': 'https://www.doximity.com/pub/charles-benson-md', 'full_name': 'CharlesRobertBensonMD', 'first_name': 'Charles', 'last_name': 'Benson', 'credentials': 'MD', 'specialty': 'Psychiatry', 'city_state': 'Falls Church, VA', 'job_title': 'Director, BUMED', 'st_address': 'BUMED', 'zip': '22044', 'st_address_full': 'BUMEDFalls Church, VA 22044', 'idx_scraper_list': 817}
+{'NPI': 1023044831, 'url': 'https://www.doximity.com/pub/allen-wiesenfeld-md', 'full_name': 'AllenJWiesenfeldMD', 'first_name': 'Allen', 'last_name': 'Wiesenfeld', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'New Hyde Park, NY', 'subspecialty': 'Interventional Neuroradiology, Vascular & Interventional Radiology', 'job_title': 'Physician\n', 'st_address': '2800 Marcus Avenue', 'zip': '11042', 'st_address_full': '2800 Marcus AvenueNew Hyde Park, NY 11042', 'phone_num': '(516) 622-7485', 'idx_scraper_list': 818}
+{'NPI': 1023046166, 'url': 'https://www.doximity.com/pub/andrew-newberg-md', 'full_name': 'AndrewBernarNewbergMD', 'first_name': 'Andrew', 'last_name': 'Newberg', 'credentials': 'MD', 'specialty': 'Nuclear Medicine', 'city_state': 'Philadelphia, PA', 'job_title': 'Professor, Emergency Medicine, Jefferson Medical College-Thos Jefferson Univ', 'st_address': '850 Walnut St', 'zip': '19107', 'st_address_full': '850 Walnut StPhiladelphia, PA 19107', 'phone_num': '(610) 831-0500', 'idx_scraper_list': 819}
+{'NPI': 1023046240, 'url': 'https://www.doximity.com/pub/david-coy-md', 'full_name': 'DavidCCoyMD', 'first_name': 'David', 'last_name': 'Coy', 'credentials': 'MD', 'specialty': 'Anesthesiology', 'city_state': 'Flagstaff, AZ', 'subspecialty': 'Critical Care Medicine', 'job_title': 'Physician\n', 'st_address': '1200 N Beaver St', 'zip': '86001', 'st_address_full': '1200 N Beaver StFlagstaff, AZ 86001', 'idx_scraper_list': 820}
+{'NPI': 1023046265, 'url': 'https://www.doximity.com/pub/horacio-gutierrez-md', 'full_name': 'HoracioGutierrezMD', 'first_name': 'Horacio', 'last_name': 'Gutierrez', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Broomfield, CO', 'job_title': 'Physician\n', 'st_address': '14300 Orchard Pkwy', 'zip': '80023', 'st_address_full': '14300 Orchard PkwyBroomfield, CO 80023', 'phone_num': '(303) 661-1855', 'idx_scraper_list': 821}
+{'NPI': 1023046901, 'url': 'https://www.doximity.com/pub/jennifer-robinson-williams-md', 'idx_scraper_list': 822}
+{'NPI': 1023047560, 'url': 'https://www.doximity.com/pub/anuradha-bhasin-md', 'full_name': 'AnuradhaBhasinMD', 'first_name': 'Anuradha', 'last_name': 'Bhasin', 'credentials': 'MD', 'specialty': 'Interventional Radiology', 'city_state': 'Baltimore, MD', 'job_title': 'Physician\n', 'st_address': '7253 Ambassador Rd', 'zip': '21244', 'st_address_full': '7253 Ambassador RdBaltimore, MD 21244', 'phone_num': '(443) 436-1151', 'idx_scraper_list': 823}
+{'NPI': 1023048105, 'url': 'https://www.doximity.com/pub/jay-kang-md', 'full_name': 'JayKangMD', 'first_name': 'Jay', 'last_name': 'Kang', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Anaheim, CA', 'subspecialty': 'Interventional Neuroradiology, Vascular & Interventional Radiology', 'job_title': 'Physician\n', 'st_address': '3430 E. La Palma Ave', 'zip': '92806', 'st_address_full': '3430 E. La Palma AveAnaheim, CA 92806', 'phone_num': '(714) 644-5974', 'idx_scraper_list': 824}
+{'NPI': 1023048253, 'url': 'https://www.doximity.com/pub/puneet-pawha-md', 'full_name': 'PuneetSinghPawhaMD', 'first_name': 'Puneet', 'last_name': 'Pawha', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'New York, NY', 'subspecialty': 'Neuroradiology', 'job_title': 'Associate Professor, Icahn School of Medicine at Mount Sinai', 'st_address': '1176 5th Ave # 1235', 'zip': '10029', 'st_address_full': '1176 5th Ave# 1235New York, NY 10029', 'phone_num': '(212) 241-8333', 'idx_scraper_list': 825}
+{'NPI': 1023049194, 'url': 'https://www.doximity.com/pub/bokran-won-md', 'full_name': 'BokranWonMD', 'first_name': 'Bokran', 'last_name': 'Won', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Red Bank, NJ', 'job_title': 'Physician\n', 'st_address': '1 Riverview Plaza', 'zip': '07701', 'st_address_full': '1 Riverview PlazaRed Bank, NJ 07701', 'phone_num': '(732) 530-2305', 'idx_scraper_list': 826}
+{'NPI': 1023049764, 'url': 'https://www.doximity.com/pub/deepak-takhtani-md', 'full_name': 'DeepakTakhtaniMD', 'first_name': 'Deepak', 'last_name': 'Takhtani', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Washington, DC', 'subspecialty': 'Neuroradiology', 'job_title': 'Chief of Radiology, Washington DC VA Medical Center', 'st_address': '50 Irving St NW', 'zip': '20422', 'st_address_full': '50 Irving St NWWashington, DC 20422', 'phone_num': '(202) 745-8000 x 52289', 'idx_scraper_list': 827}
+{'NPI': 1023050127, 'url': 'https://www.doximity.com/pub/karen-fitzgerald-md', 'full_name': 'KarenSFitzgeraldMD', 'first_name': 'Karen', 'last_name': 'Fitzgerald', 'credentials': 'MD', 'specialty': 'Interventional Radiology', 'city_state': 'Muncie, IN', 'job_title': 'Assistant Professor, Radiology & Imaging Sciences, Indiana University School of Medicine', 'st_address': '2598 W White River Blvd', 'zip': '47303', 'st_address_full': '2598 W White River BlvdMuncie, IN 47303', 'phone_num': '(765) 282-7595', 'idx_scraper_list': 828}
+{'NPI': 1023050341, 'url': 'https://www.doximity.com/pub/brent-mainwaring-md', 'full_name': 'BrentLeeMainwaringMD', 'first_name': 'Brent', 'last_name': 'Mainwaring', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Beaumont, TX', 'job_title': 'Owner of The Outpatient Diagnostic Center in Beaumont, Texas', 'st_address': '3405 College St', 'zip': '77701', 'st_address_full': '3405 College StBeaumont, TX 77701', 'phone_num': '(409) 832-2211', 'idx_scraper_list': 829}
+{'NPI': 1023050895, 'url': 'https://www.doximity.com/pub/nancy-yue-md', 'full_name': 'NancyYueMD', 'first_name': 'Nancy', 'last_name': 'Yue', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Baltimore, MD', 'subspecialty': 'Neuroradiology', 'job_title': 'Physician\n', 'st_address': '1700 Reisterstown Rd', 'zip': '21208', 'st_address_full': '1700 Reisterstown RdBaltimore, MD 21208', 'phone_num': '(410) 580-2100', 'idx_scraper_list': 830}
+{'NPI': 1023051349, 'url': 'https://www.doximity.com/pub/john-merkle-md', 'full_name': 'JohnAMerkleMD', 'first_name': 'John', 'last_name': 'Merkle', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Columbus, OH', 'job_title': 'Physician\n', 'st_address': '471 E. Broad St., Suite 1400 Columbus, Ohio', 'zip': '43215', 'st_address_full': '471 E. Broad St., Suite 1400Columbus, OhioColumbus, OH 43215', 'phone_num': '(614) 228-7231', 'idx_scraper_list': 831}
+{'NPI': 1023051679, 'url': 'https://www.doximity.com/pub/nancy-curry-md', 'full_name': 'NancyCurryMD', 'first_name': 'Nancy', 'last_name': 'Curry', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Charleston, SC', 'subspecialty': 'Abdominal Imaging, Gastrointestinal Imaging, Genitourinary Imaging', 'job_title': 'Professor Emerita, Radiology and Radiological Science, Medical University of South Carolina College of Medicine', 'st_address': '96 Jonathan Lucas Street MSC 323', 'zip': '29425', 'st_address_full': '96 Jonathan Lucas StreetMSC 323Charleston, SC 29425', 'phone_num': '(843) 792-7453', 'idx_scraper_list': 832}
+{'NPI': 1023051984, 'url': 'https://www.doximity.com/pub/eric-awwad-md', 'full_name': 'EricAwwadMD', 'first_name': 'Eric', 'last_name': 'Awwad', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Indianapolis, IN', 'subspecialty': 'Neuroradiology, Vascular & Interventional Radiology', 'job_title': 'Professor, Radiology & Imaging Sciences, Indiana University School of Medicine', 'st_address': '550 University Blvd', 'zip': '46202', 'st_address_full': '550 University BlvdIndianapolis, IN 46202', 'phone_num': '(317) 944-1866', 'idx_scraper_list': 833}
+{'NPI': 1023052248, 'url': 'https://www.doximity.com/pub/alvin-hensel-md', 'full_name': 'AlvinLeroyHenselMD', 'first_name': 'Alvin', 'last_name': 'Hensel', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Hemet, CA', 'subspecialty': 'Nuclear Radiology', 'job_title': 'Physician\n', 'st_address': '890 W Stetson Ave Ste B Apex Radiology Medical Group, Inc.', 'zip': '92543', 'st_address_full': '890 W Stetson Ave Ste BApex Radiology Medical Group, Inc.Hemet, CA 92543', 'phone_num': '(951) 537-6002', 'idx_scraper_list': 834}
+{'NPI': 1023052990, 'url': 'https://www.doximity.com/pub/teresa-cortinas-md', 'full_name': 'TeresaMCortinasMD', 'first_name': 'Teresa', 'last_name': 'Cortinas', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Juno Beach, FL', 'subspecialty': 'Bone Imaging/Musculoskeletal', 'job_title': 'Physician\n', 'st_address': '733 US Highway 1 Bldg 2B', 'zip': '33408', 'st_address_full': '733 US Highway 1Bldg 2BJuno Beach, FL 33408', 'phone_num': '(561) 841-8588', 'idx_scraper_list': 835}
+{'NPI': 1023054079, 'url': 'https://www.doximity.com/pub/rosita-shah-md', 'full_name': 'RositaMariaShahMD', 'first_name': 'Rosita', 'last_name': 'Shah', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Philadelphia, PA', 'job_title': 'Physician\n', 'st_address': '3400 Spruce St Ground Floor Dulles', 'zip': '19104', 'st_address_full': '3400 Spruce StGround Floor DullesPhiladelphia, PA 19104', 'phone_num': '(215) 662-3005', 'idx_scraper_list': 836}
+{'NPI': 1023054608, 'url': 'https://www.doximity.com/pub/bruce-wasserman-md', 'full_name': 'BruceAlanWassermanMD', 'first_name': 'Bruce', 'last_name': 'Wasserman', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Baltimore, MD', 'subspecialty': 'Neuroradiology', 'job_title': 'Professor of Radiology and Radiological Science, Johns Hopkins University School of Medicine; Director of Diagnostic Neurovascular Imaging', 'st_address': '1800 Orleans St.', 'zip': '21287', 'st_address_full': '1800 Orleans St.Baltimore, MD 21287', 'phone_num': '(443) 997-7237', 'idx_scraper_list': 837}
+{'NPI': 1023054764, 'url': 'https://www.doximity.com/pub/donald-harrington-md', 'full_name': 'DonaldHarringtonMD', 'first_name': 'Donald', 'last_name': 'Harrington', 'credentials': 'MD', 'specialty': 'Nuclear Medicine', 'city_state': 'Stony Brook, NY', 'job_title': 'Professor, Radiology, Stony Brook University SOM', 'st_address': 'University Hospital, L4', 'zip': '11794', 'st_address_full': 'University Hospital, L4Stony Brook, NY 11794', 'phone_num': '(631) 444-6919', 'idx_scraper_list': 838}
+{'NPI': 1023054814, 'url': 'https://www.doximity.com/pub/andrew-hwang-md', 'full_name': 'AndrewHHwangMD', 'first_name': 'Andrew', 'last_name': 'Hwang', 'credentials': 'MD', 'specialty': 'Urology', 'city_state': 'Las Vegas, NV', 'subspecialty': 'Pediatric Urology', 'job_title': 'Las Vegas Pediatric Urology', 'st_address': '653 N. Town Center Dr. Suite 407', 'zip': '89144', 'st_address_full': '653 N. Town Center Dr.Suite 407Las Vegas, NV 89144', 'phone_num': '(702) 728-5686', 'idx_scraper_list': 839}
+{'NPI': 1023054897, 'url': 'https://www.doximity.com/pub/anna-chen-md', 'full_name': 'AnnaJieChenMD', 'first_name': 'Anna', 'last_name': 'Chen', 'credentials': 'MD', 'specialty': 'Pediatrics', 'city_state': 'Katy, TX', 'job_title': 'Physician\n', 'st_address': '705 S. Fry Rd Ste. 120', 'zip': '77450', 'st_address_full': '705 S. Fry RdSte. 120Katy, TX 77450', 'phone_num': '(281) 398-3100', 'idx_scraper_list': 840}
+{'NPI': 1023055316, 'url': 'https://www.doximity.com/pub/adam-greenspan-md', 'full_name': 'AdamGreenspanMD', 'first_name': 'Adam', 'last_name': 'Greenspan', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Sacramento, CA', 'job_title': 'Physician\n', 'st_address': '4860 Y St Suite 3100 Acc', 'zip': '95817', 'st_address_full': '4860 Y StSuite 3100 AccSacramento, CA 95817', 'phone_num': '(916) 734-3606', 'idx_scraper_list': 841}
+{'NPI': 1023055472, 'url': 'https://www.doximity.com/pub/sergio-selva-md', 'idx_scraper_list': 842}
+{'NPI': 1023055639, 'url': 'https://www.doximity.com/pub/ranganath-vedala-md', 'full_name': 'RanganathVedalaMD', 'first_name': 'Ranganath', 'last_name': 'Vedala', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Terre Haute, IN', 'job_title': 'Physician\n', 'st_address': '3102 Wabash Ave', 'zip': '47803', 'st_address_full': '3102 Wabash AveTerre Haute, IN 47803', 'phone_num': '(812) 234-8261', 'idx_scraper_list': 843}
+{'NPI': 1023055654, 'url': 'https://www.doximity.com/pub/lyle-gesner-md', 'idx_scraper_list': 844}
+{'NPI': 1023055720, 'url': 'https://www.doximity.com/pub/mrinal-mali-md', 'idx_scraper_list': 845}
+{'NPI': 1023055969, 'url': 'https://www.doximity.com/pub/jerry-drake-md', 'full_name': 'JerryWDrakeMD', 'first_name': 'Jerry', 'last_name': 'Drake', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Dearborn, MI', 'job_title': 'Physician\n', 'st_address': '840 Oakwood Blvd', 'zip': '48124', 'st_address_full': '840 Oakwood BlvdDearborn, MI 48124', 'phone_num': '(313) 359-7650', 'idx_scraper_list': 846}
+{'NPI': 1023055985, 'url': 'https://www.doximity.com/pub/latika-sinha-md', 'idx_scraper_list': 847}
+{'NPI': 1023056827, 'url': 'https://www.doximity.com/pub/philippe-gailloud-md', 'idx_scraper_list': 848}
+{'NPI': 1023056876, 'url': 'https://www.doximity.com/pub/victor-gregory-md', 'idx_scraper_list': 849}
+{'NPI': 1023057254, 'url': 'https://www.doximity.com/pub/daniel-ha-md', 'full_name': 'DanielLHaMD', 'first_name': 'Daniel', 'last_name': 'Ha', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Normal, IL', 'subspecialty': 'Abdominal Imaging', 'job_title': 'Physician\n', 'st_address': '2200 Fort Jesse Rd Suite 280', 'zip': '61761', 'st_address_full': '2200 Fort Jesse RdSuite 280Normal, IL 61761', 'phone_num': '(309) 452-1788', 'idx_scraper_list': 850}
+{'NPI': 1023057536, 'url': 'https://www.doximity.com/pub/edward-baker-md', 'full_name': 'EdwardLBakerMD', 'first_name': 'Edward', 'last_name': 'Baker', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'San Francisco, CA', 'subspecialty': 'Abdominal Imaging, Gastrointestinal Imaging, Vascular & Interventional Radiology', 'job_title': 'Clinical Professor of , UCSF', 'st_address': '1101 Van Ness Ave', 'zip': '94109', 'st_address_full': '1101 Van Ness AveSan Francisco, CA 94109', 'phone_num': '(415) 600-3232', 'idx_scraper_list': 851}
+{'NPI': 1023057619, 'url': 'https://www.doximity.com/pub/melinda-blietz-md', 'idx_scraper_list': 852}
+{'NPI': 1023058310, 'url': 'https://www.doximity.com/pub/michael-harper-md', 'idx_scraper_list': 853}
+{'NPI': 1023058351, 'url': 'https://www.doximity.com/pub/christophe-rush-md', 'idx_scraper_list': 854}
+{'NPI': 1023058351, 'url': 'https://www.doximity.com/pub/christopher-rush-md', 'idx_scraper_list': 855}
+{'NPI': 1023058641, 'url': 'https://www.doximity.com/pub/brian-schwartz-md', 'idx_scraper_list': 856}
+{'NPI': 1023060415, 'url': 'https://www.doximity.com/pub/victoria-camaya-md', 'idx_scraper_list': 857}
+{'NPI': 1023061546, 'url': 'https://www.doximity.com/pub/james-cornwell-md', 'idx_scraper_list': 858}
+{'NPI': 1023061827, 'url': 'https://www.doximity.com/pub/gregory-jones-md', 'idx_scraper_list': 859}
+{'NPI': 1023062130, 'url': 'https://www.doximity.com/pub/gregg-mattison-md', 'idx_scraper_list': 860}
+{'NPI': 1023062320, 'url': 'https://www.doximity.com/pub/russell-dickerson-md', 'idx_scraper_list': 861}
+{'NPI': 1023062809, 'url': 'https://www.doximity.com/pub/james-robertson-md', 'idx_scraper_list': 862}
+{'NPI': 1023062833, 'url': 'https://www.doximity.com/pub/william-hamilton-md', 'idx_scraper_list': 863}
+{'NPI': 1023063419, 'url': 'https://www.doximity.com/pub/ajay-malpani-md', 'idx_scraper_list': 864}
+{'NPI': 1023063930, 'url': 'https://www.doximity.com/pub/christophe-wing-md', 'idx_scraper_list': 865}
+{'NPI': 1023063930, 'url': 'https://www.doximity.com/pub/christopher-wing-md', 'idx_scraper_list': 866}
+{'NPI': 1023064391, 'url': 'https://www.doximity.com/pub/john-reinschmidt-md', 'idx_scraper_list': 867}
+{'NPI': 1023064706, 'url': 'https://www.doximity.com/pub/jerome-sutherland-md', 'idx_scraper_list': 868}
+{'NPI': 1023064995, 'url': 'https://www.doximity.com/pub/matthew-cohen-md', 'idx_scraper_list': 869}
+{'NPI': 1023065661, 'url': 'https://www.doximity.com/pub/tammy-crumpler-md', 'idx_scraper_list': 870}
+{'NPI': 1023065687, 'url': 'https://www.doximity.com/pub/margaret-guarisco-md', 'idx_scraper_list': 871}
+{'NPI': 1023066255, 'url': 'https://www.doximity.com/pub/douglas-bull-md', 'idx_scraper_list': 872}
+{'NPI': 1023066404, 'url': 'https://www.doximity.com/pub/samuel-putnam-md', 'idx_scraper_list': 873}
+{'NPI': 1023068103, 'url': 'https://www.doximity.com/pub/kavita-rajkotia-md', 'idx_scraper_list': 874}
+{'NPI': 1023068558, 'url': 'https://www.doximity.com/pub/donna-roberts-md', 'idx_scraper_list': 875}
+{'NPI': 1023069127, 'url': 'https://www.doximity.com/pub/zane-kartchner-md', 'idx_scraper_list': 876}
+{'NPI': 1023069564, 'url': 'https://www.doximity.com/pub/gregory-christoforidis-md', 'idx_scraper_list': 877}
+{'NPI': 1023069606, 'url': 'https://www.doximity.com/pub/alan-lurie-md', 'idx_scraper_list': 878}
+{'NPI': 1023070737, 'url': 'https://www.doximity.com/pub/frederick-kash-md', 'idx_scraper_list': 879}
+{'NPI': 1023071339, 'url': 'https://www.doximity.com/pub/lauren-deur-md', 'idx_scraper_list': 880}
+{'NPI': 1023071479, 'url': 'https://www.doximity.com/pub/allen-oser-md', 'idx_scraper_list': 881}
+{'NPI': 1023072212, 'url': 'https://www.doximity.com/pub/barbara-cavanaugh-md', 'idx_scraper_list': 882}
+{'NPI': 1023072394, 'url': 'https://www.doximity.com/pub/joshua-shimony-md', 'idx_scraper_list': 883}
+{'NPI': 1023073004, 'url': 'https://www.doximity.com/pub/rafael-grovas-porrata-md', 'idx_scraper_list': 884}
+{'NPI': 1023073756, 'url': 'https://www.doximity.com/pub/raja-jurdi-md', 'idx_scraper_list': 885}
+{'NPI': 1023073822, 'url': 'https://www.doximity.com/pub/richard-avery-md', 'idx_scraper_list': 886}
+{'NPI': 1023074002, 'url': 'https://www.doximity.com/pub/jeff-mullen-md', 'idx_scraper_list': 887}
+{'NPI': 1023074127, 'url': 'https://www.doximity.com/pub/heramb-singh-md', 'idx_scraper_list': 888}
+{'NPI': 1023075165, 'url': 'https://www.doximity.com/pub/james-rinaldi-md', 'idx_scraper_list': 889}
+{'NPI': 1023075199, 'url': 'https://www.doximity.com/pub/john-rizzi-md', 'idx_scraper_list': 890}
+{'NPI': 1023075884, 'url': 'https://www.doximity.com/pub/maj-wickstrom-md', 'idx_scraper_list': 891}
+{'NPI': 1023076049, 'url': 'https://www.doximity.com/pub/david-schmidt-md', 'idx_scraper_list': 892}
+{'NPI': 1023076379, 'url': 'https://www.doximity.com/pub/stephen-zivin-md', 'idx_scraper_list': 893}
+{'NPI': 1023076429, 'url': 'https://www.doximity.com/pub/david-pelino-md', 'idx_scraper_list': 894}
+{'NPI': 1023076833, 'url': 'https://www.doximity.com/pub/christine-segal-md', 'idx_scraper_list': 895}
+{'NPI': 1023076874, 'url': 'https://www.doximity.com/pub/ladd-lake-md', 'idx_scraper_list': 896}
+{'NPI': 1023077401, 'url': 'https://www.doximity.com/pub/laura-tasa-md', 'idx_scraper_list': 897}
+{'NPI': 1023078987, 'url': 'https://www.doximity.com/pub/joshua-rosenberg-md', 'idx_scraper_list': 898}
+{'NPI': 1023079050, 'url': 'https://www.doximity.com/pub/timothy-leihgeber-md', 'idx_scraper_list': 899}
+{'NPI': 1023079365, 'url': 'https://www.doximity.com/pub/raymond-sung-md', 'idx_scraper_list': 900}
+{'NPI': 1023079589, 'url': 'https://www.doximity.com/pub/pamela-hwang-md', 'idx_scraper_list': 901}
+{'NPI': 1023079951, 'url': 'https://www.doximity.com/pub/ann-nguyen-md', 'idx_scraper_list': 902}
+{'NPI': 1023080686, 'url': 'https://www.doximity.com/pub/david-underwood-md', 'idx_scraper_list': 903}
+{'NPI': 1023080983, 'url': 'https://www.doximity.com/pub/paul-chang-md', 'idx_scraper_list': 904}
+{'NPI': 1023081809, 'url': 'https://www.doximity.com/pub/vincent-rowley-md', 'idx_scraper_list': 905}
+{'NPI': 1023081858, 'url': 'https://www.doximity.com/pub/alan-richman-md', 'idx_scraper_list': 906}
+{'NPI': 1023082641, 'url': 'https://www.doximity.com/pub/matthew-dimasi-md', 'idx_scraper_list': 907}
+{'NPI': 1023082732, 'url': 'https://www.doximity.com/pub/john-clemett-md', 'idx_scraper_list': 908}
+{'NPI': 1023083201, 'url': 'https://www.doximity.com/pub/pornchai-moolsintong-md', 'idx_scraper_list': 909}
+{'NPI': 1023085628, 'url': 'https://www.doximity.com/pub/timothy-crossett-md', 'idx_scraper_list': 910}
+{'NPI': 1023085875, 'url': 'https://www.doximity.com/pub/mark-benson-md', 'idx_scraper_list': 911}
+{'NPI': 1023085891, 'url': 'https://www.doximity.com/pub/john-gurian-md', 'idx_scraper_list': 912}
+{'NPI': 1023085941, 'url': 'https://www.doximity.com/pub/amaar-malik-md', 'idx_scraper_list': 913}
+{'NPI': 1023086261, 'url': 'https://www.doximity.com/pub/dan-nguyen-md', 'idx_scraper_list': 914}
+{'NPI': 1023086360, 'url': 'https://www.doximity.com/pub/theresa-thai-md', 'idx_scraper_list': 915}
+{'NPI': 1023086501, 'url': 'https://www.doximity.com/pub/justin-lee-md', 'idx_scraper_list': 916}
+{'NPI': 1023086964, 'url': 'https://www.doximity.com/pub/vincent-montone-md', 'idx_scraper_list': 917}
+{'NPI': 1023087319, 'url': 'https://www.doximity.com/pub/richard-clutson-md', 'idx_scraper_list': 918}
+{'NPI': 1023088606, 'url': 'https://www.doximity.com/pub/roger-tutton-md', 'idx_scraper_list': 919}
+{'NPI': 1023090503, 'url': 'https://www.doximity.com/pub/larry-graham-md', 'idx_scraper_list': 920}
+{'NPI': 1023090743, 'url': 'https://www.doximity.com/pub/david-cheng-md', 'idx_scraper_list': 921}
+{'NPI': 1023091147, 'url': 'https://www.doximity.com/pub/michael-coan-md', 'idx_scraper_list': 922}
+{'NPI': 1023091410, 'url': 'https://www.doximity.com/pub/roberto-marchan-md', 'idx_scraper_list': 923}
+{'NPI': 1023091758, 'url': 'https://www.doximity.com/pub/byron-marks-md', 'idx_scraper_list': 924}
+{'NPI': 1023091857, 'url': 'https://www.doximity.com/pub/darrin-johnson-md', 'idx_scraper_list': 925}
+{'NPI': 1023091972, 'url': 'https://www.doximity.com/pub/alex-chan-md', 'idx_scraper_list': 926}
+{'NPI': 1023092095, 'url': 'https://www.doximity.com/pub/john-black-md', 'idx_scraper_list': 927}
+{'NPI': 1023092467, 'url': 'https://www.doximity.com/pub/wayne-miller-md', 'idx_scraper_list': 928}
+{'NPI': 1023092483, 'url': 'https://www.doximity.com/pub/marcelle-piccolello-md', 'idx_scraper_list': 929}
+{'NPI': 1023092509, 'url': 'https://www.doximity.com/pub/sibley-turner-md', 'idx_scraper_list': 930}
+{'NPI': 1023092665, 'url': 'https://www.doximity.com/pub/kenneth-morrison-md', 'idx_scraper_list': 931}
+{'NPI': 1023093069, 'url': 'https://www.doximity.com/pub/kenneth-lynch-md', 'idx_scraper_list': 932}
+{'NPI': 1023093101, 'url': 'https://www.doximity.com/pub/george-ferrone-md', 'idx_scraper_list': 933}
+{'NPI': 1023093226, 'url': 'https://www.doximity.com/pub/angela-levy-md', 'idx_scraper_list': 934}
+{'NPI': 1023093770, 'url': 'https://www.doximity.com/pub/william-wong-md', 'idx_scraper_list': 935}
+{'NPI': 1023093879, 'url': 'https://www.doximity.com/pub/nancy-prendergast-md', 'idx_scraper_list': 936}
+{'NPI': 1023094737, 'url': 'https://www.doximity.com/pub/stephen-fox-md', 'idx_scraper_list': 937}
+{'NPI': 1023094786, 'url': 'https://www.doximity.com/pub/john-michael-md', 'idx_scraper_list': 938}
+{'NPI': 1023094851, 'url': 'https://www.doximity.com/pub/robert-stallworth-md', 'idx_scraper_list': 939}
+{'NPI': 1023094943, 'url': 'https://www.doximity.com/pub/christophe-bloomer-md', 'idx_scraper_list': 940}
+{'NPI': 1023094943, 'url': 'https://www.doximity.com/pub/christopher-bloomer-md', 'idx_scraper_list': 941}
+{'NPI': 1023095080, 'url': 'https://www.doximity.com/pub/virginia-eschbach-md', 'idx_scraper_list': 942}
+{'NPI': 1023095478, 'url': 'https://www.doximity.com/pub/wanda-kirejczyk-md', 'idx_scraper_list': 943}
+{'NPI': 1023095502, 'url': 'https://www.doximity.com/pub/thomas-giaimo-md', 'idx_scraper_list': 944}
+{'NPI': 1023096781, 'url': 'https://www.doximity.com/pub/renee-deweese-md', 'idx_scraper_list': 945}
+{'NPI': 1023096914, 'url': 'https://www.doximity.com/pub/gary-lammert-md', 'idx_scraper_list': 946}
+{'NPI': 1023096955, 'url': 'https://www.doximity.com/pub/john-ho-md', 'idx_scraper_list': 947}
+{'NPI': 1023097060, 'url': 'https://www.doximity.com/pub/jeffrey-hirsch-md', 'idx_scraper_list': 948}
+{'NPI': 1023097078, 'url': 'https://www.doximity.com/pub/john-knoedler-md', 'idx_scraper_list': 949}
+{'NPI': 1023097250, 'url': 'https://www.doximity.com/pub/damon-soeiro-md', 'idx_scraper_list': 950}
+{'NPI': 1023097755, 'url': 'https://www.doximity.com/pub/michael-rosenberg-md', 'idx_scraper_list': 951}
+{'NPI': 1023097789, 'url': 'https://www.doximity.com/pub/joseph-tashjian-md', 'idx_scraper_list': 952}
+{'NPI': 1023098332, 'url': 'https://www.doximity.com/pub/anil-kurup-md', 'idx_scraper_list': 953}
+{'NPI': 1023098878, 'url': 'https://www.doximity.com/pub/jorge-garciala-md', 'idx_scraper_list': 954}
+{'NPI': 1023099322, 'url': 'https://www.doximity.com/pub/bethany-richman-md', 'idx_scraper_list': 955}
+{'NPI': 1023099488, 'url': 'https://www.doximity.com/pub/trudy-moore-md', 'idx_scraper_list': 956}
+{'NPI': 1023101268, 'url': 'https://www.doximity.com/pub/jonathan-trambert-md', 'idx_scraper_list': 957}
+{'NPI': 1023104718, 'url': 'https://www.doximity.com/pub/matthew-mccormick-md', 'idx_scraper_list': 958}
+{'NPI': 1023104866, 'url': 'https://www.doximity.com/pub/james-freilich-md', 'idx_scraper_list': 959}
+{'NPI': 1023109139, 'url': 'https://www.doximity.com/pub/bernie-dallum-md', 'idx_scraper_list': 960}
+{'NPI': 1023110277, 'url': 'https://www.doximity.com/pub/rafik-khalil-md', 'idx_scraper_list': 961}
+{'NPI': 1023115672, 'url': 'https://www.doximity.com/pub/craig-kolodziej-md', 'idx_scraper_list': 962}
+{'NPI': 1023117942, 'url': 'https://www.doximity.com/pub/nagina-malguria-md', 'idx_scraper_list': 963}
+{'NPI': 1023118627, 'url': 'https://www.doximity.com/pub/ajay-malhotra-md', 'idx_scraper_list': 964}
+{'NPI': 1023119229, 'url': 'https://www.doximity.com/pub/izabella-mullokandov-md', 'idx_scraper_list': 965}
+{'NPI': 1023119419, 'url': 'https://www.doximity.com/pub/william-dunwoody-md', 'idx_scraper_list': 966}
+{'NPI': 1023121332, 'url': 'https://www.doximity.com/pub/dennie-bartol-md', 'idx_scraper_list': 967}
+{'NPI': 1023125531, 'url': 'https://www.doximity.com/pub/rajesh-patel-md', 'idx_scraper_list': 968}
+{'NPI': 1023126158, 'url': 'https://www.doximity.com/pub/richard-olaughlin-md', 'idx_scraper_list': 969}
+{'NPI': 1023126349, 'url': 'https://www.doximity.com/pub/doan-vu-md', 'idx_scraper_list': 970}
+{'NPI': 1023128428, 'url': 'https://www.doximity.com/pub/william-kuo-md', 'idx_scraper_list': 971}
+{'NPI': 1023129855, 'url': 'https://www.doximity.com/pub/steven-liston-md', 'idx_scraper_list': 972}
+{'NPI': 1023136322, 'url': 'https://www.doximity.com/pub/jignesh-patel-md', 'idx_scraper_list': 973}
+{'NPI': 1023137023, 'url': 'https://www.doximity.com/pub/tanya-rath-md', 'idx_scraper_list': 974}
+{'NPI': 1023143302, 'url': 'https://www.doximity.com/pub/jason-kerr-md', 'idx_scraper_list': 975}
+{'NPI': 1023144177, 'url': 'https://www.doximity.com/pub/gregory-wilde-md', 'idx_scraper_list': 976}
+{'NPI': 1023145463, 'url': 'https://www.doximity.com/pub/jason-aaronson-md', 'idx_scraper_list': 977}
+{'NPI': 1023146420, 'url': 'https://www.doximity.com/pub/maureen-kohi-md', 'idx_scraper_list': 978}
+{'NPI': 1023155223, 'url': 'https://www.doximity.com/pub/richard-jones-md', 'idx_scraper_list': 979}
+{'NPI': 1023158128, 'url': 'https://www.doximity.com/pub/bonnie-freitas-md', 'idx_scraper_list': 980}
+{'NPI': 1023158649, 'url': 'https://www.doximity.com/pub/andrew-doe-md', 'idx_scraper_list': 981}
+{'NPI': 1023164613, 'url': 'https://www.doximity.com/pub/brant-wommack-md', 'idx_scraper_list': 982}
+{'NPI': 1023167905, 'url': 'https://www.doximity.com/pub/gia-deangelis-md', 'idx_scraper_list': 983}
+{'NPI': 1023168622, 'url': 'https://www.doximity.com/pub/julia-neperud-md', 'idx_scraper_list': 984}
+{'NPI': 1023169661, 'url': 'https://www.doximity.com/pub/krishna-kumar-md', 'idx_scraper_list': 985}
+{'NPI': 1023169745, 'url': 'https://www.doximity.com/pub/howard-forman-md', 'idx_scraper_list': 986}
+{'NPI': 1023173143, 'url': 'https://www.doximity.com/pub/neil-vachhani-md', 'idx_scraper_list': 987}
+{'NPI': 1023176989, 'url': 'https://www.doximity.com/pub/richard-campeau-md', 'idx_scraper_list': 988}
+{'NPI': 1023178159, 'url': 'https://www.doximity.com/pub/michael-gelbart-md', 'idx_scraper_list': 989}
+{'NPI': 1023180890, 'url': "https://www.doximity.com/pub/mark-o'callaghan-md", 'idx_scraper_list': 990}
+{'NPI': 1023182516, 'url': 'https://www.doximity.com/pub/muhammad-anwar-md', 'idx_scraper_list': 991}
+{'NPI': 1023185238, 'url': 'https://www.doximity.com/pub/hung-tran-md', 'idx_scraper_list': 992}
+{'NPI': 1023185287, 'url': 'https://www.doximity.com/pub/john-ebersole-md', 'idx_scraper_list': 993}
+{'NPI': 1023188158, 'url': 'https://www.doximity.com/pub/edward-wind-md', 'idx_scraper_list': 994}
+{'NPI': 1023188471, 'url': 'https://www.doximity.com/pub/alan-johnson-md', 'idx_scraper_list': 995}
+{'NPI': 1023189214, 'url': 'https://www.doximity.com/pub/bruce-linder-md', 'idx_scraper_list': 996}
+{'NPI': 1023189529, 'url': 'https://www.doximity.com/pub/carl-tack-md', 'idx_scraper_list': 997}
+{'NPI': 1023190097, 'url': 'https://www.doximity.com/pub/andrew-bostaph-md', 'idx_scraper_list': 998}
+{'NPI': 1023192895, 'url': 'https://www.doximity.com/pub/carlton-phelps-md', 'idx_scraper_list': 999}
+{'NPI': 1023193000, 'url': 'https://www.doximity.com/pub/nasrin-ghesani-md', 'idx_scraper_list': 1000}
+{'NPI': 1023194628, 'url': 'https://www.doximity.com/pub/james-gallagher-md', 'idx_scraper_list': 1001}
+{'NPI': 1023197126, 'url': 'https://www.doximity.com/pub/george-jordan-md', 'idx_scraper_list': 1002}
+{'NPI': 1023205879, 'url': 'https://www.doximity.com/pub/jared-narvid-md', 'idx_scraper_list': 1003}
+{'NPI': 1023207644, 'url': 'https://www.doximity.com/pub/ramez-malaty-md', 'idx_scraper_list': 1004}
+{'NPI': 1023210473, 'url': 'https://www.doximity.com/pub/desi-barroga-md', 'idx_scraper_list': 1005}
+{'NPI': 1023211703, 'url': 'https://www.doximity.com/pub/garrett-stover-md', 'idx_scraper_list': 1006}
+{'NPI': 1023212214, 'url': 'https://www.doximity.com/pub/zachary-brown-md', 'idx_scraper_list': 1007}
+{'NPI': 1023212503, 'url': 'https://www.doximity.com/pub/ryan-grippo-md', 'idx_scraper_list': 1008}
+{'NPI': 1023213378, 'url': 'https://www.doximity.com/pub/amanda-kent-md', 'idx_scraper_list': 1009}
+{'NPI': 1023213717, 'url': 'https://www.doximity.com/pub/alexandr-rafailov-md', 'idx_scraper_list': 1010}
+{'NPI': 1023213725, 'url': 'https://www.doximity.com/pub/mingqian-huang-md', 'idx_scraper_list': 1011}
+{'NPI': 1023215464, 'url': 'https://www.doximity.com/pub/john-haas-md', 'idx_scraper_list': 1012}
+{'NPI': 1023216256, 'url': 'https://www.doximity.com/pub/chad-hanson-md', 'idx_scraper_list': 1013}
+{'NPI': 1023216298, 'url': 'https://www.doximity.com/pub/anita-thomas-md', 'idx_scraper_list': 1014}
+{'NPI': 1023217726, 'url': 'https://www.doximity.com/pub/eric-norby-md', 'idx_scraper_list': 1015}
+{'NPI': 1023218153, 'url': 'https://www.doximity.com/pub/daya-vora-md', 'idx_scraper_list': 1016}
+{'NPI': 1023218229, 'url': 'https://www.doximity.com/pub/ahdy-messiha-md', 'idx_scraper_list': 1017}
+{'NPI': 1023219987, 'url': 'https://www.doximity.com/pub/joseph-azar-md', 'idx_scraper_list': 1018}
+{'NPI': 1023220381, 'url': 'https://www.doximity.com/pub/catherine-kurowski-md', 'idx_scraper_list': 1019}
+{'NPI': 1023221926, 'url': 'https://www.doximity.com/pub/leon-wise-md', 'idx_scraper_list': 1020}
+{'NPI': 1023223757, 'url': 'https://www.doximity.com/pub/peter-herwitt-md', 'idx_scraper_list': 1021}
+{'NPI': 1023224888, 'url': 'https://www.doximity.com/pub/thomas-chacko-md', 'idx_scraper_list': 1022}
+{'NPI': 1023227477, 'url': 'https://www.doximity.com/pub/henry-nguyen-md', 'idx_scraper_list': 1023}
+{'NPI': 1023227840, 'url': 'https://www.doximity.com/pub/sara-brooks-sienkiewicz-md', 'idx_scraper_list': 1024}
+{'NPI': 1023228525, 'url': 'https://www.doximity.com/pub/martin-pilat-md', 'idx_scraper_list': 1025}
+{'NPI': 1023232741, 'url': 'https://www.doximity.com/pub/wade-hedegard-md', 'idx_scraper_list': 1026}
+{'NPI': 1023240561, 'url': 'https://www.doximity.com/pub/ezra-fraser-md', 'idx_scraper_list': 1027}
+{'NPI': 1023244498, 'url': 'https://www.doximity.com/pub/david-nakamura-md', 'idx_scraper_list': 1028}
+{'NPI': 1023244621, 'url': 'https://www.doximity.com/pub/blake-kightlinger-md', 'idx_scraper_list': 1029}
+{'NPI': 1023245115, 'url': 'https://www.doximity.com/pub/takashi-sato-md', 'idx_scraper_list': 1030}
+{'NPI': 1023245230, 'url': 'https://www.doximity.com/pub/michael-lalezarian-md', 'idx_scraper_list': 1031}
+{'NPI': 1023245404, 'url': 'https://www.doximity.com/pub/andrew-moriarity-md', 'idx_scraper_list': 1032}
+{'NPI': 1023245537, 'url': 'https://www.doximity.com/pub/harlan-stock-md', 'idx_scraper_list': 1033}
+{'NPI': 1023246741, 'url': 'https://www.doximity.com/pub/chad-sarver-md', 'idx_scraper_list': 1034}
+{'NPI': 1023247061, 'url': 'https://www.doximity.com/pub/kimberly-gardner-md', 'idx_scraper_list': 1035}
+{'NPI': 1023248648, 'url': 'https://www.doximity.com/pub/michael-gordon-md', 'idx_scraper_list': 1036}
+{'NPI': 1023250149, 'url': 'https://www.doximity.com/pub/matthew-winfeld-md', 'idx_scraper_list': 1037}
+{'NPI': 1023251626, 'url': 'https://www.doximity.com/pub/richard-borst-md', 'idx_scraper_list': 1038}
+{'NPI': 1023251790, 'url': 'https://www.doximity.com/pub/ryan-peterson-md', 'idx_scraper_list': 1039}
+{'NPI': 1023251832, 'url': 'https://www.doximity.com/pub/corinne-atty-md', 'idx_scraper_list': 1040}
+{'NPI': 1023256781, 'url': 'https://www.doximity.com/pub/nikhil-bhagat-md', 'idx_scraper_list': 1041}
+{'NPI': 1023260502, 'url': 'https://www.doximity.com/pub/hongju-son-md', 'idx_scraper_list': 1042}
+{'NPI': 1023261062, 'url': 'https://www.doximity.com/pub/sania-rahim-gilani-md', 'idx_scraper_list': 1043}
+{'NPI': 1023262714, 'url': 'https://www.doximity.com/pub/vu-truong-md', 'idx_scraper_list': 1044}
+{'NPI': 1023263704, 'url': 'https://www.doximity.com/pub/danielle-sorte-md', 'idx_scraper_list': 1045}
+{'NPI': 1023264157, 'url': 'https://www.doximity.com/pub/kan-zhang-md', 'idx_scraper_list': 1046}
+{'NPI': 1023264538, 'url': 'https://www.doximity.com/pub/kristin-booth-md', 'idx_scraper_list': 1047}
+{'NPI': 1023265139, 'url': 'https://www.doximity.com/pub/krista-birkemeier-md', 'idx_scraper_list': 1048}
+{'NPI': 1023265840, 'url': 'https://www.doximity.com/pub/jared-allen-md', 'idx_scraper_list': 1049}
+{'NPI': 1023266103, 'url': 'https://www.doximity.com/pub/jasmeet-singh-md', 'idx_scraper_list': 1050}
+{'NPI': 1023271947, 'url': 'https://www.doximity.com/pub/brandon-martinez-md', 'idx_scraper_list': 1051}
+{'NPI': 1023272069, 'url': 'https://www.doximity.com/pub/aaron-hurlbut-md', 'idx_scraper_list': 1052}
+{'NPI': 1023272200, 'url': 'https://www.doximity.com/pub/sujan-fernando-md', 'idx_scraper_list': 1053}
+{'NPI': 1023277654, 'url': 'https://www.doximity.com/pub/jacob-mandell-md', 'idx_scraper_list': 1054}
+{'NPI': 1023278421, 'url': 'https://www.doximity.com/pub/kandra-vogt-md', 'idx_scraper_list': 1055}
+{'NPI': 1023279767, 'url': 'https://www.doximity.com/pub/sachin-shroff-md', 'idx_scraper_list': 1056}
+{'NPI': 1023281573, 'url': 'https://www.doximity.com/pub/vivek-mathur-md', 'idx_scraper_list': 1057}
+{'NPI': 1023282142, 'url': 'https://www.doximity.com/pub/eduardo-oyola-torres-md', 'idx_scraper_list': 1058}
+{'NPI': 1023284312, 'url': 'https://www.doximity.com/pub/regino-cube-md', 'idx_scraper_list': 1059}
+{'NPI': 1023284809, 'url': 'https://www.doximity.com/pub/philip-yen-md', 'idx_scraper_list': 1060}
+{'NPI': 1023290582, 'url': 'https://www.doximity.com/pub/heidi-dambach-md', 'idx_scraper_list': 1061}
+{'NPI': 1023290681, 'url': 'https://www.doximity.com/pub/terence-wade-md', 'idx_scraper_list': 1062}
+{'NPI': 1023292356, 'url': 'https://www.doximity.com/pub/eva-riker-md', 'idx_scraper_list': 1063}
+{'NPI': 1023297017, 'url': 'https://www.doximity.com/pub/rebecca-kuntz-md', 'idx_scraper_list': 1064}
+{'NPI': 1023299831, 'url': 'https://www.doximity.com/pub/bonnie-garon-md', 'idx_scraper_list': 1065}
+{'NPI': 1023300183, 'url': 'https://www.doximity.com/pub/joseph-benjamin-md', 'idx_scraper_list': 1066}
+{'NPI': 1023300381, 'url': 'https://www.doximity.com/pub/ryan-clayton-md', 'idx_scraper_list': 1067}
+{'NPI': 1023302346, 'url': 'https://www.doximity.com/pub/suraj-parekh-md', 'idx_scraper_list': 1068}
+{'NPI': 1023306594, 'url': 'https://www.doximity.com/pub/deeshali-shah-md', 'idx_scraper_list': 1069}
+{'NPI': 1023307774, 'url': 'https://www.doximity.com/pub/jessica-sin-md', 'idx_scraper_list': 1070}
+{'NPI': 1023308541, 'url': 'https://www.doximity.com/pub/cody-quirk-md', 'idx_scraper_list': 1071}
+{'NPI': 1023308558, 'url': 'https://www.doximity.com/pub/john-tezel-md', 'idx_scraper_list': 1072}
+{'NPI': 1023309424, 'url': 'https://www.doximity.com/pub/haatal-dave-md', 'idx_scraper_list': 1073}
+{'NPI': 1023315819, 'url': 'https://www.doximity.com/pub/allison-solish-gittens-md', 'idx_scraper_list': 1074}
+{'NPI': 1023315843, 'url': 'https://www.doximity.com/pub/shivani-ahlawat-md', 'idx_scraper_list': 1075}
+{'NPI': 1023317328, 'url': 'https://www.doximity.com/pub/brad-wright-md', 'idx_scraper_list': 1076}
+{'NPI': 1023317732, 'url': 'https://www.doximity.com/pub/matthew-guy-md', 'idx_scraper_list': 1077}
+{'NPI': 1023319704, 'url': 'https://www.doximity.com/pub/christophe-kuzminski-md', 'idx_scraper_list': 1078}
+{'NPI': 1023319704, 'url': 'https://www.doximity.com/pub/christopher-kuzminski-md', 'idx_scraper_list': 1079}
+{'NPI': 1023320306, 'url': 'https://www.doximity.com/pub/sheil-shah-md', 'idx_scraper_list': 1080}
+{'NPI': 1023323573, 'url': 'https://www.doximity.com/pub/bryan-lanzman-md', 'idx_scraper_list': 1081}
+{'NPI': 1023326733, 'url': 'https://www.doximity.com/pub/wilmarie-rivera-hernandez-md', 'idx_scraper_list': 1082}
+{'NPI': 1023329133, 'url': 'https://www.doximity.com/pub/kareem-rahbar-md', 'idx_scraper_list': 1083}
+{'NPI': 1023329182, 'url': 'https://www.doximity.com/pub/robert-kurtz-md', 'idx_scraper_list': 1084}
+{'NPI': 1023329299, 'url': 'https://www.doximity.com/pub/flavio-kamenetz-md', 'idx_scraper_list': 1085}
+{'NPI': 1023329513, 'url': 'https://www.doximity.com/pub/heather-gale-md', 'idx_scraper_list': 1086}
+{'NPI': 1023332814, 'url': 'https://www.doximity.com/pub/raj-chinnappan-md', 'idx_scraper_list': 1087}
+{'NPI': 1023335288, 'url': 'https://www.doximity.com/pub/roi-bittane-md', 'idx_scraper_list': 1088}
+{'NPI': 1023335775, 'url': 'https://www.doximity.com/pub/vijay-yerubandi-md', 'idx_scraper_list': 1089}
+{'NPI': 1023336690, 'url': 'https://www.doximity.com/pub/jeffrey-shyu-md', 'idx_scraper_list': 1090}
+{'NPI': 1023336732, 'url': 'https://www.doximity.com/pub/chenchan-huang-md', 'idx_scraper_list': 1091}
+{'NPI': 1023338282, 'url': 'https://www.doximity.com/pub/robert-hosker-md', 'idx_scraper_list': 1092}
+{'NPI': 1023346483, 'url': 'https://www.doximity.com/pub/zachary-friess-md', 'idx_scraper_list': 1093}
+{'NPI': 1023350139, 'url': 'https://www.doximity.com/pub/robert-grammer-md', 'idx_scraper_list': 1094}
+{'NPI': 1023350303, 'url': 'https://www.doximity.com/pub/marta-flory-md', 'idx_scraper_list': 1095}
+{'NPI': 1023351533, 'url': 'https://www.doximity.com/pub/shannon-nord-md', 'idx_scraper_list': 1096}
+{'NPI': 1023351608, 'url': 'https://www.doximity.com/pub/jacob-eitel-md', 'idx_scraper_list': 1097}
+{'NPI': 1023363082, 'url': 'https://www.doximity.com/pub/shihong-li-md', 'idx_scraper_list': 1098}
+{'NPI': 1023365681, 'url': 'https://www.doximity.com/pub/adam-sanchez-md', 'idx_scraper_list': 1099}
+{'NPI': 1023371077, 'url': 'https://www.doximity.com/pub/william-mcgarry-md', 'idx_scraper_list': 1100}
+{'NPI': 1023371499, 'url': 'https://www.doximity.com/pub/monica-drylewicz-md', 'idx_scraper_list': 1101}
+{'NPI': 1023371952, 'url': 'https://www.doximity.com/pub/robert-novaco-md', 'idx_scraper_list': 1102}
+{'NPI': 1023372141, 'url': 'https://www.doximity.com/pub/aliaksei-salei-md', 'idx_scraper_list': 1103}
+{'NPI': 1023372588, 'url': 'https://www.doximity.com/pub/teddi-berry-md', 'idx_scraper_list': 1104}
+{'NPI': 1023373198, 'url': 'https://www.doximity.com/pub/lindsay-griffin-md', 'idx_scraper_list': 1105}
+{'NPI': 1023373297, 'url': 'https://www.doximity.com/pub/patrick-do-md', 'idx_scraper_list': 1106}
+{'NPI': 1023374014, 'url': 'https://www.doximity.com/pub/christopher-smith-md', 'idx_scraper_list': 1107}
+{'NPI': 1023375474, 'url': 'https://www.doximity.com/pub/maryna-kuznetsov-md', 'idx_scraper_list': 1108}
+{'NPI': 1023378767, 'url': 'https://www.doximity.com/pub/ajwad-bajwa-md', 'idx_scraper_list': 1109}
+{'NPI': 1023378841, 'url': 'https://www.doximity.com/pub/luis-gutierrez-md', 'idx_scraper_list': 1110}
+{'NPI': 1023378973, 'url': 'https://www.doximity.com/pub/joshua-similuk-md', 'idx_scraper_list': 1111}
+{'NPI': 1023383486, 'url': 'https://www.doximity.com/pub/dane-mackey-md', 'idx_scraper_list': 1112}
+{'NPI': 1023387339, 'url': 'https://www.doximity.com/pub/zsolt-garami-md', 'idx_scraper_list': 1113}
+{'NPI': 1023403672, 'url': 'https://www.doximity.com/pub/corrie-bach-md', 'idx_scraper_list': 1114}
+{'NPI': 1023421849, 'url': 'https://www.doximity.com/pub/mohamed-jarraya-md', 'idx_scraper_list': 1115}
+{'NPI': 1023429495, 'url': 'https://www.doximity.com/pub/zachary-clark-md', 'idx_scraper_list': 1116}
+{'NPI': 1023436235, 'url': 'https://www.doximity.com/pub/adam-zybulewski-md', 'idx_scraper_list': 1117}
+{'NPI': 1023438835, 'url': 'https://www.doximity.com/pub/shamseldeen-mahmoud-md', 'idx_scraper_list': 1118}
+{'NPI': 1023451341, 'url': 'https://www.doximity.com/pub/akhil-khetarpal-md', 'idx_scraper_list': 1119}
+{'NPI': 1023452604, 'url': 'https://www.doximity.com/pub/amar-patel-md', 'idx_scraper_list': 1120}
+{'NPI': 1023452737, 'url': 'https://www.doximity.com/pub/preston-eiswirth-md', 'idx_scraper_list': 1121}
+{'NPI': 1023452893, 'url': 'https://www.doximity.com/pub/arthur-pesch-md', 'idx_scraper_list': 1122}
+{'NPI': 1023453495, 'url': 'https://www.doximity.com/pub/daichi-hayashi-md', 'idx_scraper_list': 1123}
+{'NPI': 1023454279, 'url': 'https://www.doximity.com/pub/fareed-riyaz-md', 'idx_scraper_list': 1124}
+{'NPI': 1023455797, 'url': 'https://www.doximity.com/pub/david-hoffman-md', 'idx_scraper_list': 1125}
+{'NPI': 1023455854, 'url': 'https://www.doximity.com/pub/lewis-hahn-md', 'idx_scraper_list': 1126}
+{'NPI': 1033100284, 'url': 'https://www.doximity.com/pub/mark-rounsaville-md', 'idx_scraper_list': 1127}
+{'NPI': 1033100300, 'url': 'https://www.doximity.com/pub/tomas-korensky-md', 'idx_scraper_list': 1128}
+{'NPI': 1033100458, 'url': 'https://www.doximity.com/pub/caroline-wilson-md', 'idx_scraper_list': 1129}
+{'NPI': 1033101373, 'url': 'https://www.doximity.com/pub/j-e-fredri-zetterberg-md', 'idx_scraper_list': 1130}
+{'NPI': 1033101373, 'url': 'https://www.doximity.com/pub/j-e-fredrik-zetterberg-md', 'idx_scraper_list': 1131}
+{'NPI': 1033101522, 'url': 'https://www.doximity.com/pub/kenneth-brumberger-md', 'idx_scraper_list': 1132}
+{'NPI': 1033101571, 'url': 'https://www.doximity.com/pub/daniel-singer-md', 'idx_scraper_list': 1133}
+{'NPI': 1033102124, 'url': 'https://www.doximity.com/pub/bradley-blackburn-md', 'idx_scraper_list': 1134}
+{'NPI': 1033103007, 'url': 'https://www.doximity.com/pub/kenneth-dee-md', 'idx_scraper_list': 1135}
+{'NPI': 1033103197, 'url': 'https://www.doximity.com/pub/suzanne-hand-md', 'idx_scraper_list': 1136}
+{'NPI': 1033104617, 'url': 'https://www.doximity.com/pub/gregory-elberfeld-md', 'idx_scraper_list': 1137}
+{'NPI': 1033104682, 'url': 'https://www.doximity.com/pub/andrew-adamson-md', 'idx_scraper_list': 1138}
+{'NPI': 1033104971, 'url': 'https://www.doximity.com/pub/abraham-obuchowski-md', 'idx_scraper_list': 1139}
+{'NPI': 1033105754, 'url': 'https://www.doximity.com/pub/donald-romanelli-md', 'idx_scraper_list': 1140}
+{'NPI': 1033106109, 'url': 'https://www.doximity.com/pub/jeffrey-mccann-md', 'idx_scraper_list': 1141}
+{'NPI': 1033106232, 'url': 'https://www.doximity.com/pub/carol-seifert-md', 'idx_scraper_list': 1142}
+{'NPI': 1033107321, 'url': 'https://www.doximity.com/pub/leslie-scott-md', 'idx_scraper_list': 1143}
+{'NPI': 1033107982, 'url': 'https://www.doximity.com/pub/laurie-fajardo-md', 'idx_scraper_list': 1144}
+{'NPI': 1033108089, 'url': 'https://www.doximity.com/pub/monali-gupta-md', 'idx_scraper_list': 1145}
+{'NPI': 1033109228, 'url': 'https://www.doximity.com/pub/thomas-zumsteg-md', 'idx_scraper_list': 1146}
+{'NPI': 1033109285, 'url': 'https://www.doximity.com/pub/john-nisbet-md', 'idx_scraper_list': 1147}
+{'NPI': 1033110549, 'url': 'https://www.doximity.com/pub/james-heisel-md', 'idx_scraper_list': 1148}
+{'NPI': 1033111091, 'url': 'https://www.doximity.com/pub/cameron-roberts-md', 'idx_scraper_list': 1149}
+{'NPI': 1033111786, 'url': 'https://www.doximity.com/pub/francis-kearney-md', 'idx_scraper_list': 1150}
+{'NPI': 1033113527, 'url': 'https://www.doximity.com/pub/peter-giustra-md', 'idx_scraper_list': 1151}
+{'NPI': 1033113675, 'url': 'https://www.doximity.com/pub/achal-sarna-md', 'idx_scraper_list': 1152}
+{'NPI': 1033113790, 'url': 'https://www.doximity.com/pub/lester-libfraind-md', 'idx_scraper_list': 1153}
+{'NPI': 1033113816, 'url': 'https://www.doximity.com/pub/christophe-govea-md', 'idx_scraper_list': 1154}
+{'NPI': 1033113816, 'url': 'https://www.doximity.com/pub/christopher-govea-md', 'idx_scraper_list': 1155}
+{'NPI': 1033114194, 'url': 'https://www.doximity.com/pub/michael-unterman-md', 'idx_scraper_list': 1156}
+{'NPI': 1033114228, 'url': 'https://www.doximity.com/pub/bryan-billions-md', 'idx_scraper_list': 1157}
+{'NPI': 1033115233, 'url': 'https://www.doximity.com/pub/scott-skorupa-md', 'idx_scraper_list': 1158}
+{'NPI': 1033115910, 'url': 'https://www.doximity.com/pub/lewis-bader-md', 'idx_scraper_list': 1159}
+{'NPI': 1033116918, 'url': 'https://www.doximity.com/pub/scott-foster-md', 'idx_scraper_list': 1160}
+{'NPI': 1033116991, 'url': 'https://www.doximity.com/pub/david-rippe-md', 'idx_scraper_list': 1161}
+{'NPI': 1033117494, 'url': 'https://www.doximity.com/pub/yonker-wang-md', 'idx_scraper_list': 1162}
+{'NPI': 1033118336, 'url': 'https://www.doximity.com/pub/mark-masotto-md', 'idx_scraper_list': 1163}
+{'NPI': 1033119342, 'url': 'https://www.doximity.com/pub/hoang-nguyen-md', 'idx_scraper_list': 1164}
+{'NPI': 1033119458, 'url': 'https://www.doximity.com/pub/philip-meyers-md', 'idx_scraper_list': 1165}
+{'NPI': 1033119839, 'url': 'https://www.doximity.com/pub/craig-butler-md', 'idx_scraper_list': 1166}
+{'NPI': 1033121892, 'url': 'https://www.doximity.com/pub/david-tracy-md', 'idx_scraper_list': 1167}
+{'NPI': 1033123872, 'url': 'https://www.doximity.com/pub/minh-nhut-dang-md', 'idx_scraper_list': 1168}
+{'NPI': 1033125414, 'url': 'https://www.doximity.com/pub/john-holden-md', 'idx_scraper_list': 1169}
+{'NPI': 1033125950, 'url': 'https://www.doximity.com/pub/matthew-rahaim-md', 'idx_scraper_list': 1170}
+{'NPI': 1033128624, 'url': 'https://www.doximity.com/pub/james-neumann-md', 'idx_scraper_list': 1171}
+{'NPI': 1033129267, 'url': 'https://www.doximity.com/pub/gary-bauerle-md', 'idx_scraper_list': 1172}
+{'NPI': 1033130836, 'url': 'https://www.doximity.com/pub/mark-wenzel-md', 'idx_scraper_list': 1173}
+{'NPI': 1033131206, 'url': 'https://www.doximity.com/pub/jeanne-hicks-md', 'idx_scraper_list': 1174}
+{'NPI': 1033131503, 'url': 'https://www.doximity.com/pub/john-bies-md', 'idx_scraper_list': 1175}
+{'NPI': 1033131982, 'url': 'https://www.doximity.com/pub/sherief-gamie-md', 'idx_scraper_list': 1176}
+{'NPI': 1033132295, 'url': 'https://www.doximity.com/pub/john-sturgeon-md', 'idx_scraper_list': 1177}
+{'NPI': 1033132576, 'url': 'https://www.doximity.com/pub/carole-roseland-md', 'idx_scraper_list': 1178}
+{'NPI': 1033133426, 'url': 'https://www.doximity.com/pub/ernest-conti-md', 'idx_scraper_list': 1179}
+{'NPI': 1033135678, 'url': 'https://www.doximity.com/pub/david-feldman-md', 'idx_scraper_list': 1180}
+{'NPI': 1033136874, 'url': 'https://www.doximity.com/pub/kenneth-najarian-md', 'idx_scraper_list': 1181}
+{'NPI': 1033137278, 'url': 'https://www.doximity.com/pub/thomas-brown-md', 'idx_scraper_list': 1182}
+{'NPI': 1033137682, 'url': 'https://www.doximity.com/pub/stephen-garrity-md', 'idx_scraper_list': 1183}
+{'NPI': 1033139050, 'url': 'https://www.doximity.com/pub/andreas-schilling-md', 'idx_scraper_list': 1184}
+{'NPI': 1033139696, 'url': 'https://www.doximity.com/pub/jonathan-root-md', 'idx_scraper_list': 1185}
+{'NPI': 1033140108, 'url': 'https://www.doximity.com/pub/adam-trybus-md', 'idx_scraper_list': 1186}
+{'NPI': 1033140439, 'url': 'https://www.doximity.com/pub/marcella-butler-md', 'idx_scraper_list': 1187}
+{'NPI': 1033142351, 'url': 'https://www.doximity.com/pub/marc-alonzo-md', 'idx_scraper_list': 1188}
+{'NPI': 1033142450, 'url': 'https://www.doximity.com/pub/tracy-florant-md', 'idx_scraper_list': 1189}
+{'NPI': 1033142740, 'url': 'https://www.doximity.com/pub/khalil-yousef-md', 'idx_scraper_list': 1190}
+{'NPI': 1033143714, 'url': 'https://www.doximity.com/pub/brian-green-md', 'full_name': 'BrianJGreenMD', 'first_name': 'Brian', 'last_name': 'Green', 'credentials': 'MD', 'specialty': 'Internal Medicine', 'city_state': 'Boston, MA', 'job_title': 'Medical Director, Home Based Primary Care\nVA Boston', 'st_address': 'Home Based Primary Care 150 South Huntington Avenue', 'zip': '02130', 'st_address_full': 'Home Based Primary Care150 South Huntington AvenueBoston, MA 02130', 'phone_num': '(857) 364-6772', 'idx_scraper_list': 1191}
+{'NPI': 1033144639, 'url': 'https://www.doximity.com/pub/michael-mcdonnell-md', 'full_name': 'MichaelMcdonnellMD', 'first_name': 'Michael', 'last_name': 'Mcdonnell', 'credentials': 'MD', 'specialty': 'Internal Medicine', 'city_state': 'Oak Lawn, IL', 'subspecialty': 'Hospital Medicine/Hospitalist', 'job_title': 'Physician\n', 'st_address': '6700 W 95th St', 'zip': '60453', 'st_address_full': '6700 W 95th StOak Lawn, IL 60453', 'idx_scraper_list': 1192}
+{'NPI': 1033144720, 'url': 'https://www.doximity.com/pub/john-grum-md', 'full_name': 'JohnT.GrumMD', 'first_name': 'John', 'last_name': 'Grum', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Milwaukee, WI', 'job_title': 'Physician\n', 'st_address': '945 N 12th St Suite 3858', 'zip': '53233', 'st_address_full': '945 N 12th StSuite 3858Milwaukee, WI 53233', 'phone_num': '(414) 219-2000', 'idx_scraper_list': 1193}
+{'NPI': 1033145081, 'url': 'https://www.doximity.com/pub/henry-wang-md', 'full_name': 'HenryHWangMD', 'first_name': 'Henry', 'last_name': 'Wang', 'credentials': 'MD', 'specialty': 'Internal Medicine', 'city_state': 'Las Vegas, NV', 'job_title': 'Physician\n', 'st_address': '1346 S Decatur Blvd', 'zip': '89102', 'st_address_full': '1346 S Decatur BlvdLas Vegas, NV 89102', 'phone_num': '(702) 889-8355', 'idx_scraper_list': 1194}
+{'NPI': 1033146212, 'url': 'https://www.doximity.com/pub/jesse-johnson-md', 'full_name': 'JesseClarkJohnsonMD', 'first_name': 'Jesse', 'last_name': 'Johnson', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Traverse City, MI', 'job_title': 'Physician\n', 'st_address': '1105 6th St', 'zip': '49684', 'st_address_full': '1105 6th StTraverse City, MI 49684', 'phone_num': '(231) 935-0499', 'idx_scraper_list': 1195}
+{'NPI': 1033146634, 'url': 'https://www.doximity.com/pub/justin-clark-md', 'full_name': 'JustinWayneClarkMD', 'first_name': 'Justin', 'last_name': 'Clark', 'credentials': 'MD', 'specialty': 'Dermatology', 'city_state': 'Lubbock, TX', 'subspecialty': 'Dermatologic Surgery', 'job_title': 'Physician\n', 'st_address': '3601 22nd St Lubbock Dermatology', 'zip': '79410', 'st_address_full': '3601 22nd StLubbock DermatologyLubbock, TX 79410', 'phone_num': '(806) 796-7193', 'idx_scraper_list': 1196}
+{'NPI': 1033146758, 'url': 'https://www.doximity.com/pub/jonathan-fish-md', 'full_name': 'JonathanScottFishMD', 'first_name': 'Jonathan', 'last_name': 'Fish', 'credentials': 'MD', 'specialty': 'Internal Medicine', 'city_state': 'Henryton, MD', 'job_title': 'Physician\n', 'st_address': '2470 Longstone Ln Ste H', 'zip': '21104', 'st_address_full': '2470 Longstone LnSte HHenryton, MD 21104', 'phone_num': '(410) 910-2300', 'idx_scraper_list': 1197}
+{'NPI': 1033147491, 'url': 'https://www.doximity.com/pub/scott-babin-md', 'full_name': 'ScottBrianBabinMD', 'first_name': 'Scott', 'last_name': 'Babin', 'credentials': 'MD', 'specialty': 'Radiology', 'city_state': 'Louisville, KY', 'subspecialty': 'Abdominal Imaging, Ultrasound, Nuclear Radiology', 'job_title': 'Physician\n', 'st_address': '170 Dr Arla Way Ste 101', 'zip': '40229', 'st_address_full': '170 Dr Arla WaySte 101Louisville, KY 40229', 'phone_num': '(502) 432-2299', 'idx_scraper_list': 1198}
+{'NPI': 1033147657, 'url': 'https://www.doximity.com/pub/jay-requarth-md', 'full_name': 'JayAnthonyRequarthMDFACS', 'first_name': 'Jay', 'last_name': 'Requarth', 'credentials': 'MD', 'specialty': 'Interventional Radiology', 'city_state': 'Winston Salem, NC', 'job_title': 'Assistant Professor, Radiologic Sciences, Wake Forest School of Medicine', 'st_address': 'Medical Center Blvd', 'zip': '27157', 'st_address_full': 'Medical Center BlvdWinston Salem, NC 27157', 'phone_num': '(336) 716-2255', 'idx_scraper_list': 1199}

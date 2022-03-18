@@ -1,0 +1,388 @@
+{'NPI': 1003002148, 'institution': 'LSU Health Sciences Center', 'education': 'Residency, Radiology-Diagnostic, 2011 - 2015', 'idx_scraper_list': 0}
+{'NPI': 1003002148, 'institution': 'USA Health', 'education': 'Internship, Internal Medicine, 2007 - 2008', 'idx_scraper_list': 0}
+{'NPI': 1003002148, 'institution': 'University of South Alabama College of Medicine', 'education': 'Class of 2007', 'idx_scraper_list': 0}
+{'NPI': 1003002148, 'institution': 'University of Alabama', 'education': 'BS, Biology, 1999 - 2003', 'idx_scraper_list': 0}
+{'NPI': 1003002783, 'institution': 'University of Washington School of Medicine', 'education': 'Fellowship, Cardiovascular Disease, 2010 - 2014', 'idx_scraper_list': 1}
+{'NPI': 1003002783, 'institution': 'University of Washington School of Medicine', 'education': 'Residency, Internal Medicine, 2006 - 2010', 'idx_scraper_list': 1}
+{'NPI': 1003002783, 'institution': 'University of Illinois College of Medicine at Chicago', 'education': 'Class of 2006', 'idx_scraper_list': 1}
+{'NPI': 1003002809, 'institution': 'New York Presbyterian Hospital', 'education': 'Fellowship, Nephrology, 1978 - 1980', 'idx_scraper_list': 2}
+{'NPI': 1003002809, 'institution': 'New York Medical College', 'education': 'Residency, Internal Medicine, 1975 - 1978', 'idx_scraper_list': 2}
+{'NPI': 1003002809, 'institution': 'Georgetown University School of Medicine', 'education': 'Class of 1975', 'idx_scraper_list': 2}
+{'NPI': 1003006636, 'institution': 'Capital Health Regional Medical Center', 'education': 'Residency, Internal Medicine, 1996 - 2000', 'idx_scraper_list': 3}
+{'NPI': 1003006636, 'institution': 'Sind Medical College', 'education': 'Class of 1986', 'idx_scraper_list': 3}
+{'NPI': 1003008517, 'institution': 'Nassau University Medical Center', 'education': 'Residency, Physical Medicine and Rehabilitation, 1997 - 2000', 'idx_scraper_list': 4}
+{'NPI': 1003008517, 'institution': 'Nassau University Medical Center', 'education': 'Internship, Internal Medicine, 1996 - 1997', 'idx_scraper_list': 4}
+{'NPI': 1003008517, 'institution': 'INTEC Santo Domingo School of Medicine', 'education': 'Class of 1992', 'idx_scraper_list': 4}
+{'NPI': 1003011933, 'institution': 'Wayne State University School of Medicine', 'education': 'Residency, Urology, 1994 - 1999', 'idx_scraper_list': 5}
+{'NPI': 1003011933, 'institution': 'M Health Fairview', 'education': 'Internship, Transitional Year, 1993 - 1994', 'idx_scraper_list': 5}
+{'NPI': 1003011933, 'institution': 'University of Minnesota Medical School', 'education': 'Class of 1993', 'idx_scraper_list': 5}
+{'NPI': 1003012444, 'institution': 'University of California (San Diego) Medical Center', 'education': 'Residency, Radiology-Diagnostic, 2010 - 2014', 'idx_scraper_list': 6}
+{'NPI': 1003012444, 'institution': 'University of California (San Diego) Medical Center', 'education': 'Residency, Surgery, 2009 - 2010', 'idx_scraper_list': 6}
+{'NPI': 1003012444, 'institution': 'University of California (San Diego) Medical Center', 'education': 'Internship, Transitional Year, 2007 - 2008', 'idx_scraper_list': 6}
+{'NPI': 1003012444, 'institution': 'Wake Forest School of Medicine of Wake Forest Baptist Medical Center', 'education': 'Class of 2007', 'idx_scraper_list': 6}
+{'NPI': 1003013020, 'institution': 'University of California (San Francisco) School of Medicine', 'education': "Fellowship, Women's Imaging, 2011 - 2012", 'idx_scraper_list': 7}
+{'NPI': 1003013020, 'institution': 'Washington University in St. Louis School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 2007 - 2011', 'idx_scraper_list': 7}
+{'NPI': 1003013020, 'institution': 'Kaiser Permanente Northern California', 'education': 'Internship, Internal Medicine, 2006 - 2007', 'idx_scraper_list': 7}
+{'NPI': 1003013020, 'institution': 'University of California (San Francisco) School of Medicine', 'education': 'Class of 2006', 'idx_scraper_list': 7}
+{'NPI': 1003013129, 'institution': 'Massachusetts General Hospital', 'education': 'Residency, Psychiatry, 1973 - 1975', 'idx_scraper_list': 8}
+{'NPI': 1003013129, 'institution': 'Stamford Hospital', 'education': 'Internship, Transitional Year, 1970 - 1971', 'idx_scraper_list': 8}
+{'NPI': 1003013129, 'institution': 'University College of Dublin National Univ SOM', 'education': 'Class of 1970', 'idx_scraper_list': 8}
+{'NPI': 1003013830, 'institution': 'West Virginia University School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 2005 - 2009', 'idx_scraper_list': 9}
+{'NPI': 1003013830, 'institution': 'St Joseph Mercy Ann Arbor', 'education': 'Internship, Transitional Year, 2004 - 2005', 'idx_scraper_list': 9}
+{'NPI': 1003013830, 'institution': 'University of Michigan Medical School', 'education': 'Class of 2004', 'idx_scraper_list': 9}
+{'NPI': 1003013848, 'institution': 'West Virginia University School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 2004 - 2008', 'idx_scraper_list': 10}
+{'NPI': 1003013848, 'institution': 'Monmouth Medical Center', 'education': 'Internship, Transitional Year, 2003 - 2004', 'idx_scraper_list': 10}
+{'NPI': 1003013848, 'institution': 'Georgetown University School of Medicine', 'education': 'Class of 2003', 'idx_scraper_list': 10}
+{'NPI': 1003014473, 'institution': 'University of Miami/Jackson Health System', 'education': 'Fellowship, Neuroradiology, 2008 - 2009', 'idx_scraper_list': 11}
+{'NPI': 1003014473, 'institution': 'University of Toledo', 'education': 'Residency, Radiology-Diagnostic, 2005 - 2008', 'idx_scraper_list': 11}
+{'NPI': 1003014473, 'institution': 'BronxCare Health System', 'education': 'Residency, Radiology-Diagnostic, 2004 - 2005', 'idx_scraper_list': 11}
+{'NPI': 1003014473, 'institution': 'Stony Brook Medicine', 'education': 'Internship, Internal Medicine, 2003 - 2004', 'idx_scraper_list': 11}
+{'NPI': 1003014473, 'institution': 'Pt. B.D. Sharma Postgrad Institute of Medical Science', 'education': 'Class of 2001', 'idx_scraper_list': 11}
+{'NPI': 1003018276, 'institution': 'University of Miami/Jackson Health System', 'education': 'Residency, Radiology-Diagnostic, 2003 - 2007', 'idx_scraper_list': 13}
+{'NPI': 1003018276, 'institution': 'Baylor College of Medicine', 'education': 'Internship, Transitional Year, 2002 - 2003', 'idx_scraper_list': 13}
+{'NPI': 1003018276, 'institution': 'Baylor College of Medicine', 'education': 'Class of 2002', 'idx_scraper_list': 13}
+{'NPI': 1003018342, 'institution': 'University of Southern California/LACUSC Medical Center', 'education': 'Residency, Anesthesiology, 1994 - 1997', 'idx_scraper_list': 14}
+{'NPI': 1003018342, 'institution': 'Main Line Health System', 'education': 'Internship, Internal Medicine, 1993 - 1994', 'idx_scraper_list': 14}
+{'NPI': 1003018342, 'institution': 'Sidney Kimmel Medical College at Thomas Jefferson University', 'education': 'Class of 1993', 'idx_scraper_list': 14}
+{'NPI': 1003018870, 'institution': 'University of Alabama Hospital', 'education': 'Fellowship, Musculoskeletal Radiology, 2015 - 2016', 'idx_scraper_list': 15}
+{'NPI': 1003018870, 'institution': 'Tripler Army Medical Center', 'education': 'Residency, Radiology-Diagnostic, 2007 - 2011', 'idx_scraper_list': 15}
+{'NPI': 1003018870, 'institution': 'Tripler Army Medical Center', 'education': 'Internship, Transitional Year, 2006 - 2007', 'idx_scraper_list': 15}
+{'NPI': 1003018870, 'institution': 'University of Alabama School of Medicine', 'education': 'Class of 2006', 'idx_scraper_list': 15}
+{'NPI': 1003019654, 'institution': 'University of California (San Francisco) School of Medicine', 'education': 'Residency, Nuclear Medicine, 2012 - 2013', 'idx_scraper_list': 16}
+{'NPI': 1003019654, 'institution': 'Virginia Mason Franciscan Health', 'education': 'Residency, Radiology-Diagnostic, 2008 - 2012', 'idx_scraper_list': 16}
+{'NPI': 1003019654, 'institution': 'Virginia Mason Franciscan Health', 'education': 'Internship, Transitional Year, 2007 - 2008', 'idx_scraper_list': 16}
+{'NPI': 1003019654, 'institution': 'University of Minnesota Medical School', 'education': 'Class of 2007', 'idx_scraper_list': 16}
+{'NPI': 1003021783, 'institution': 'University of Alabama Hospital', 'education': 'Residency, Radiology-Diagnostic, 2004 - 2008', 'idx_scraper_list': 17}
+{'NPI': 1003021783, 'institution': 'Louisiana State University School of Medicine', 'education': 'Internship, Internal Medicine, 2003 - 2004', 'idx_scraper_list': 17}
+{'NPI': 1003021783, 'institution': 'Louisiana State University School of Medicine', 'education': 'Class of 2003', 'idx_scraper_list': 17}
+{'NPI': 1003021791, 'institution': 'University of Illinois College of Medicine at Chicago', 'education': 'Residency, Otolaryngology - Head and Neck Surgery, 1999 - 2003', 'idx_scraper_list': 18}
+{'NPI': 1003021791, 'institution': 'University of Illinois College of Medicine at Chicago', 'education': 'Internship, Otolaryngology - Head and Neck Surgery, 1998 - 1999', 'idx_scraper_list': 18}
+{'NPI': 1003021791, 'institution': 'University of Michigan Medical School', 'education': 'Class of 1998', 'idx_scraper_list': 18}
+{'NPI': 1003024191, 'institution': 'Washington University in St. Louis School of Medicine', 'education': 'Fellowship, Neuroradiology, 2011 - 2012', 'idx_scraper_list': 19}
+{'NPI': 1003024191, 'institution': 'Washington University in St. Louis School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 2007 - 2011', 'idx_scraper_list': 19}
+{'NPI': 1003024191, 'institution': 'Washington University in St. Louis School of Medicine', 'education': 'Internship, Internal Medicine, 2006 - 2007', 'idx_scraper_list': 19}
+{'NPI': 1003024191, 'institution': 'Duke University School of Medicine', 'education': 'Class of 2006', 'idx_scraper_list': 19}
+{'NPI': 1003026212, 'institution': 'Baylor University Medical Center', 'education': 'Residency, Radiology-Diagnostic, 2004 - 2010', 'idx_scraper_list': 20}
+{'NPI': 1003026212, 'institution': 'University of Texas Southwestern Medical School', 'education': 'Class of 2005', 'idx_scraper_list': 20}
+{'NPI': 1003026295, 'institution': 'University of Kentucky College of Medicine', 'education': 'Residency, Radiology-Diagnostic, 2008 - 2012', 'idx_scraper_list': 21}
+{'NPI': 1003026295, 'institution': 'University of Tennessee College of Medicine-Chattanooga', 'education': 'Residency, Surgery, 2005 - 2008', 'idx_scraper_list': 21}
+{'NPI': 1003026295, 'institution': 'University of Kentucky College of Medicine', 'education': 'Class of 2005', 'idx_scraper_list': 21}
+{'NPI': 1003026329, 'institution': 'Yale-New Haven Hospital', 'education': 'Fellowship, Vascular and Interventional Radiology, 2011 - 2012', 'idx_scraper_list': 22}
+{'NPI': 1003026329, 'institution': 'Quinnipiac University Frank H. Netter MD School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 2007 - 2011', 'idx_scraper_list': 22}
+{'NPI': 1003026329, 'institution': 'University of Tennessee College of Medicine-Chattanooga', 'education': 'Internship, Transitional Year, 2006 - 2007', 'idx_scraper_list': 22}
+{'NPI': 1003026329, 'institution': 'Mercer University School of Medicine', 'education': 'Class of 2006', 'idx_scraper_list': 22}
+{'NPI': 1003027285, 'institution': 'Brown University/Rhode Island Hospital-Lifespan', 'education': 'Fellowship, Vascular and Interventional Radiology, 2011 - 2012', 'idx_scraper_list': 23}
+{'NPI': 1003027285, 'institution': 'Henry Ford Hospital', 'education': 'Residency, Radiology-Diagnostic, 2006 - 2011', 'idx_scraper_list': 23}
+{'NPI': 1003027285, 'institution': 'Case Western Reserve University School of Medicine', 'education': 'Class of 2006', 'idx_scraper_list': 23}
+{'NPI': 1003027376, 'institution': 'Louisiana State University School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 2008 - 2012', 'idx_scraper_list': 24}
+{'NPI': 1003027376, 'institution': 'Louisiana State University School of Medicine', 'education': 'Internship, Internal Medicine, 2007 - 2008', 'idx_scraper_list': 24}
+{'NPI': 1003027376, 'institution': "St. George's University School of Medicine", 'education': 'Class of 2007', 'idx_scraper_list': 24}
+{'NPI': 1003027533, 'institution': 'AdventHealth Florida', 'education': 'Residency, Family Medicine, 1999 - 2002', 'idx_scraper_list': 25}
+{'NPI': 1003027533, 'institution': 'Sidney Kimmel Medical College at Thomas Jefferson University', 'education': 'Class of 1999', 'idx_scraper_list': 25}
+{'NPI': 1003029620, 'institution': 'University of Virginia Medical Center', 'education': 'Fellowship, Vascular and Interventional Radiology, 2008 - 2009', 'idx_scraper_list': 27}
+{'NPI': 1003029620, 'institution': 'University of Virginia Medical Center', 'education': 'Residency, Radiology-Diagnostic, 2004 - 2008', 'idx_scraper_list': 27}
+{'NPI': 1003029620, 'institution': 'University of Virginia Medical Center', 'education': 'Internship, Transitional Year, 2003 - 2004', 'idx_scraper_list': 27}
+{'NPI': 1003029620, 'institution': 'Virginia Commonwealth University School of Medicine', 'education': 'Class of 2003', 'idx_scraper_list': 27}
+{'NPI': 1003034810, 'institution': 'University of Iowa Hospitals and Clinics', 'education': 'Residency, Radiology-Diagnostic, 1990 - 1994', 'idx_scraper_list': 28}
+{'NPI': 1003034810, 'institution': 'University of Texas Health Science Center San Antonio Joe and Teresa Lozano Long School of Medicine', 'education': 'Class of 1990', 'idx_scraper_list': 28}
+{'NPI': 1003035353, 'institution': 'New York Presbyterian Hospital', 'education': 'Residency, Physical Medicine and Rehabilitation, 1989 - 1992', 'idx_scraper_list': 29}
+{'NPI': 1003035353, 'institution': 'Montefiore Medical Center/Albert Einstein College of Medicine', 'education': 'Residency, Internal Medicine, 1988 - 1989', 'idx_scraper_list': 29}
+{'NPI': 1003035353, 'institution': 'Montefiore Medical Center/Albert Einstein College of Medicine', 'education': 'Internship, Internal Medicine, 1986 - 1987', 'idx_scraper_list': 29}
+{'NPI': 1003035353, 'institution': 'Albert Einstein College of Medicine of Yeshiva University', 'education': 'Class of 1986', 'idx_scraper_list': 29}
+{'NPI': 1003035353, 'institution': 'Columbia University', 'education': 'BA, Biology, 1978 - 1982', 'idx_scraper_list': 29}
+{'NPI': 1003038746, 'institution': 'University of Illinois College of Medicine at Chicago', 'education': 'Residency, Radiology-Diagnostic, 2007 - 2011', 'idx_scraper_list': 30}
+{'NPI': 1003038746, 'institution': 'University of Illinois College of Medicine at Peoria', 'education': 'Internship, Internal Medicine, 2006 - 2007', 'idx_scraper_list': 30}
+{'NPI': 1003038746, 'institution': 'St Louis University School of Medicine', 'education': 'Class of 2006', 'idx_scraper_list': 30}
+{'NPI': 1003038860, 'institution': 'UCLA David Geffen School of Medicine/UCLA Medical Center', 'education': 'Residency, Radiology-Diagnostic, 2005 - 2009', 'idx_scraper_list': 31}
+{'NPI': 1003038860, 'institution': 'Santa Clara Valley Medical Center', 'education': 'Internship, Internal Medicine, 2004 - 2005', 'idx_scraper_list': 31}
+{'NPI': 1003038860, 'institution': 'Harvard Medical School', 'education': 'Class of 2004', 'idx_scraper_list': 31}
+{'NPI': 1003041088, 'institution': 'UMass Chan - Baystate', 'education': 'Fellowship, Cardiovascular Disease, 2013 - 2016', 'idx_scraper_list': 32}
+{'NPI': 1003041088, 'institution': 'Westchester Medical Center', 'education': 'Residency, Internal Medicine, 2006 - 2009', 'idx_scraper_list': 32}
+{'NPI': 1003041088, 'institution': 'Bharti Vidyapeeth Medical College', 'education': 'Class of 2005', 'idx_scraper_list': 32}
+{'NPI': 1003041088, 'institution': 'University of Connecticut School of Medicine', 'education': 'Fellowship, Interventional Cardiology', 'idx_scraper_list': 32}
+{'NPI': 1003041930, 'institution': 'University of North Carolina Hospitals', 'education': 'Fellowship, Vascular and Interventional Radiology, 2015 - 2016', 'idx_scraper_list': 33}
+{'NPI': 1003041930, 'institution': 'Detroit Medical Center Corporation', 'education': 'Residency, Radiology-Diagnostic, 2011 - 2014', 'idx_scraper_list': 33}
+{'NPI': 1003041930, 'institution': 'Detroit Medical Center Corporation', 'education': 'Residency, Surgery, 2008 - 2010', 'idx_scraper_list': 33}
+{'NPI': 1003041930, 'institution': 'Ponce Health Sciences University', 'education': 'Class of 2008', 'idx_scraper_list': 33}
+{'NPI': 1003042730, 'institution': 'LSU Health Sciences Center/University Hospital and Clinics', 'education': 'Residency, Internal Medicine, 2000 - 2003', 'idx_scraper_list': 34}
+{'NPI': 1003042730, 'institution': 'Louisiana State University School of Medicine', 'education': 'Class of 2000', 'idx_scraper_list': 34}
+{'NPI': 1003042912, 'institution': 'Baylor College of Medicine', 'education': 'Residency, Internal Medicine, 1999 - 2002', 'idx_scraper_list': 35}
+{'NPI': 1003042912, 'institution': 'NYU Grossman School of Medicine', 'education': 'Class of 1999', 'idx_scraper_list': 35}
+{'NPI': 1003042920, 'institution': 'Allegheny Health Network Medical Education Consortium', 'education': 'Residency, Radiology-Diagnostic, 2010 - 2014', 'idx_scraper_list': 37}
+{'NPI': 1003042920, 'institution': 'Icahn School of Medicine at Mount Sinai', 'education': 'Residency, Internal Medicine, 2009 - 2010', 'idx_scraper_list': 37}
+{'NPI': 1003042920, 'institution': 'Albert Einstein College of Medicine of Yeshiva University', 'education': 'Class of 2009', 'idx_scraper_list': 37}
+{'NPI': 1003043837, 'institution': 'Drexel University College of Medicine/Hahnemann University', 'education': 'Fellowship, Cardiovascular Disease, 1982 - 1984', 'idx_scraper_list': 38}
+{'NPI': 1003043837, 'institution': 'Louisiana State University School of Medicine', 'education': 'Residency, Internal Medicine, 1980 - 1982', 'idx_scraper_list': 38}
+{'NPI': 1003043837, 'institution': 'USA Health', 'education': 'Internship, Internal Medicine, 1978 - 1979', 'idx_scraper_list': 38}
+{'NPI': 1003043837, 'institution': 'University of South Alabama College of Medicine', 'education': 'Class of 1978', 'idx_scraper_list': 38}
+{'NPI': 1003043985, 'institution': 'University of Colorado School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 2010 - 2014', 'idx_scraper_list': 39}
+{'NPI': 1003043985, 'institution': 'Saint Joseph Hospital, Inc', 'education': 'Internship, Internal Medicine, 2009 - 2010', 'idx_scraper_list': 39}
+{'NPI': 1003043985, 'institution': 'University of Colorado School of Medicine', 'education': 'Class of 2009', 'idx_scraper_list': 39}
+{'NPI': 1003044538, 'institution': 'Strong Memorial Hospital of the University of Rochester', 'education': 'Residency, Radiology-Diagnostic, 2010 - 2014', 'idx_scraper_list': 40}
+{'NPI': 1003044538, 'institution': 'Maimonides Medical Center', 'education': 'Internship, Transitional Year, 2009 - 2010', 'idx_scraper_list': 40}
+{'NPI': 1003044538, 'institution': 'University at Buffalo School of Medicine', 'education': 'Class of 2009', 'idx_scraper_list': 40}
+{'NPI': 1003044819, 'institution': 'Washington University in St. Louis School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 2009 - 2013', 'idx_scraper_list': 42}
+{'NPI': 1003044819, 'institution': 'John Peter Smith Hospital (Tarrant County Hospital District)', 'education': 'Internship, Transitional Year, 2008 - 2009', 'idx_scraper_list': 42}
+{'NPI': 1003044819, 'institution': 'University of Miami Leonard M. Miller School of Medicine', 'education': 'Class of 2008', 'idx_scraper_list': 42}
+{'NPI': 1003044975, 'institution': 'University of Nebraska Medical Center College of Medicine', 'education': 'Fellowship, Vascular and Interventional Radiology, 2014 - 2015', 'idx_scraper_list': 43}
+{'NPI': 1003044975, 'institution': 'Creighton University School of Medicine', 'education': 'Chief Residency, Radiology-Diagnostic, 2013 - 2014', 'idx_scraper_list': 43}
+{'NPI': 1003044975, 'institution': 'Creighton University School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 2010 - 2014', 'idx_scraper_list': 43}
+{'NPI': 1003044975, 'institution': 'Univ of North Dakota School of Medicine and Health Sciences', 'education': 'Internship, Transitional Year, 2009 - 2010', 'idx_scraper_list': 43}
+{'NPI': 1003044975, 'institution': 'Univ of North Dakota School of Medicine and Health Sciences', 'education': 'Class of 2009', 'idx_scraper_list': 43}
+{'NPI': 1003056433, 'institution': 'Newark Beth Israel Medical Center', 'education': 'Residency, Radiology-Diagnostic, 2005 - 2009', 'idx_scraper_list': 47}
+{'NPI': 1003056433, 'institution': 'St Lukes University Hospital', 'education': 'Internship, Transitional Year, 2004 - 2005', 'idx_scraper_list': 47}
+{'NPI': 1003056433, 'institution': 'Drexel University College of Medicine/Hahnemann University', 'education': 'Class of 2004', 'idx_scraper_list': 47}
+{'NPI': 1013038967, 'institution': 'University of California (San Francisco) School of Medicine', 'education': 'Fellowship, Hematology and Medical Oncology, 2005 - 2008', 'idx_scraper_list': 405}
+{'NPI': 1013038967, 'institution': 'University of California (San Francisco) School of Medicine', 'education': 'Residency, Internal Medicine, 2001 - 2004', 'idx_scraper_list': 405}
+{'NPI': 1013038967, 'institution': 'University of Chicago Division of the Biological Sciences The Pritzker School of Medicine', 'education': 'Class of 2001', 'idx_scraper_list': 405}
+{'NPI': 1013040450, 'institution': 'Beth Israel Deaconess Medical Center', 'education': 'Fellowship, Abdominal Radiology, 2009 - 2010', 'idx_scraper_list': 406}
+{'NPI': 1013040450, 'institution': 'University of Maryland Program', 'education': 'Residency, Radiology-Diagnostic, 2005 - 2009', 'idx_scraper_list': 406}
+{'NPI': 1013040450, 'institution': 'Allegheny Health Network Medical Education Consortium', 'education': 'Internship, Transitional Year, 2003 - 2004', 'idx_scraper_list': 406}
+{'NPI': 1013040450, 'institution': 'University of Pittsburgh School of Medicine', 'education': 'Class of 2003', 'idx_scraper_list': 406}
+{'NPI': 1013042886, 'institution': 'University of Southern California/LACUSC Medical Center', 'education': 'Residency, Radiology-Diagnostic, 2002 - 2006', 'idx_scraper_list': 407}
+{'NPI': 1013042886, 'institution': 'Santa Clara Valley Medical Center', 'education': 'Internship, Internal Medicine, 2000 - 2001', 'idx_scraper_list': 407}
+{'NPI': 1013042886, 'institution': 'University of Southern California School of Medicine', 'education': 'Class of 2000', 'idx_scraper_list': 407}
+{'NPI': 1013044452, 'institution': 'Massachusetts General Hospital', 'education': 'Fellowship, Neuroradiology, 2011 - 2012', 'idx_scraper_list': 408}
+{'NPI': 1013044452, 'institution': 'Massachusetts General Hospital', 'education': 'Residency, Radiology-Diagnostic, 2007 - 2011', 'idx_scraper_list': 408}
+{'NPI': 1013044452, 'institution': 'Massachusetts General Hospital', 'education': 'Internship, Transitional Year, 2006 - 2007', 'idx_scraper_list': 408}
+{'NPI': 1013044452, 'institution': 'Harvard Medical School', 'education': 'Class of 2006', 'idx_scraper_list': 408}
+{'NPI': 1013053073, 'institution': 'Scripps Mercy Hospital', 'education': 'Residency, Obstetrics and Gynecology, 1979 - 1983', 'idx_scraper_list': 409}
+{'NPI': 1013053073, 'institution': 'University of California, Davis, School of Medicine', 'education': 'Class of 1979', 'idx_scraper_list': 409}
+{'NPI': 1013056027, 'institution': 'Vanderbilt University Medical Center', 'education': 'Fellowship, Infectious Disease, 1982 - 1984', 'idx_scraper_list': 410}
+{'NPI': 1013056027, 'institution': 'Mount Carmel Health System', 'education': 'Residency, Internal Medicine, 1979 - 1982', 'idx_scraper_list': 410}
+{'NPI': 1013056027, 'institution': 'University of Cincinnati College of Medicine', 'education': 'Class of 1979', 'idx_scraper_list': 410}
+{'NPI': 1013059625, 'institution': 'University of Colorado School of Medicine', 'education': 'Residency, Neurological Surgery, 2004 - 2010', 'idx_scraper_list': 411}
+{'NPI': 1013059625, 'institution': 'University of Colorado School of Medicine', 'education': 'Internship, Transitional Year, 2003 - 2004', 'idx_scraper_list': 411}
+{'NPI': 1013059625, 'institution': 'University of Colorado School of Medicine', 'education': 'Class of 2003', 'idx_scraper_list': 411}
+{'NPI': 1013059872, 'institution': 'Boston University Medical Center', 'education': 'Fellowship, Body Imaging/Cross Sectional Imaging/MRI, 1989 - 1990', 'idx_scraper_list': 413}
+{'NPI': 1013059872, 'institution': 'Bridgeport Hospital', 'education': 'Residency, Radiology-Diagnostic, 1985 - 1989', 'idx_scraper_list': 413}
+{'NPI': 1013059872, 'institution': 'Albany Medical Center', 'education': 'Internship, Internal Medicine, 1984 - 1985', 'idx_scraper_list': 413}
+{'NPI': 1013059872, 'institution': 'Albany Medical College', 'education': 'Class of 1984', 'idx_scraper_list': 413}
+{'NPI': 1013060904, 'institution': 'University of North Carolina Hospitals', 'education': 'Fellowship, Neuroradiology, 2010 - 2011', 'idx_scraper_list': 414}
+{'NPI': 1013060904, 'institution': 'Memorial Health', 'education': 'Residency, Radiology-Diagnostic, 2006 - 2010', 'idx_scraper_list': 414}
+{'NPI': 1013060904, 'institution': 'Memorial Health', 'education': 'Internship, Internal Medicine, 2005 - 2006', 'idx_scraper_list': 414}
+{'NPI': 1013060904, 'institution': 'Mercer University School of Medicine', 'education': 'Class of 2005', 'idx_scraper_list': 414}
+{'NPI': 1013060904, 'institution': 'University of North Carolina Hospitals', 'education': 'Fellowship, Neuroradiology, 2010 - 2011', 'idx_scraper_list': 415}
+{'NPI': 1013060904, 'institution': 'Memorial Health', 'education': 'Residency, Radiology-Diagnostic, 2006 - 2010', 'idx_scraper_list': 415}
+{'NPI': 1013060904, 'institution': 'Memorial Health', 'education': 'Internship, Internal Medicine, 2005 - 2006', 'idx_scraper_list': 415}
+{'NPI': 1013060904, 'institution': 'Mercer University School of Medicine', 'education': 'Class of 2005', 'idx_scraper_list': 415}
+{'NPI': 1013062439, 'institution': 'Strong Memorial Hospital of the University of Rochester', 'education': 'Fellowship, Child and Adolescent Psychiatry, 1993 - 1995', 'idx_scraper_list': 416}
+{'NPI': 1013062439, 'institution': 'Strong Memorial Hospital of the University of Rochester', 'education': 'Residency, Psychiatry, 1990 - 1993', 'idx_scraper_list': 416}
+{'NPI': 1013062439, 'institution': 'Pennsylvania State University College of Medicine', 'education': 'Class of 1990', 'idx_scraper_list': 416}
+{'NPI': 1013063908, 'institution': 'SUNY Downstate Health Sciences University', 'education': 'Residency, Neurology, 1992 - 1995', 'idx_scraper_list': 417}
+{'NPI': 1013063908, 'institution': 'N.H.L Municipal Medical College', 'education': 'Class of 1985', 'idx_scraper_list': 417}
+{'NPI': 1013065978, 'institution': 'University of Southern California/LACUSC Medical Center', 'education': 'Residency, Radiology-Diagnostic, 1988 - 1993', 'idx_scraper_list': 418}
+{'NPI': 1013065978, 'institution': 'University of Southern California/LACUSC Medical Center', 'education': 'Internship, Internal Medicine, 1987 - 1988', 'idx_scraper_list': 418}
+{'NPI': 1013065978, 'institution': 'University of Southern California School of Medicine', 'education': 'Class of 1987', 'idx_scraper_list': 418}
+{'NPI': 1013066810, 'institution': 'Baptist Memorial Medical Education', 'education': 'Residency, Radiology-Diagnostic, 2004 - 2008', 'idx_scraper_list': 419}
+{'NPI': 1013066810, 'institution': 'University of Tennessee College of Medicine', 'education': 'Internship, Internal Medicine, 2003 - 2004', 'idx_scraper_list': 419}
+{'NPI': 1013066810, 'institution': 'University of Tennessee Health Science Center College of Medicine', 'education': 'Class of 2003', 'idx_scraper_list': 419}
+{'NPI': 1013071687, 'institution': 'University of Pennsylvania Health System', 'education': 'Fellowship, Interventional Radiology - Independent, 1998 - 1999', 'idx_scraper_list': 420}
+{'NPI': 1013071687, 'institution': 'University of Pennsylvania Health System', 'education': 'Residency, Radiology-Diagnostic, 1994 - 1998', 'idx_scraper_list': 420}
+{'NPI': 1013071687, 'institution': 'St Elizabeths Medical Center', 'education': 'Internship, Internal Medicine, 1993 - 1994', 'idx_scraper_list': 420}
+{'NPI': 1013071687, 'institution': 'Harvard Medical School', 'education': 'Class of 1993', 'idx_scraper_list': 420}
+{'NPI': 1013076272, 'institution': 'University of Tennessee College of Medicine', 'education': 'Residency, Radiology-Diagnostic, 1984 - 1988', 'idx_scraper_list': 421}
+{'NPI': 1013076272, 'institution': 'Wake Forest University Baptist Medical Center', 'education': 'Internship, Internal Medicine, 1983 - 1984', 'idx_scraper_list': 421}
+{'NPI': 1013076272, 'institution': 'University of Tennessee Health Science Center College of Medicine', 'education': 'Class of 1983', 'idx_scraper_list': 421}
+{'NPI': 1013079847, 'institution': 'University of Florida College of Medicine Jacksonville', 'education': 'Residency, Radiology-Diagnostic, 2004 - 2008', 'idx_scraper_list': 422}
+{'NPI': 1013079847, 'institution': 'Bayfront Health St Petersburg', 'education': 'Internship, Transitional Year, 2003 - 2004', 'idx_scraper_list': 422}
+{'NPI': 1013079847, 'institution': 'University of Miami Leonard M. Miller School of Medicine', 'education': 'Class of 2003', 'idx_scraper_list': 422}
+{'NPI': 1013080787, 'institution': 'University of Utah Health', 'education': 'Residency, Radiology-Diagnostic, 1977 - 1980', 'idx_scraper_list': 423}
+{'NPI': 1013080787, 'institution': 'University of Utah Health', 'education': 'Internship, Internal Medicine, 1976 - 1977', 'idx_scraper_list': 423}
+{'NPI': 1013080787, 'institution': 'University of Utah School of Medicine', 'education': 'Class of 1976', 'idx_scraper_list': 423}
+{'NPI': 1013081942, 'institution': 'Washington University in St. Louis School of Medicine', 'education': 'Fellowship, Neuroradiology, 2008 - 2009', 'idx_scraper_list': 424}
+{'NPI': 1013081942, 'institution': 'Washington University in St. Louis School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 2004 - 2008', 'idx_scraper_list': 424}
+{'NPI': 1013081942, 'institution': 'New York Medical College', 'education': 'Internship, Transitional Year, 2003 - 2004', 'idx_scraper_list': 424}
+{'NPI': 1013081942, 'institution': 'Washington University in St. Louis School of Medicine', 'education': 'Class of 2003', 'idx_scraper_list': 424}
+{'NPI': 1013084987, 'institution': 'University of Iowa Hospitals and Clinics', 'education': 'Fellowship, Cytopathology, 1994 - 1995', 'idx_scraper_list': 425}
+{'NPI': 1013084987, 'institution': 'University of Iowa Hospitals and Clinics', 'education': 'Residency, Pathology-Anatomic and Clinical, 1989 - 1994', 'idx_scraper_list': 425}
+{'NPI': 1013084987, 'institution': 'University of Iowa Roy J. and Lucille A. Carver College of Medicine', 'education': 'Class of 1989', 'idx_scraper_list': 425}
+{'NPI': 1013085752, 'institution': 'Henry Ford Hospital', 'education': 'Residency, Radiology-Diagnostic, 1988 - 1993', 'idx_scraper_list': 426}
+{'NPI': 1013085752, 'institution': 'University of Toledo', 'education': 'Class of 1988', 'idx_scraper_list': 426}
+{'NPI': 1013086859, 'institution': 'University of North Carolina Hospitals', 'education': 'Residency, Internal Medicine, 1998 - 2001', 'idx_scraper_list': 427}
+{'NPI': 1013086859, 'institution': 'Case Western Reserve University School of Medicine', 'education': 'Class of 1998', 'idx_scraper_list': 427}
+{'NPI': 1013087113, 'institution': 'University of Kansas School of Medicine', 'education': 'Residency, Family Medicine, 1997 - 2000', 'idx_scraper_list': 428}
+{'NPI': 1013087113, 'institution': 'University of Colorado School of Medicine', 'education': 'Class of 1997', 'idx_scraper_list': 428}
+{'NPI': 1013090117, 'institution': 'University of California (Irvine)', 'education': 'Residency, Radiology-Diagnostic, 2000 - 2004', 'idx_scraper_list': 429}
+{'NPI': 1013090117, 'institution': 'VA Greater Los Angeles Healthcare System', 'education': 'Internship, Internal Medicine, 1999 - 2000', 'idx_scraper_list': 429}
+{'NPI': 1013090117, 'institution': 'University of Southern California School of Medicine', 'education': 'Class of 1999', 'idx_scraper_list': 429}
+{'NPI': 1013095785, 'institution': 'Tufts Medical Center', 'education': 'Fellowship, Neuroradiology, 1998 - 2000', 'idx_scraper_list': 430}
+{'NPI': 1013095785, 'institution': 'University of Vermont Medical Center', 'education': 'Residency, Radiology-Diagnostic, 1995 - 1998', 'idx_scraper_list': 430}
+{'NPI': 1013095785, 'institution': 'Creighton University School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 1994 - 1995', 'idx_scraper_list': 430}
+{'NPI': 1013095785, 'institution': 'University of North Carolina Hospitals', 'education': 'Residency, Neurological Surgery, 1992 - 1992', 'idx_scraper_list': 430}
+{'NPI': 1013095785, 'institution': 'University of North Carolina Hospitals', 'education': 'Internship, Transitional Year, 1991 - 1992', 'idx_scraper_list': 430}
+{'NPI': 1013095785, 'institution': 'McGaw Medical Center of Northwestern University', 'education': 'Class of 1991', 'idx_scraper_list': 430}
+{'NPI': 1013096106, 'institution': 'University of Arizona College of Medicine-Tucson', 'education': 'Fellowship, Vascular and Interventional Radiology, 2005 - 2006', 'idx_scraper_list': 431}
+{'NPI': 1013096106, 'institution': 'University of Arizona College of Medicine-Tucson', 'education': 'Residency, Radiology-Diagnostic, 2001 - 2005', 'idx_scraper_list': 431}
+{'NPI': 1013096106, 'institution': 'University of Texas Medical Branch Hospitals', 'education': 'Internship, Surgery, 2000 - 2001', 'idx_scraper_list': 431}
+{'NPI': 1013096106, 'institution': 'University of Texas Medical Branch School of Medicine', 'education': 'Class of 2000', 'idx_scraper_list': 431}
+{'NPI': 1013098037, 'institution': 'Beaumont Health', 'education': 'Residency, Radiology-Diagnostic, 1984 - 1989', 'idx_scraper_list': 433}
+{'NPI': 1013098037, 'institution': 'University of Michigan Medical School', 'education': 'Class of 1984', 'idx_scraper_list': 433}
+{'NPI': 1013098250, 'institution': 'Cleveland Clinic Foundation', 'education': 'Fellowship, Neuroradiology, 1995 - 1996', 'idx_scraper_list': 434}
+{'NPI': 1013098250, 'institution': 'Detroit Medical Center Corporation', 'education': 'Residency, Radiology-Diagnostic, 1991 - 1995', 'idx_scraper_list': 434}
+{'NPI': 1013098250, 'institution': 'Ascension Providence/MSUCHM', 'education': 'Internship, Transitional Year, 1989 - 1990', 'idx_scraper_list': 434}
+{'NPI': 1013098250, 'institution': 'Wayne State University School of Medicine', 'education': 'Class of 1988', 'idx_scraper_list': 434}
+{'NPI': 1013100098, 'institution': 'Icahn School of Medicine at Mount Sinai', 'education': 'Fellowship, Neuroradiology, 2007 - 2008', 'idx_scraper_list': 435}
+{'NPI': 1013100098, 'institution': 'Atlantic Health System', 'education': 'Residency, Radiology-Diagnostic, 2003 - 2007', 'idx_scraper_list': 435}
+{'NPI': 1013100098, 'institution': 'Flushing Hospital Medical Center', 'education': 'Internship, Transitional Year, 2002 - 2003', 'idx_scraper_list': 435}
+{'NPI': 1013100098, 'institution': 'Michigan State University College of Human Medicine', 'education': 'Class of 2002', 'idx_scraper_list': 435}
+{'NPI': 1013100312, 'institution': 'University of Vermont Medical Center', 'education': 'Residency, Radiology-Diagnostic, 2008 - 2012', 'idx_scraper_list': 436}
+{'NPI': 1013100312, 'institution': 'Grand Rapids Medical Education Partners', 'education': 'Internship, Transitional Year, 2007 - 2008', 'idx_scraper_list': 436}
+{'NPI': 1013100312, 'institution': 'Michigan State University College of Human Medicine', 'education': 'Class of 2007', 'idx_scraper_list': 436}
+{'NPI': 1013105402, 'institution': 'University of South Florida Morsani College of Medicine', 'education': 'Fellowship, Interventional Radiology - Independent, 2006 - 2007', 'idx_scraper_list': 437}
+{'NPI': 1013105402, 'institution': 'Medical University of South Carolina College of Medicine', 'education': 'Residency, Radiology-Diagnostic, 2002 - 2006', 'idx_scraper_list': 437}
+{'NPI': 1013105402, 'institution': 'Medical University of South Carolina College of Medicine', 'education': 'Internship, Internal Medicine, 2001 - 2002', 'idx_scraper_list': 437}
+{'NPI': 1013105402, 'institution': 'University of South Carolina School of Medicine', 'education': 'Class of 2001', 'idx_scraper_list': 437}
+{'NPI': 1013107168, 'institution': 'University of Texas Southwestern Medical Center', 'education': 'Fellowship, Neuroradiology, 2010 - 2011', 'idx_scraper_list': 438}
+{'NPI': 1013107168, 'institution': 'Ochsner Clinic Foundation', 'education': 'Residency, Radiology-Diagnostic, 2005 - 2010', 'idx_scraper_list': 438}
+{'NPI': 1013107168, 'institution': 'LSU School of Medicine in Shreveport', 'education': 'Class of 2005', 'idx_scraper_list': 438}
+{'NPI': 1013107697, 'institution': 'Vanderbilt University Medical Center', 'education': 'Fellowship, Neuroradiology, 2007 - 2008', 'idx_scraper_list': 439}
+{'NPI': 1013107697, 'institution': 'USA Health', 'education': 'Residency, Radiology-Diagnostic, 2003 - 2007', 'idx_scraper_list': 439}
+{'NPI': 1013107697, 'institution': 'University of Alabama Hospital', 'education': 'Internship, Internal Medicine, 2002 - 2003', 'idx_scraper_list': 439}
+{'NPI': 1013107697, 'institution': 'University of South Alabama College of Medicine', 'education': 'Class of 2002', 'idx_scraper_list': 439}
+{'NPI': 1013107697, 'institution': 'Vanderbilt University Medical Center', 'education': 'Fellowship, Neuroradiology, 2007 - 2008', 'idx_scraper_list': 440}
+{'NPI': 1013107697, 'institution': 'USA Health', 'education': 'Residency, Radiology-Diagnostic, 2003 - 2007', 'idx_scraper_list': 440}
+{'NPI': 1013107697, 'institution': 'University of Alabama Hospital', 'education': 'Internship, Internal Medicine, 2002 - 2003', 'idx_scraper_list': 440}
+{'NPI': 1013107697, 'institution': 'University of South Alabama College of Medicine', 'education': 'Class of 2002', 'idx_scraper_list': 440}
+{'NPI': 1013107762, 'institution': 'University of Mississippi School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 2007 - 2011', 'idx_scraper_list': 442}
+{'NPI': 1013107762, 'institution': 'Kansas City University of Medicine and Biosciences College of Osteopathic Medicine', 'education': 'Class of 2006', 'idx_scraper_list': 442}
+{'NPI': 1013112820, 'institution': 'University of Illinois College of Medicine at Chicago', 'education': 'Residency, Radiology-Diagnostic, 2007 - 2011', 'idx_scraper_list': 445}
+{'NPI': 1013112820, 'institution': 'Kaiser Permanente Northern California', 'education': 'Internship, Internal Medicine, 2006 - 2007', 'idx_scraper_list': 445}
+{'NPI': 1013112820, 'institution': 'University of Southern California School of Medicine', 'education': 'Class of 2006', 'idx_scraper_list': 445}
+{'NPI': 1023038908, 'institution': 'New York Presbyterian Hospital', 'education': 'Fellowship, Vascular and Interventional Radiology, 1999 - 2000', 'idx_scraper_list': 808}
+{'NPI': 1023038908, 'institution': 'Montefiore Medical Center/Albert Einstein College of Medicine', 'education': 'Residency, Radiology-Diagnostic, 1995 - 1999', 'idx_scraper_list': 808}
+{'NPI': 1023038908, 'institution': 'Zucker School of Medicine at Hofstra/Northwell', 'education': 'Internship, Internal Medicine, 1994 - 1995', 'idx_scraper_list': 808}
+{'NPI': 1023038908, 'institution': 'Albert Einstein College of Medicine of Yeshiva University', 'education': 'Class of 1994', 'idx_scraper_list': 808}
+{'NPI': 1023039062, 'institution': 'University of North Carolina Hospitals', 'education': 'Residency, Radiology-Diagnostic, 1982 - 1986', 'idx_scraper_list': 809}
+{'NPI': 1023039062, 'institution': 'University of Florida College of Medicine', 'education': 'Class of 1982', 'idx_scraper_list': 809}
+{'NPI': 1023040409, 'institution': 'Medical College of Georgia', 'education': 'Residency, Radiology-Diagnostic, 2001 - 2005', 'idx_scraper_list': 810}
+{'NPI': 1023040409, 'institution': 'Medical College of Georgia', 'education': 'Internship, Internal Medicine, 2000 - 2001', 'idx_scraper_list': 810}
+{'NPI': 1023040409, 'institution': 'University of South Alabama College of Medicine', 'education': 'Class of 2000', 'idx_scraper_list': 810}
+{'NPI': 1023041571, 'institution': 'Beaumont Health', 'education': 'Residency, Radiology-Diagnostic, 2001 - 2005', 'idx_scraper_list': 813}
+{'NPI': 1023041571, 'institution': 'Indiana University School of Medicine', 'education': 'Class of 2000', 'idx_scraper_list': 813}
+{'NPI': 1023041720, 'institution': 'University of Miami/Jackson Health System', 'education': 'Fellowship, Endovascular Surgical Neuroradiology, 2002 - 2003', 'idx_scraper_list': 814}
+{'NPI': 1023041720, 'institution': 'McGaw Medical Center of Northwestern University', 'education': 'Fellowship, Endovascular Surgical Neuroradiology, 2001 - 2002', 'idx_scraper_list': 814}
+{'NPI': 1023041720, 'institution': 'Washington University in St. Louis School of Medicine', 'education': 'Fellowship, Neuroradiology, 1997 - 1999', 'idx_scraper_list': 814}
+{'NPI': 1023041720, 'institution': 'UPMC Medical Education', 'education': 'Residency, Radiology-Diagnostic, 1993 - 1997', 'idx_scraper_list': 814}
+{'NPI': 1023041720, 'institution': 'Summa Health System', 'education': 'Internship, Transitional Year, 1992 - 1993', 'idx_scraper_list': 814}
+{'NPI': 1023041720, 'institution': 'Northeast Ohio Medical University', 'education': 'Class of 1992', 'idx_scraper_list': 814}
+{'NPI': 1023042280, 'institution': 'Johns Hopkins University School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 1998 - 2000', 'idx_scraper_list': 816}
+{'NPI': 1023042280, 'institution': 'Beth Israel Deaconess Medical Center', 'education': 'Residency, Radiology-Diagnostic, 1996 - 1998', 'idx_scraper_list': 816}
+{'NPI': 1023042280, 'institution': 'Mount Auburn Hospital', 'education': 'Internship, Internal Medicine, 1995 - 1996', 'idx_scraper_list': 816}
+{'NPI': 1023042280, 'institution': 'Tufts University School of Medicine', 'education': 'Class of 1995', 'idx_scraper_list': 816}
+{'NPI': 1023042520, 'institution': 'Naval Medical Center (San Diego)', 'education': 'Residency, Psychiatry, 2007 - 2010', 'idx_scraper_list': 817}
+{'NPI': 1023042520, 'institution': 'Naval Hospital (Pensacola)', 'education': 'Residency, Family Medicine, 1999 - 2001', 'idx_scraper_list': 817}
+{'NPI': 1023042520, 'institution': 'Stony Brook University Health Sciences Center School of Medicine', 'education': 'Class of 1995', 'idx_scraper_list': 817}
+{'NPI': 1023044831, 'institution': 'Montefiore Medical Center/Albert Einstein College of Medicine', 'education': 'Residency, Radiology-Diagnostic, 1989 - 1990', 'idx_scraper_list': 818}
+{'NPI': 1023044831, 'institution': 'Montefiore Medical Center/Albert Einstein College of Medicine', 'education': 'Internship, Internal Medicine, 1984 - 1985', 'idx_scraper_list': 818}
+{'NPI': 1023044831, 'institution': 'State University of New York Downstate Medical Center College of Medicine', 'education': 'Class of 1984', 'idx_scraper_list': 818}
+{'NPI': 1023046166, 'institution': 'University of Pennsylvania Health System', 'education': 'Residency, Nuclear Medicine, 1997 - 1998', 'idx_scraper_list': 819}
+{'NPI': 1023046166, 'institution': 'Graduate Hospital Philadelphia', 'education': 'Residency, Internal Medicine, 1993 - 1997', 'idx_scraper_list': 819}
+{'NPI': 1023046166, 'institution': 'Perelman School of Medicine at the University of Pennsylvania', 'education': 'Class of 1993', 'idx_scraper_list': 819}
+{'NPI': 1023046240, 'institution': 'Duke University Hospital', 'education': 'Fellowship, Critical Care Medicine (Anesthesiology), 2002 - 2003', 'idx_scraper_list': 820}
+{'NPI': 1023046240, 'institution': 'University of North Carolina Hospitals', 'education': 'Residency, Anesthesiology, 1998 - 2001', 'idx_scraper_list': 820}
+{'NPI': 1023046240, 'institution': 'University of North Carolina Hospitals', 'education': 'Fellowship, Pulmonary Disease and Critical Care Medicine, 1997 - 1998', 'idx_scraper_list': 820}
+{'NPI': 1023046240, 'institution': 'University of New Mexico School of Medicine', 'education': 'Residency, Internal Medicine, 1993 - 1997', 'idx_scraper_list': 820}
+{'NPI': 1023046240, 'institution': 'University of Wisconsin School of Medicine and Public Health', 'education': 'Class of 1993', 'idx_scraper_list': 820}
+{'NPI': 1023046265, 'institution': 'University of Colorado School of Medicine', 'education': 'Fellowship, Body Imaging/Cross Sectional Imaging/MRI, 1999 - 2000', 'idx_scraper_list': 821}
+{'NPI': 1023046265, 'institution': 'University of Colorado School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 1995 - 1999', 'idx_scraper_list': 821}
+{'NPI': 1023046265, 'institution': 'University at Buffalo School of Medicine', 'education': 'Internship, Internal Medicine, 1994 - 1995', 'idx_scraper_list': 821}
+{'NPI': 1023046265, 'institution': 'University at Buffalo School of Medicine', 'education': 'Class of 1994', 'idx_scraper_list': 821}
+{'NPI': 1023047560, 'institution': 'Johns Hopkins University School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 1982 - 1985', 'idx_scraper_list': 823}
+{'NPI': 1023047560, 'institution': 'Lady Hardinge Medical College', 'education': 'Class of 1980', 'idx_scraper_list': 823}
+{'NPI': 1023048105, 'institution': 'University of California (San Francisco) School of Medicine', 'education': 'Fellowship, Vascular and Interventional Radiology, 2002 - 2003', 'idx_scraper_list': 824}
+{'NPI': 1023048105, 'institution': 'NYU Grossman School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 1998 - 2002', 'idx_scraper_list': 824}
+{'NPI': 1023048105, 'institution': 'Zucker School of Medicine at Hofstra/Northwell', 'education': 'Internship, Internal Medicine, 1997 - 1998', 'idx_scraper_list': 824}
+{'NPI': 1023048105, 'institution': 'NYU Grossman School of Medicine', 'education': 'Class of 1997', 'idx_scraper_list': 824}
+{'NPI': 1023048253, 'institution': 'Zucker School of Medicine at Hofstra/Northwell', 'education': 'Residency, Radiology-Diagnostic, 2001 - 2005', 'idx_scraper_list': 825}
+{'NPI': 1023048253, 'institution': 'Albert Einstein College of Medicine of Yeshiva University', 'education': 'Internship, Transitional Year, 2000 - 2001', 'idx_scraper_list': 825}
+{'NPI': 1023048253, 'institution': 'Albany Medical College', 'education': 'Class of 2000', 'idx_scraper_list': 825}
+{'NPI': 1023049194, 'institution': 'Rutgers New Jersey Medical School', 'education': 'Residency, Radiology-Diagnostic, 1993 - 1997', 'idx_scraper_list': 826}
+{'NPI': 1023049194, 'institution': 'Atlantic Health System', 'education': 'Internship, Internal Medicine, 1992 - 1993', 'idx_scraper_list': 826}
+{'NPI': 1023049194, 'institution': 'Drexel University College of Medicine/Hahnemann University', 'education': 'Class of 1992', 'idx_scraper_list': 826}
+{'NPI': 1023049194, 'institution': 'University of Pennsylvania', 'education': 'B.A., Biochemistry, 1982 - 1986', 'idx_scraper_list': 826}
+{'NPI': 1023049764, 'institution': 'Johns Hopkins University School of Medicine', 'education': 'Fellowship, Neuroradiology, 1999 - 2000', 'idx_scraper_list': 827}
+{'NPI': 1023049764, 'institution': 'USA Health', 'education': 'Residency, Radiology-Diagnostic, 1996 - 1999', 'idx_scraper_list': 827}
+{'NPI': 1023049764, 'institution': 'Armed Forces Medical College Pune', 'education': 'Class of 1985', 'idx_scraper_list': 827}
+{'NPI': 1023050127, 'institution': 'Indiana University School of Medicine', 'education': 'Fellowship, Vascular and Interventional Radiology, 1998 - 1999', 'idx_scraper_list': 828}
+{'NPI': 1023050127, 'institution': 'Indiana University School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 1994 - 1998', 'idx_scraper_list': 828}
+{'NPI': 1023050127, 'institution': 'Indiana University School of Medicine', 'education': 'Class of 1994', 'idx_scraper_list': 828}
+{'NPI': 1023050341, 'institution': 'UPMC Medical Education', 'education': 'Fellowship, Body Imaging/Cross Sectional Imaging/MRI, 1989 - 1990', 'idx_scraper_list': 829}
+{'NPI': 1023050341, 'institution': 'Allegheny Health Network Medical Education Consortium', 'education': 'Residency, Radiology-Diagnostic, 1985 - 1989', 'idx_scraper_list': 829}
+{'NPI': 1023050341, 'institution': 'Medical University of South Carolina College of Medicine', 'education': 'Class of 1985', 'idx_scraper_list': 829}
+{'NPI': 1023050895, 'institution': 'Johns Hopkins University School of Medicine', 'education': 'Fellowship, Neuroradiology, 1991 - 1993', 'idx_scraper_list': 830}
+{'NPI': 1023050895, 'institution': 'University of Toronto Faculty of Medicine', 'education': 'Class of 1987', 'idx_scraper_list': 830}
+{'NPI': 1023051349, 'institution': 'University of Missouri-Kansas City School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 1981 - 1984', 'idx_scraper_list': 831}
+{'NPI': 1023051349, 'institution': 'Southern Illinois University School of Medicine', 'education': 'Internship, Transitional Year, 1980 - 1981', 'idx_scraper_list': 831}
+{'NPI': 1023051349, 'institution': 'Southern Illinois University School of Medicine', 'education': 'Class of 1980', 'idx_scraper_list': 831}
+{'NPI': 1023051679, 'institution': 'UCLA David Geffen School of Medicine/UCLA Medical Center', 'education': 'Residency, Uroradiology Fellowship, 1979 - 1980', 'idx_scraper_list': 832}
+{'NPI': 1023051679, 'institution': 'Strong Memorial Hospital of the University of Rochester', 'education': 'Residency, Radiology-Diagnostic, 1976 - 1979', 'idx_scraper_list': 832}
+{'NPI': 1023051679, 'institution': 'Drexel University College of Medicine/Hahnemann University', 'education': 'Residency, Internal Medicine, 1972 - 1974', 'idx_scraper_list': 832}
+{'NPI': 1023051679, 'institution': 'MCP-Hahnemann College of Medicine', 'education': 'Class of 1972', 'idx_scraper_list': 832}
+{'NPI': 1023051679, 'institution': 'University of Rochester', 'education': 'B.A., Biology, 1964 - 1968', 'idx_scraper_list': 832}
+{'NPI': 1023051679, 'institution': 'Gates-Chili High School', 'education': 'Diploma, High School, Valedictorian, 1964', 'idx_scraper_list': 832}
+{'NPI': 1023051984, 'institution': 'Baylor College of Medicine', 'education': 'Fellowship, Neuroradiology, 1983 - 1984', 'idx_scraper_list': 833}
+{'NPI': 1023051984, 'institution': 'Baylor College of Medicine', 'education': 'Residency, Radiology-Diagnostic, 1982 - 1983', 'idx_scraper_list': 833}
+{'NPI': 1023051984, 'institution': 'University of Texas Southwestern Medical Center', 'education': 'Residency, Radiology-Diagnostic, 1979 - 1982', 'idx_scraper_list': 833}
+{'NPI': 1023051984, 'institution': 'University of Texas Southwestern Medical School', 'education': 'Class of 1979', 'idx_scraper_list': 833}
+{'NPI': 1023052248, 'institution': 'Adventist Health White Memorial', 'education': 'Residency, Radiology-Diagnostic, 1973 - 1976', 'idx_scraper_list': 834}
+{'NPI': 1023052248, 'institution': 'Adventist Health White Memorial', 'education': 'Internship, Transitional Year, 1972 - 1973', 'idx_scraper_list': 834}
+{'NPI': 1023052248, 'institution': 'Loma Linda University School of Medicine', 'education': 'Class of 1972', 'idx_scraper_list': 834}
+{'NPI': 1023052990, 'institution': 'Virginia Commonwealth University Health System', 'education': 'Residency, Radiology-Diagnostic, 1995 - 1999', 'idx_scraper_list': 835}
+{'NPI': 1023052990, 'institution': 'University of South Florida Morsani College of Medicine', 'education': 'Class of 1995', 'idx_scraper_list': 835}
+{'NPI': 1023054079, 'institution': 'Sidney Kimmel Medical College at Thomas Jefferson University', 'education': 'Residency, Radiology-Diagnostic, 1992 - 1993', 'idx_scraper_list': 836}
+{'NPI': 1023054079, 'institution': 'Henry Ford Hospital', 'education': 'Residency, Radiology-Diagnostic, 1988 - 1992', 'idx_scraper_list': 836}
+{'NPI': 1023054079, 'institution': 'Northeast Ohio Medical University', 'education': 'Class of 1988', 'idx_scraper_list': 836}
+{'NPI': 1023054608, 'institution': 'Johns Hopkins University School of Medicine', 'education': 'Fellowship, Neuroradiology, 1997 - 1999', 'idx_scraper_list': 837}
+{'NPI': 1023054608, 'institution': 'Mount Auburn Hospital', 'education': 'Residency, Radiology-Diagnostic, 1993 - 1997', 'idx_scraper_list': 837}
+{'NPI': 1023054608, 'institution': 'Strong Memorial Hospital of the University of Rochester', 'education': 'Internship, Internal Medicine, 1991 - 1992', 'idx_scraper_list': 837}
+{'NPI': 1023054608, 'institution': 'University of Rochester School of Medicine and Dentistry', 'education': 'Class of 1991', 'idx_scraper_list': 837}
+{'NPI': 1023054764, 'institution': 'University of Minnesota Medical School', 'education': 'Residency, Radiology-Diagnostic, 1967 - 1971', 'idx_scraper_list': 838}
+{'NPI': 1023054764, 'institution': 'Medical College of Wisconsin Affiliated Hospitals, Inc', 'education': 'Internship, Transitional Year, 1966 - 1967', 'idx_scraper_list': 838}
+{'NPI': 1023054764, 'institution': 'Medical College of Wisconsin', 'education': 'Class of 1966', 'idx_scraper_list': 838}
+{'NPI': 1023054814, 'institution': 'Naval Medical Center (San Diego)', 'education': 'Fellowship, Pediatric Urology, 2001 - 2002', 'idx_scraper_list': 839}
+{'NPI': 1023054814, 'institution': 'University of Southern California/LACUSC Medical Center', 'education': 'Residency, Urology, 1997 - 2001', 'idx_scraper_list': 839}
+{'NPI': 1023054814, 'institution': 'University of Southern California/LACUSC Medical Center', 'education': 'Residency, Surgery, 1995 - 1997', 'idx_scraper_list': 839}
+{'NPI': 1023054814, 'institution': 'University of California, Irvine, School of Medicine', 'education': 'Class of 1995', 'idx_scraper_list': 839}
+{'NPI': 1023054897, 'institution': 'Rush University Medical Center', 'education': 'Residency, Pediatrics, 1999 - 2002', 'idx_scraper_list': 840}
+{'NPI': 1023054897, 'institution': 'University of Oklahoma College of Medicine', 'education': 'Class of 1999', 'idx_scraper_list': 840}
+{'NPI': 1023055316, 'institution': 'Interfaith Medical Center', 'education': 'Residency, Radiology-Diagnostic, 1970 - 1973', 'idx_scraper_list': 841}
+{'NPI': 1023055316, 'institution': 'NYC Health + Hospitals / Queens', 'education': 'Internship, Transitional Year, 1969 - 1970', 'idx_scraper_list': 841}
+{'NPI': 1023055316, 'institution': 'Wroclaw Medical University', 'education': 'Class of 1958', 'idx_scraper_list': 841}
+{'NPI': 1023055639, 'institution': 'St Francis Medical Center', 'education': 'Residency, Radiology-Diagnostic, 1976 - 1977', 'idx_scraper_list': 843}
+{'NPI': 1023055639, 'institution': 'St Francis Medical Center', 'education': 'Internship, Transitional Year, 1975 - 1976', 'idx_scraper_list': 843}
+{'NPI': 1023055639, 'institution': 'Andhra Medical College NTR', 'education': 'Class of 1961', 'idx_scraper_list': 843}
+{'NPI': 1023055969, 'institution': 'Beaumont Health', 'education': 'Residency, Radiology-Diagnostic, 1980 - 1984', 'idx_scraper_list': 846}
+{'NPI': 1023055969, 'institution': 'University of Florida College of Medicine', 'education': 'Class of 1980', 'idx_scraper_list': 846}
+{'NPI': 1023057254, 'institution': 'University of California (Irvine)', 'education': 'Residency, Radiology-Diagnostic, 1992 - 1993', 'idx_scraper_list': 850}
+{'NPI': 1023057254, 'institution': 'Bridgeport Hospital', 'education': 'Residency, Radiology-Diagnostic, 1988 - 1992', 'idx_scraper_list': 850}
+{'NPI': 1023057254, 'institution': 'Loyola University Medical Center', 'education': 'Residency, Pathology-Anatomic and Clinical, 1987 - 1988', 'idx_scraper_list': 850}
+{'NPI': 1023057254, 'institution': 'Loyola University Medical Center', 'education': 'Internship, Internal Medicine, 1986 - 1987', 'idx_scraper_list': 850}
+{'NPI': 1023057254, 'institution': 'University of Chicago Division of the Biological Sciences The Pritzker School of Medicine', 'education': 'Class of 1986', 'idx_scraper_list': 850}
+{'NPI': 1023057536, 'institution': 'University of California (San Francisco) School of Medicine', 'education': 'Fellowship, Abdominal Radiology, 1980 - 1981', 'idx_scraper_list': 851}
+{'NPI': 1023057536, 'institution': 'University of California (San Francisco) School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 1977 - 1980', 'idx_scraper_list': 851}
+{'NPI': 1023057536, 'institution': 'University of Colorado School of Medicine', 'education': 'Internship, Internal Medicine, 1975 - 1976', 'idx_scraper_list': 851}
+{'NPI': 1023057536, 'institution': 'Georgetown University School of Medicine', 'education': 'Class of 1975', 'idx_scraper_list': 851}
+{'NPI': 1033143714, 'institution': 'Cambridge Health Alliance', 'education': 'Residency, Internal Medicine, 1998 - 2002', 'idx_scraper_list': 1191}
+{'NPI': 1033143714, 'institution': 'Medical College of Wisconsin', 'education': 'Class of 1998', 'idx_scraper_list': 1191}
+{'NPI': 1033144639, 'institution': 'Loyola University Medical Center', 'education': 'Residency, Internal Medicine, 1985 - 1988', 'idx_scraper_list': 1192}
+{'NPI': 1033144639, 'institution': 'University of Illinois College of Medicine at Chicago', 'education': 'Class of 1985', 'idx_scraper_list': 1192}
+{'NPI': 1033144720, 'institution': 'Medical College of Wisconsin Affiliated Hospitals, Inc', 'education': 'Internship, Transitional Year, 1977 - 1978', 'idx_scraper_list': 1193}
+{'NPI': 1033144720, 'institution': 'University of Wisconsin School of Medicine and Public Health', 'education': 'Class of 1977', 'idx_scraper_list': 1193}
+{'NPI': 1033145081, 'institution': 'University of Southern California/LACUSC Medical Center', 'education': 'Residency, Internal Medicine, 1994 - 1997', 'idx_scraper_list': 1194}
+{'NPI': 1033145081, 'institution': 'Creighton University School of Medicine', 'education': 'Class of 1994', 'idx_scraper_list': 1194}
+{'NPI': 1033146212, 'institution': 'Spectrum Health/Michigan State University', 'education': 'Residency, Radiology-Diagnostic, 2001 - 2006', 'idx_scraper_list': 1195}
+{'NPI': 1033146212, 'institution': 'University of Arizona College of Medicine-Tucson', 'education': 'Class of 2001', 'idx_scraper_list': 1195}
+{'NPI': 1033146634, 'institution': 'Texas Tech University Health Sciences Center at Lubbock', 'education': 'Residency, Dermatology, 1997 - 2000', 'idx_scraper_list': 1196}
+{'NPI': 1033146634, 'institution': 'University of Texas Medical Branch Hospitals', 'education': 'Internship, Transitional Year, 1996 - 1997', 'idx_scraper_list': 1196}
+{'NPI': 1033146634, 'institution': 'University of Texas Medical Branch School of Medicine', 'education': 'Class of 1996', 'idx_scraper_list': 1196}
+{'NPI': 1033146758, 'institution': 'University of Maryland Program', 'education': 'Residency, Internal Medicine, 1994 - 1997', 'idx_scraper_list': 1197}
+{'NPI': 1033146758, 'institution': 'Sidney Kimmel Medical College at Thomas Jefferson University', 'education': 'Class of 1994', 'idx_scraper_list': 1197}
+{'NPI': 1033147491, 'institution': 'University of Louisville School of Medicine', 'education': 'Residency, Radiology-Diagnostic, 1999 - 2003', 'idx_scraper_list': 1198}
+{'NPI': 1033147491, 'institution': 'Louisiana State University School of Medicine', 'education': 'Internship, Internal Medicine, 1998 - 1999', 'idx_scraper_list': 1198}
+{'NPI': 1033147491, 'institution': 'LSU School of Medicine in Shreveport', 'education': 'Class of 1998', 'idx_scraper_list': 1198}
+{'NPI': 1033147657, 'institution': 'Wake Forest University Baptist Medical Center', 'education': 'Fellowship, Vascular and Interventional Radiology, 2005 - 2006', 'idx_scraper_list': 1199}
+{'NPI': 1033147657, 'institution': 'University of Wisconsin Hospitals and Clinics', 'education': 'Fellowship, Thoracic Surgery, 1992 - 1994', 'idx_scraper_list': 1199}
+{'NPI': 1033147657, 'institution': 'Dartmouth-Hitchcock/Mary Hitchcock Memorial Hospital', 'education': 'Residency, Surgery, 1987 - 1992', 'idx_scraper_list': 1199}
+{'NPI': 1033147657, 'institution': 'University of Virginia Medical Center', 'education': 'Internship, Transitional Year, 1986 - 1987', 'idx_scraper_list': 1199}
+{'NPI': 1033147657, 'institution': 'University of Arizona College of Medicine-Tucson', 'education': 'Class of 1986', 'idx_scraper_list': 1199}
